@@ -1,0 +1,126 @@
+{
+  "tokenId": "42",
+  "name": "Dead Duck #42",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/42.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Big Yoke Center",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Sk8rs Fishies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Shadow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Bloody",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling 'Bubbles' Malone was a lab experiment gone right... or horribly wrong, depending on who you ask. Bred for resilience in toxic conditions, Bubbles escaped the Subchain City labs only to discover the outside world was even worse than anticipated. Now he uses his unique abilities to survive the endless scramble for DRIP.",
+    "class": "Infiltrator",
+    "name": "Hatchling 'Bubbles' Malone",
+    "personality": "Quietly menacing, Bubbles lets his actions speak louder than his muted beak. He's unnervingly calm under pressure, his T-100 eyes never betraying his intentions. Has a sardonic wit beneath the bubblegum exterior; only reveals it when absolutely necessary... or when mocking the freshly deceased.",
+    "specialAbility": {
+      "description": "Utilizing his Hatchling Bubblegum resilience, Bubbles can temporarily shrug off the debilitating effects of environmental hazards (radiation, toxic sludge, etc.) allowing him to bypass obstacles or gain advantageous positioning during raids. The Blood Stained Hood adds another layer of deception by camoflauging Bubbles, allowing for better infiltration.",
+      "name": "Toxic Skin Shed"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Big Yoke Center",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Fishies",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Bloody",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:42:07.765Z"
+  }
+}

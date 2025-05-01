@@ -1,0 +1,126 @@
+{
+  "tokenId": "180",
+  "name": "Dead Duck #180",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/180.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Sakos Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Prison Strips",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Bubbles was hatched in the Sakos Lair, a place where tech and chaos collide. From an early age, he learned to scavenge and tinker with discarded tech. After a disastrous DRIP raid left him with dead eyes and a thirst for revenge, he vowed to outfit himself with the best gear possible.",
+    "class": "Tinker-Tech Raider",
+    "name": "Bubbles 'Dead-Eye' Bubblybottom",
+    "personality": "Bubbles is morbidly curious, often disassembling functional equipment just to see how it works. He's also pathologically greedy for DRIP, willing to risk life and limb for a chance at a score. In private, he is surprisingly sentimental and is known to hoard broken toys.",
+    "specialAbility": {
+      "description": "Unleashes a cloud of noxious gas from his Gasser Mudder, slowing enemies and dealing damage over time. Effective in choke points and for disrupting enemy formations.",
+      "name": "Plague Cloud"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Sakos Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Prison Strips",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:31:19.423Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "155",
+  "name": "Dead Duck #155",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/155.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Pedros Watching",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Head",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Cracked Beaks, or 'Crackers' as he's known in Subchain City, isn't just another bone-dry quacker. He clawed his way up from the ruins of Pedro's Watching, scavenging for scraps and dealing in data. He witnessed the collapse of the old web, and now, he's determined to protect the little DRIP that's left.",
+    "class": "Data Broker",
+    "name": "Cracked Beaks",
+    "personality": "Cynical but Pragmatic: Crackers has seen too much to trust easily, but he's always looking for an angle. Resourceful and Adaptable: Years of scavenging have made him a master of improvisation. Unassuming: Despite his skills, he prefers to blend into the background, observing and planning.",
+    "specialAbility": {
+      "description": "Crackers can tap into encrypted network nodes and leech DRIP directly and covertly from his flock during a raid. The amount siphoned is small initially, but increases with range and time",
+      "name": "DRIP Siphon"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Pedros Watching",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Head",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:27:47.104Z"
+  }
+}

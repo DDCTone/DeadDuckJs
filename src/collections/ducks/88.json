@@ -1,0 +1,126 @@
+{
+  "tokenId": "88",
+  "name": "Dead Duck #88",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/88.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Growl Bikes Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Water Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Kicks-Static",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Odins-Hammer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Vice Grip",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff of Subchain City, 'Gridlock' Gristle was raised in the underbelly of the Growl Bikes Garage, learning to scrap and hustle. He witnessed the brutal struggle for DRIP early on, shaping his hard demeanor and drive to control his own destiny. The Scorchshieds Toxic face covering has blocked out the pain, the grid eyes are wired to his bike.",
+    "class": "Biker Enforcer",
+    "name": "Gridlock Gristle",
+    "personality": "Ruthless: Gridlock doesn't hesitate to get his flippers dirty, especially when DRIP is on the line. Resourceful: Growing up in the Garage, he can MacGyver his way out of almost any situation. Intimidating: His sheer size and Vice Grip-clad beak are enough to make most ducks think twice.",
+    "specialAbility": {
+      "description": "Gridlock slams Odin's Hammer (his namesake energy weapon) down on the ground, creating a shockwave. Every enemy in a short radius receives damage; every enemy in a longer radius is slowed for 1 turn as their blockchain connection falters.",
+      "name": "Mudder Shock"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Growl Bikes Garage",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Water Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Static",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Odins-Hammer",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Vice Grip",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:10:39.089Z"
+  }
+}

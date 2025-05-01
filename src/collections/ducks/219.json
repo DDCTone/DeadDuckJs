@@ -1,0 +1,126 @@
+{
+  "tokenId": "219",
+  "name": "Dead Duck #219",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/219.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Hazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_To-Kill-Ya",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the toxic runoff of the old Flocker Toxic factories, 'ShockHazard' learned to navigate the hazardous underbelly of Subchain City. The stage diving days are behind him but he held onto some momentoes - now he uses his intimate knowledge of the city's hidden passages and knack for surviving the mosh pit for more nefarious purposes.",
+    "class": "Hazardous Recon",
+    "name": "ShockHazard",
+    "personality": "Irreverent and resourceful, ShockHazard has a dark sense of humor. He's always looking for an angle, and while he'll work with a flock, trust isn't exactly his strong suit. He has an almost morbid fascination with electricution.",
+    "specialAbility": {
+      "description": "Once per encounter ShockHazard can emit an EMP blast, disabling enemy tech for a short time and disorienting nearby ducks. This requires drinking from the tequila bottle he carries, though the older the bottle, the more erratic the power can be.",
+      "name": "Tequila Surge"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Hazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "To-Kill-Ya",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Yokey",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:36:48.109Z"
+  }
+}

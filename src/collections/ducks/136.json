@@ -1,0 +1,126 @@
+{
+  "tokenId": "136",
+  "name": "Dead Duck #136",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/136.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Call Cantina",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Cyber",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Bled",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Last Call Cantina, Glitchclaw escaped a life of serving watered-down DRIP to biker gangs by developing an uncanny knack for manipulating archaic gaming rigs. Whispers say he traded his soul (or what was left after Subchain rot) for a legendary controller that can interface with the very fabric of the blockchain.",
+    "class": "Controller",
+    "name": "Glitchclaw",
+    "personality": "Glitchclaw is a nervous, twitchy sort, constantly fiddling with his controller and muttering about lag spikes and corrupted packets. He's intensely loyal to his flock, though, and will unleash digital hell on anyone who threatens them. A surprising amount of empathy hides underneath the abrasive exterior.",
+    "specialAbility": {
+      "description": "Glitchclaw can temporarily rewrite the code of a targeted enemy unit, scrambling their controls and causing them to attack their own squad or move erratically for a short duration. Highly effective against coordinated assaults but drains DRIP rapidly.",
+      "name": "Reality Glitch"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 30
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Call Cantina",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Cyber",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Bled",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:25:09.932Z"
+  }
+}

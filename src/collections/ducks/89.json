@@ -1,0 +1,126 @@
+{
+  "tokenId": "89",
+  "name": "Dead Duck #89",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/89.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Ashocks Shadow Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Duck Smiter",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers follow Kranky's wake in the underbelly of Subchain City, tales of a duck driven by loss. The Blood Stained Shirt is a constant reminder of the flock he failed, a burden he carries as he seeks vengeance and DRIP.",
+    "class": "Revenant",
+    "name": "Kranky",
+    "personality": "Brooding and vengeful. Kranky rarely speaks, but his actions scream of a thirst for revenge against the Null Beaks that wiped out his flock. Resourceful and observant, he uses the shadows and discarded tech of Subchain City to his advantage, turning the enemy's trash into his treasure. He's also surprisingly lucky.",
+    "specialAbility": {
+      "description": "Utilizing the shadows of the Ashocks Shadow Lair, Kranky momentarily disappears, reappearing behind an enemy to deliver a devastating blow with his Duck Smiter.",
+      "name": "Shadow Strike"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 80,
+      "strength": 90
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Ashocks Shadow Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Duck Smiter",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:11:13.702Z"
+  }
+}

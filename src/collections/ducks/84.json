@@ -1,0 +1,126 @@
+{
+  "tokenId": "84",
+  "name": "Dead Duck #84",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/84.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Leftovers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Parasite",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Quackless",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the shadow of Old Subchain City, 'Glitch' grew up scavenging for scraps, always one step ahead of the Rust Riders. The mysterious parasites in his eyes occasionally grant him visions of unclaimed DRIP stashes, making him both valuable and a target.",
+    "class": "Scavenger",
+    "name": "Glitch",
+    "personality": "Glitch is cautiously optimistic, given his tough upbringing. He is generous with his finds, offering shares of DRIP in exchange for companionship. However, he's deeply distrustful of authority, preferring to operate independently.",
+    "specialAbility": {
+      "description": "Glitch temporarily enhances his sight, gaining intel on enemy positions and DRIP caches within a limited radius. His parasite eyes cause a brief stun to enemies that get within 5 feet of him when he activates his ability.",
+      "name": "Parasite's Glimpse"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 85,
+      "strength": 40
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Leftovers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Parasite",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Quackless",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:09:13.212Z"
+  }
+}

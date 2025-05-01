@@ -1,0 +1,126 @@
+{
+  "tokenId": "420",
+  "name": "Dead Duck #420",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/420.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Rubbers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Navy",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Heart Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Salivator",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the grimy alleys of Street Rubbers Roost, Quacksmack learned the hard way that DRIP doesn't come easy. He scrapped for every byte he could get, often resorting to ",
+    "class": "Brawler",
+    "name": "Quacksmack",
+    "personality": "Ruthless and opportunistic, Quacksmack sees every interaction as a transaction. Cold and calculating, but underneath that exterior, he holds a strange loyalty to his flock and a soft spot for abandoned drone parts - he's still got some heart left despite Subchain City's best efforts.",
+    "specialAbility": {
+      "description": "Unleashes a flurry of blows with his knuckle-duster, dealing massive damage to a single target and potentially stunning them.",
+      "name": "Knuckle Sandwich"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 60,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Rubbers Roost",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Navy",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Heart Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Salivator",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Bubblegum",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:04:57.299Z"
+  }
+}

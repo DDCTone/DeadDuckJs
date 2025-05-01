@@ -1,0 +1,126 @@
+{
+  "tokenId": "434",
+  "name": "Dead Duck #434",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/434.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Luchadas",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Shadow DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Hot Head",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bland Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the frigid wastelands beyond Subchain City, Coldsnap learned early that only the shrewd survive. He clawed his way up from scavenging for scraps to running small-time DRIP rackets, always one step ahead of the Enforcer Ducks.",
+    "class": "Cryo-Hustler",
+    "name": "Coldsnap",
+    "personality": "Calculating: Coldsnap is always assessing risk and reward, carefully planning his moves to maximize DRIP gains. Ruthless: He won't hesitate to stiff a friend or foe to get what he wants. Flashy: Coldsnap likes to flaunt his gear and DRIP, but is always aware of drawing too much attention.",
+    "specialAbility": {
+      "description": "Coldsnap freezes a single target, temporarily reducing their agility and DRIP production",
+      "name": "Deep Freeze Deception"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 70,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Luchadas",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Shadow DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Hot Head",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bland Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:06:29.625Z"
+  }
+}

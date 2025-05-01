@@ -1,0 +1,126 @@
+{
+  "tokenId": "237",
+  "name": "Dead Duck #237",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/237.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duck Billit",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_To-Kill-Ya",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Warden hails from the deepest, sketchiest corner of Subchain City. He was orphaned young, and has the haunted look of someone who has seen too many 'accidental' Drip spills. All that's left to lose now is all that's left to live for.",
+    "class": "Mercenary",
+    "name": "Warden 'Blind Justice' Mallard",
+    "personality": "Warden is Cynical, Pragmatic, and Wrathful. Cynical because he's seen the worst of Subchain City. Pragmatic because sentimentality doesn't fill your belly in the wasteland. Wrathful because he remembers every slight, every betrayal, and every drop of spilled DRIP.",
+    "specialAbility": {
+      "description": "Once per raid, Warden can activate 'Vengeance Strike'. For the next two turns, all successful attacks against him are automatically countered at double damage.",
+      "name": "Vengeance Strike"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 45,
+      "luck": 30,
+      "strength": 75
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duck Billit",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "To-Kill-Ya",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:39:10.487Z"
+  }
+}

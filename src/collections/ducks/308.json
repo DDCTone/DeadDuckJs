@@ -1,0 +1,126 @@
+{
+  "tokenId": "308",
+  "name": "Dead Duck #308",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/308.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Dia De Drinks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Scabs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_DDC Trucker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Static Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the ruins of the 'Dia De Los Drinks' bar, Static Peck lived most of his life scavenging for scraps and avoiding the dreaded 'Drip Collectors.' His knack for tinkering and chilling drinks into powerful weapons made him a valuable, but feared, member of the local flock.",
+    "class": "Cryo-Tinkerer",
+    "name": "Static Peck",
+    "personality": "Cynical: Years in the wasteland have made him jaded, always expecting the worst. Resourceful: Static can fix or build almost anything from scrap. Unpredictable: His inventions are as likely to backfire as they are to save the day.",
+    "specialAbility": {
+      "description": "Static Peck can flash freeze a small area, creating a patch of ice that slows enemies by 50% for 3 turns and has a chance to cause the 'Frozen' status effect.",
+      "name": "Cryo-Blast"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Dia De Drinks",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Scabs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "DDC Trucker",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Static Peck",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:48:56.019Z"
+  }
+}

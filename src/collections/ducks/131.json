@@ -1,0 +1,126 @@
+{
+  "tokenId": "131",
+  "name": "Dead Duck #131",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/131.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blasted",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Cyber",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Noble Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Dusty \"Knuckles\" McDuckington wasn't always bone dry. Before the Great Liquidity Crash, he was a high-roller, spending DRIP faster than a leaky faucet. Now, haunted by wraiths of his past, he wanders Subchain City, controller in hand, searching for redemption... or at least a functioning charger.",
+    "class": "Controller",
+    "name": "Dusty \"Knuckles\" McDuckington",
+    "personality": "Haunted and cynical, Dusty masks his regrets with sardonic humor. Though he presents a gruff exterior, a flicker of his former generosity sparks when he sees a fellow duck in need, especially if they're rocking some sweet sk8r socks.",
+    "specialAbility": {
+      "description": "Wraith Tether: Knuckles can briefly summon spectral Mud Jorts to entangle an enemy, reducing their agility and strength for a short duration, buying his flock precious time to escape or re-position.",
+      "name": "Wraith Tether"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blasted",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Cyber",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Noble Peck",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Shadow",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:23:32.961Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "339",
+  "name": "Dead Duck #339",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/339.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Wrecked Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Starburst",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Smack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Whackers",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the toxic smog of Subchain City's underbelly, Static has seen it all. The Vesper Hazard crown is a relic from the Old World, a reminder of the chaos and radiation that shaped his life.",
+    "class": "Riot Medic",
+    "name": "Static",
+    "personality": "Rebellious and resourceful, Static uses his knowledge of the wastelands and scavenged gear to patch up his flock after skirmishes. Despite the bleak surroundings, he maintains a dark sense of humor, often cracking gallows jokes to lighten the mood.",
+    "specialAbility": {
+      "description": "\"Chain Reaction\": Static can jury-rig a temporary shield from scrap metal and static electricity, absorbing damage and potentially stunning nearby enemies with an EMP burst.",
+      "name": "Chain Reaction"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Wrecked Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Starburst",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Smack Pants",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Whackers",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Hazard",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:52:55.465Z"
+  }
+}

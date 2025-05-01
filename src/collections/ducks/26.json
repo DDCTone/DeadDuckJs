@@ -1,0 +1,126 @@
+{
+  "tokenId": "26",
+  "name": "Dead Duck #26",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/26.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Brokeland",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Ripped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duckie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic swamps of Old Brokeland, Sk8r Boi spent his early hatchling days dodging Scrapdragons and scavenging for discarded microchips. The Cryo Scorchshields are a reminder of a close call with a malfunctioning coolant system, but now he uses his sharp Sk8rs to shred through anything, and he's ready to do whatever it takes to get some DRIP.",
+    "class": "Scavenger",
+    "name": "Sk8r Boi",
+    "personality": "Grim but hopeful. Sk8r Boi is haunted by the past, but he maintains a dry sense of humor and a surprising amount of optimism. Despite the wasteland, he trusts that there's a better tomorrow if he and his crew can survive long enough to see it. Loyal to a tee, unless double-crossed.",
+    "specialAbility": {
+      "description": "With a burst of speed from his Sk8rs, Sk8r Boi dashes through the battlefield, leaving a trail of slippery toxic ooze that slows down enemies and deals minor damage over time. It can be used to get out of trouble, or to set a trap on the battlefield.",
+      "name": "Toxic Shred"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 40,
+      "luck": 60,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Brokeland",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Ripped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duckie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:17:17.393Z"
+  }
+}

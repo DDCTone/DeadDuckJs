@@ -1,0 +1,126 @@
+{
+  "tokenId": "144",
+  "name": "Dead Duck #144",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/144.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Leftovers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Toxic",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Bled",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "BONE-Z was frozen solid in Cryo-Storage Unit 7, Sector D for crimes against the Flocking Council after he allegedly tried to organize a strike. Now thawed out and dusted off, the first thing he did was snatch his old Shadow Sleaved undershirt and his trusty Slackpack and find his old Sk8rs, then he returned to gaming and DRIP rustling, not necessarily in that order.",
+    "class": "Controller/Hacker",
+    "name": "BONE-Z",
+    "personality": "Sarcastic, rebellious, and surprisingly chill for a duck that's been frozen for who-knows-how-long. Due to not caring, he is a skilled negotiator and is good at avoiding direct combat and coming out on top due to his controller skills.",
+    "specialAbility": {
+      "description": "BONE-Z throws the controller Toxic DDC, temporarily distracting enemy units by forcing them to play an unwinnable game until they run out of DRIP for repairs and energy.",
+      "name": "Controller Chaos"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 55,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Leftovers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Bled",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:26:16.697Z"
+  }
+}

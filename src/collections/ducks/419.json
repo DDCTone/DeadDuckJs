@@ -1,0 +1,126 @@
+{
+  "tokenId": "419",
+  "name": "Dead Duck #419",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/419.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Ashocks Shadow Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Beat Down Boots",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Degen-Jacket",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-01",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Pond",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Scrapper grew up in Ashock's Shadow Lair, scavenging for scraps and trading them for contaminated DRIP. The T-100 eyes aren't just for show; they helped him spot valuable tech amidst the wasteland's gloom, making him a surprisingly wealthy duck.",
+    "class": "Tech Scavenger",
+    "name": "Scrapper",
+    "personality": "Cunning: Always looking for the best deal, even if it means bending the rules. Resourceful: Can MacGyver anything out of junk, especially if it involves DRIP extraction. Jaded: The wasteland has worn him down, but he secretly still hopes for a better future (perhaps filled with less mud).",
+    "specialAbility": {
+      "description": "Using his scavenged tech, Scrapper can temporarily boost his team's DRIP extraction rate by 25% for one turn. The boost decays by 5% per turn after that.",
+      "name": "Tech Tap"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 70,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Ashocks Shadow Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Beat Down Boots",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Degen-Jacket",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-01",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Pond",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:04:50.812Z"
+  }
+}

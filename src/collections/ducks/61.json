@@ -1,0 +1,126 @@
+{
+  "tokenId": "61",
+  "name": "Dead Duck #61",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/61.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Guvnas Gate",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Cyber",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Fracture Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff beneath Street Guvnas Gate, 'Glitch' spent their early days scavenging for discarded tech. A faulty controller implant granted Glitch an uncanny ability to manipulate nearby automated systems, but the toxins are slowly corroding their body.",
+    "class": "Technomancer",
+    "name": "Glitch",
+    "personality": "Glitch is cynical and sarcastic, hiding their fear of decay behind a tough exterior. They also possess a hidden soft spot for broken gadgets and a desperate hope for a Subchain City free of the DRIP wars.",
+    "specialAbility": {
+      "description": "Glitch can temporarily override enemy drones and turrets, turning them against their masters. The effect lasts for 3 turns, or until the affected unit takes any damage.",
+      "name": "System Hack"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Guvnas Gate",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Cyber",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Fracture Beak",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:01:38.060Z"
+  }
+}

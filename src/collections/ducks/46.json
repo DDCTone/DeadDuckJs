@@ -1,0 +1,126 @@
+{
+  "tokenId": "46",
+  "name": "Dead Duck #46",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/46.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Hatchers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Beak Breaker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers say he hatched from a shadow, left outside the Last Sip bar, abandoned in the toxic wasteland. Found and raised by the bar's grizzled owner, One-Eyed Sal, he learned to fight dirty and hustle harder, all while dodging the toxic runoff that plagued Subchain City.",
+    "class": "Vigilante",
+    "name": "Shade",
+    "personality": "Brooding and Resourceful: Shade doesn't waste words, preferring action. He's always calculating the odds and looking for an angle. Loyal (to a fault): Those who earn his trust have a friend for life, but betrayal earns you a \"Beak Breaker\" to the face.",
+    "specialAbility": {
+      "description": "Shade disappears into nearby patches of shadow for a short duration, becoming untargetable and gaining increased movement speed. He emerges with a toxic strike, poisoning his target.",
+      "name": "Shadow Hide"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Hatchers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Beak Breaker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:59:37.418Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "430",
+  "name": "Dead Duck #430",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/430.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Sakos Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_DDC-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers follow Binary Bill through the neon-lit depths of Subchain City. Said to be a former crypto mogul who lost it all in the Great Liquidity Crisis, Bill now uses his arcane knowledge to sniff out vulnerabilities in DRIP vaults. Surviving only with the secrets he can still pluck from the blockchain.",
+    "class": "Netrunner",
+    "name": "Binary Bill",
+    "personality": "Paranoid and calculating, Bill trusts no one, especially not other ducks. Obsessed with digital security, he encrypts even his own thoughts, muttering about exploits and Byzantine fault tolerance. But beneath the twitchy exterior lies a sharp mind, capable of unraveling complex code and predicting market movements.",
+    "specialAbility": {
+      "description": "Bill can inject a 'DRIP Bomb' into an enemy's wallet, causing them to temporarily lose all their DRIP or transfer it to his team. There's a luck-based chance related to the level of the enemy and his stats to determine if Bill's hack passes through unaffected.",
+      "name": "DRIP Bomb"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 72,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Sakos Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "DDC-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:06:02.951Z"
+  }
+}

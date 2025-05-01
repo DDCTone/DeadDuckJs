@@ -1,0 +1,126 @@
+{
+  "tokenId": "188",
+  "name": "Dead Duck #188",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/188.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Enjoyed Silence",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling Hazard, or 'Hatch' as he's known by his few associates, grew up scavenging in the ruins of old Subchain City. The Hazard Marks across his body are not merely cosmetic; each one represents a close call with the territorial bots protecting old liquidation pools. He's a survivor, through and through.",
+    "class": "Bruiser",
+    "name": "Hatchling Hazard",
+    "personality": "Cynical: Hatch has seen too much of Subchain City's underbelly to trust anyone easily. Resourceful: Growing up in the wastes taught him how to make do with scraps, and he can MacGyver his way out of most jams. Brutally Honest: There's no room for sugar-coating in the fight for DRIP; Hatch tells it like it is, consequences be damned.",
+    "specialAbility": {
+      "description": "Hatch slams his Waddle Maker hands onto his opponent's beak stunning them for 2 turns as well as dealing a small amount of physical damage.",
+      "name": "Stompyshock"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 40,
+      "luck": 60,
+      "strength": 75
+    },
+    "rarity": "Common",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Enjoyed Silence",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:32:30.591Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "387",
+  "name": "Dead Duck #387",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/387.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Yokey",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Noble Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found amidst the skeletal remains of the 'Bldg Last Sip,' Cipher was once a data courier before the DRIP wars turned Subchain City into a digital graveyard. Now, he scavenges for lost algorithms, haunted by fragmented memories of a pre-collapse society.",
+    "class": "Technomancer",
+    "name": "Cipher",
+    "personality": "Brooding and analytical, Cipher trusts no one, seeing betrayal coded into everyone's behavior. Despite his cynicism, he possesses a morbid curiosity for salvaged tech, a relic of his past life.",
+    "specialAbility": {
+      "description": "Cipher can temporarily overload enemy AI with corrupted data, stunning them for a short period and leaving them vulnerable to attack. It's a risky maneuver, as the feedback can damage his own system.",
+      "name": "Data Corruption"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 32,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Yokey",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Noble Peck",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:58:58.829Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "393",
+  "name": "Dead Duck #393",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/393.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Rust In Pieces",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants White",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Shadow Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Odins-Hammer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic swamps outside Subchain City, Gnash spent his hatchling days scavenging for scraps and DRIP. He learned early that survival meant being tougher and smarter than the other bottom-feeders. He now uses his mechanical skills to keep his hammer in top shape and smash anyone in his way.",
+    "class": "Mechanized Melee",
+    "name": "Gnash 'The Geargrinder' Greeneyes",
+    "personality": "Gnash is brutally pragmatic and suspicious of anyone who isn't coated in grease and grime. Despite his gruff exterior, he is fiercely loyal to his flock and will stop at nothing to protect them. He also has a soft spot for fixing broken machinery, finding beauty in the discarded remains of the old world.",
+    "specialAbility": {
+      "description": "Gnash slams Odins-Hammer into the ground, creating a shockwave that damages nearby enemies and temporarily stuns mechanical units, disrupting their targeting systems.",
+      "name": "Hammer Shock"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 70,
+      "luck": 40,
+      "strength": 90
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Rust In Pieces",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants White",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Shadow Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Odins-Hammer",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Plagued",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:59:57.373Z"
+  }
+}

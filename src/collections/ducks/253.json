@@ -1,0 +1,126 @@
+{
+  "tokenId": "253",
+  "name": "Dead Duck #253",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/253.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Building_Flow Below",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Punk",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Quackie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a data runner for the infamous 'Feathercomm' network, Glitch's brain was fried during a hostile takeover. Now, haunted by fragmented code and fueled by cheap synth-Drip, he seeks revenge on those who bricked his perfect world.",
+    "class": "Cyberpunk Ronin",
+    "name": "Glitch",
+    "personality": "Paranoid, unpredictable, and strangely sentimental. Glitch trusts no one, seeing conspiracies around every corner. However, he carries a tattered Quackie plush; a relic from his past, which he guards fiercely, showing a flicker of the duck he once was.",
+    "specialAbility": {
+      "description": "Glitch can tap into his old Feathercomm protocols, scrambling enemy targeting systems and causing temporary glitches in their AI. Effective but drains his already limited Drip reserves.",
+      "name": "Data Hack"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 35,
+      "strength": 40
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Building Flow Below",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Punk",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Quackie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:41:33.242Z"
+  }
+}

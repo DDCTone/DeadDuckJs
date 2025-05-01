@@ -1,0 +1,126 @@
+{
+  "tokenId": "101",
+  "name": "Dead Duck #101",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/101.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Iron Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hailing from Sector 7, once known for its artisanal coffee, now just burnt ruins, 'Bean' grew up scavenging for tech scraps and DRIP. The constant loss of flockmates hardened him, leading him to seek retribution against those hoarding the precious resource.",
+    "class": "Tech Scavenger",
+    "name": "Bean 'Iron Bite' Scrapper",
+    "personality": "Cynical and resourceful, Bean trusts few and always looks out for number one. Despite his hardened exterior, he holds a strong sense of loyalty to those who have earned his trust, risking it all even if it means a higher chance of failure. He is very observant and always looking for the next way to survive another day.",
+    "specialAbility": {
+      "description": "Using his cybernetic enhancements and scavenging skills, Bean can temporarily boost his hacking skills to bypass enemy security measures and pilfer extra DRIP from digital caches.",
+      "name": "Digital Extraction"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 80,
+      "luck": 35,
+      "strength": 60
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Iron Bite",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:14:33.545Z"
+  }
+}

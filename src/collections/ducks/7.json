@@ -1,0 +1,126 @@
+{
+  "tokenId": "7",
+  "name": "Dead Duck #7",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/7.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Crawler Space",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Water Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Whackers",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Dropkicker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Locked Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic swamps on the edge of Subchain City, Wacker was raised in a family of scrappers. They made their living salvaging tech and gear from the ruins of the old world, always one step ahead of the rival gangs. One fateful day, while salvaging a cache of locked jaw beaks, their camp was raided, leaving Wacker the only survivor.",
+    "class": "Riot Enforcer",
+    "name": "Wacker 'Jawlock' Jake",
+    "personality": "Grit: Jawlock is as tough as they come, able to withstand physical and mental punishment that would break lesser ducks. Vigilant: Paranoid and always on alert, Jawlock trusts no one, as everyone is out to relieve you of your DRIP. Stubborn: He is hard to convince.",
+    "specialAbility": {
+      "description": "Jawlock unleashes a flurry of blows with his tricked-out 'Whackers,' dealing extra damage and stunning the enemy for one turn. The 'Whackers' are tipped in toxic waste, dealing minor damage over time.",
+      "name": "Toxic Beatdown"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Crawler Space",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Water Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Whackers",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "El Dropkicker",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Locked Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:15:37.817Z"
+  }
+}

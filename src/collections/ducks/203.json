@@ -1,0 +1,126 @@
+{
+  "tokenId": "203",
+  "name": "Dead Duck #203",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/203.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hangout_Snailers Hut",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Greeen",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Hot Head",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Shatter Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Snailer's Hut, 'Cyro' spent his hatchling years scavenging scraps and outrunning rival gangs. The streets hardened him, but his quick wit and nimble feet kept him alive, eventually earning him a reputation as a resourceful fixer and a nightmare to anyone who crossed him.",
+    "class": "Vigilante",
+    "name": "Cyro",
+    "personality": "Cunning and ruthless, Cyro is always looking for an angle. He's fiercely loyal to his flock, but trust is a luxury he can't afford with outsiders. Despite his hardened exterior, he's got a soft spot for anyone who's been kicked to the curb.",
+    "specialAbility": {
+      "description": "Cyro encases his shatter fangs in a temporary case of cryo tech enhancing damage by 3x for one strike. Can be used once every 3 turns",
+      "name": "Shatter Fang Cold Snap"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 70,
+      "luck": 60,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hangout Snailers Hut",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Greeen",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Hot Head",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Shatter Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Cryo",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:34:30.894Z"
+  }
+}

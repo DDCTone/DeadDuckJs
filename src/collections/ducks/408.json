@@ -1,0 +1,126 @@
+{
+  "tokenId": "408",
+  "name": "Dead Duck #408",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/408.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smokestack Jacks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Navy",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Ske8rs Tatted",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Shadow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a notorious street racer known as \"Nitro,\" this duck's body was ravaged by a DRIP-fueled explosion during a high-stakes race in Sector 7. Now, he's rebuilt himself, fueled by vengeance and the thrill of the underground Drip circuit. They say he's part machine now, scavenging parts from anywhere he can find them.",
+    "class": "Mechanized Scavenger",
+    "name": "Wrench Rot",
+    "personality": "Gritty and cynical, Wrench Rot trusts no one, his drawl often ending with dark humor. He is resourceful, fixing or building anything with what he can find, and driven to find every last drop of DRIP due to his need to continually upgrade his body. He's also secretly sentimental, protecting those who can't protect themselves in old Subchain City.",
+    "specialAbility": {
+      "description": "Wrench Rot can instantly repair 20 points of armor on himself or an adjacent ally, using salvaged parts and sheer grit. This ability has a cooldown of 3 turns but can be crucial in a pinch.",
+      "name": "Salvage Patch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smokestack Jacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Navy",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": " Ske8rs Tatted",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:03:35.570Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "161",
+  "name": "Dead Duck #161",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/161.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Degens Den",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Aqua",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Talons Edge",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Ninja-Star",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the depths of the Hideout Degens Den, Glitch spent his early days scavenging for scraps of tech and discarded DRIP. The plague mask and ring-enhanced eyes are a testament to his many close calls with Subchain City's various digital and biological plagues. Now, he's a nimble operator, flitting through the digital landscape, seeking the ultimate payday.",
+    "class": "Cyber Ninja",
+    "name": "Glitch",
+    "personality": "Glitch is usually taciturn- preferring the silent approach. He is paranoid and has a wicked sense of irony - often making light of the dire circumstances Subchain City finds themselves in. Despite his seemingly callous exterior, he has a soft spot for the underdog and will occasionally go out of his way to help those in need.",
+    "specialAbility": {
+      "description": "Glitch throws a digital Ninja-Star, that with a moderate chance, can disrupt the enemy's network, preventing them from using abilities for a turn. The 'Corrupted Throw' ability is powered by concentrated Degen Ether.",
+      "name": "Corrupted Throw"
+    },
+    "stats": {
+      "agility": 92,
+      "intelligence": 78,
+      "luck": 65,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Degens Den",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Aqua",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Talons Edge",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Ninja-Star",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Plagued",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:28:41.239Z"
+  }
+}

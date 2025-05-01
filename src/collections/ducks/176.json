@@ -1,0 +1,126 @@
+{
+  "tokenId": "176",
+  "name": "Dead Duck #176",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/176.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blasted",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Puffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Cheeky",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wrench was found as a hatchling amidst the rubble of a collapsed concert venue in Subchain City. Raised by a pack of feral roadie-ducks, he learned to scavenge, scrap, and smash his way through life.",
+    "class": "Scrapper",
+    "name": "Wrench",
+    "personality": "Cynical and resourceful, Wrench approaches every problem with a mix of pessimism and ingenuity. He hoards seemingly useless junk, convinced it will be valuable someday, and he's always ready with a sarcastic quip.",
+    "specialAbility": {
+      "description": "Wrench can temporarily overcharge his Nest Smasher, dealing bonus damage to mechanical enemies and structures. This provides a burst of damage useful for taking down turrets or heavily armored foes.",
+      "name": "Junk-Powered Smash"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 55,
+      "luck": 40,
+      "strength": 75
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blasted",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Puffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheeky",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:30:45.377Z"
+  }
+}

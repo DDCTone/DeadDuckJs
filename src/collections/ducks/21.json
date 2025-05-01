@@ -1,0 +1,126 @@
+{
+  "tokenId": "21",
+  "name": "Dead Duck #21",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/21.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Building_Flow Below",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Sk8rs Fishies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Locked Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the murky depths of the Flow Below, 'Jawbone' Jimmy scavenged for scraps amongst the rusted relics of the old world. He saw his flock torn apart by roaming gangs which hardened him with unwavering resolve to acquire 'DRIP' by any means necessary. The Gasser he carries is a reminder of lost friends and a future fueled by vengeance.",
+    "class": "Gearhead Raider",
+    "name": "Jawbone Jimmy",
+    "personality": "Ruthless and resourceful, Jimmy's locked jaw is a permanent testament to a close call with a rival gang. He's a pragmatic survivor, always calculating the odds, and favors direct action over flowery words.",
+    "specialAbility": {
+      "description": "Jimmy drains a small amount of DRIP from a targeted location, increasing his squad's available action points for one turn. The stolen DRIP temporarily weakens the target's defenses.",
+      "name": "DRIP Siphon"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Building Flow Below",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Fishies",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Locked Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:50.540Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "335",
+  "name": "Dead Duck #335",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/335.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duster Dungeon",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Ske8rs Tatted",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Punk",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Ion Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of a scrapped war rig in Duster's Dungeon, 'Rebel' was nick-named for his refusal to join the Flocks. He spent his early days scavenging parts and dodging rogue bots, learning to survive on the fringes of Subchain City.",
+    "class": "Rogue Mechanic",
+    "name": "Rebel Rust",
+    "personality": "Rebel is fiercely independent, distrustful of large groups after witnessing too many DRIP disputes turn violent. He's got a wry sense of humor, often making dark jokes to cope with the bleakness of his surroundings. Secretly, he's got a soft spot for the hatchlings that he protects.",
+    "specialAbility": {
+      "description": "Rebel can temporarily overload his Ion Bite beak, unleashing a concentrated burst of energy that stuns robotic enemies and temporarily disables their systems. It also applies a damage over-time effect.",
+      "name": "Ion Overload"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 65,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duster Dungeon",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Ske8rs Tatted",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Punk",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Ion Bite",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Plagued",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:52:26.871Z"
+  }
+}

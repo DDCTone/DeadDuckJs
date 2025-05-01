@@ -1,0 +1,126 @@
+{
+  "tokenId": "377",
+  "name": "Dead Duck #377",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/377.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Leftovers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow PnD Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Blood Mask",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Mudder",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the rubble of Subchain City's forgotten wing, 'Specs' spent his early days scavenging for scraps and decoding pre-collapse data caches. The Blood Mask he wears, scavenged from a long-dead raider, amplifies his natural knack for finding glitches in the system, making him a valuable asset to any flock willing to put up with his quirks.",
+    "class": "Data Scryer",
+    "name": "Specs Vermin",
+    "personality": "Eccentric and analytical, Specs sees patterns where others see chaos. He's easily distracted by shiny objects and whispers to his Void Glasses Mudder, often muttering about 'the old web' and its secrets. Despite his oddities, his loyalty (bought cheap as it may be) is unwavering.",
+    "specialAbility": {
+      "description": "Specs can tap into dormant nodes within the blockchain, revealing hidden supply caches or enemy patrol routes within a limited radius. This Intel advantage has a 75% chance of exposing the location, and a 25% chance of instead opening an exploitable loophole in enemy blockchain defenses, lowering their defence for a turn.",
+      "name": "Glimmering Intel"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 92,
+      "luck": 78,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Leftovers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow PnD Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Blood Mask",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Mudder",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:42.608Z"
+  }
+}

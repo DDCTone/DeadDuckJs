@@ -1,0 +1,126 @@
+{
+  "tokenId": "226",
+  "name": "Dead Duck #226",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/226.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Degens Den",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Web3 Boot",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cryo Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Head",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Wild Lick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the heart of the Degens Den, 'Glitch' watched the old world crumble through flickering CRT screens. The digital decay mirrored his own glitchy existence, turning him into a tech-savvy survivor scavenging for DRIP in Subchain City's underbelly.",
+    "class": "Hacker-Brawler",
+    "name": "Glitch",
+    "personality": "Cynical and Resourceful: Glitch sees the world as a series of hacks, always looking for an exploit. Erratic and Unpredictable: His movements and decisions are as glitchy as his namesake, making him hard to track and anticipate. Ruthless: Will eliminate the competition without any remorse.",
+    "specialAbility": {
+      "description": "Glitch overloads enemy gear using corrupted code, causing temporary malfunctions and stunning them for 2 turns.",
+      "name": "Cryo-Malware Burst"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 65
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Degens Den",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Web3 Boot",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cryo Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Head",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Wild Lick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:37:39.907Z"
+  }
+}

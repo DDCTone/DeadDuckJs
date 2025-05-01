@@ -1,0 +1,126 @@
+{
+  "tokenId": "446",
+  "name": "Dead Duck #446",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/446.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Luchadas",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Spiked Helm",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Ion Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ouchy",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hailing from the derelict Luchador training facility, 'Bruiser' Bonk was once a promising young contender before the DRIP wars ravaged Subchain City. Now, haunted by the ghosts of his past, he roams the wastes, smashing anything that stands between him and the next score of DRIP.",
+    "class": "Bruiser",
+    "name": "Bruiser Bonk",
+    "personality": "Aggressive, determined, and surprisingly nostalgic. Bruiser Bonk doesn't back down from a fight, smashing his way through obstacles. However, he still holds onto tattered luchador posters, a reminder of the glory days that fuels his drive.",
+    "specialAbility": {
+      "description": "Bonk charges into battle, delivering a devastating blow with his Nest Smasher, dealing increased damage and stunning the target. The force of the blow can temporarily weaken the target's defenses.",
+      "name": "Ion Hammer Knockout"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 30,
+      "luck": 60,
+      "strength": 90
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Luchadas",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Spiked Helm",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Ion Bite",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Ouchy",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:07:50.273Z"
+  }
+}

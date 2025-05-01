@@ -1,0 +1,126 @@
+{
+  "tokenId": "24",
+  "name": "Dead Duck #24",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/24.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Sk8rs Fishies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Prison Strips",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a celebrated drummer for the Subchain City's defunct punk rock band, 'The Decrypted', 'Rhythm Rot' was cryogenically frozen after a tragic mosh pit accident involving a rogue bot. Now thawed and reanimated, he's traded his gigs for DRIP raids, still clinging to the rhythm of the old world.",
+    "class": "Support/Breaker",
+    "name": "Rhythm Rot",
+    "personality": "Cynical but oddly optimistic. Rhythm Rot maintains a deadpan delivery even in the face of crumbling infrastructure. Holds a soft spot for the remnants of musical culture.",
+    "specialAbility": {
+      "description": "Rhythm Rot can unleash a sonic wave with his drumsticks, temporarily stunning nearby enemies and disrupting their coordinated attacks. The bubblegum amplifies his sonic attack providing a rare additional chance to stun all foes caught in the wave.",
+      "name": "Soundquake"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 70,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Fishies",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Prison Strips",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:17:05.882Z"
+  }
+}

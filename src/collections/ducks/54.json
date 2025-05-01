@@ -1,0 +1,126 @@
+{
+  "tokenId": "54",
+  "name": "Dead Duck #54",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/54.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Rubbers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-02",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Slick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Last Look",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers follow 'Specter' around Subchain City. Some say he's a ghost of a hatchling that never made it, brought back by the toxic sludge that permeates the Rubbers Roost. Others believe he's just got a knack for disappearing before the Drip hits the fan.",
+    "class": "Shadow Broker",
+    "name": "Specter",
+    "personality": "Cautious: Years spent scavenging have made Specter paranoid, always watching for betrayals. Observant: He catalogues every detail, from the cracks in the pavement to the flicker in a flipper's twitch, making him a surprisingly effective strategist. Ruthless: Drip is scarce and Specter will do what it takes to secure it, even if it means sacrificing a few feathers along the way.",
+    "specialAbility": {
+      "description": "Specter can temporarily phase out of reality, becoming untargetable for a short duration and gaining increased movement speed. This is perfect for flanking enemies or escaping sticky situations when those Flipper Kicks aren't enough.",
+      "name": "Ghost Flicker"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Rubbers Roost",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-02",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Slick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Last Look",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:00:37.386Z"
+  }
+}

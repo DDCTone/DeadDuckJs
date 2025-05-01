@@ -1,0 +1,126 @@
+{
+  "tokenId": "403",
+  "name": "Dead Duck #403",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/403.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duster Dungeon",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Deboner",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the heart of the Duster's Dungeon, Clanker grew up scavenging for scraps. His golden eyes could spot a bolt from fifty paces, and his quick hands made him a master of disassembly, much to the dismay of the Rust Riders.",
+    "class": "Gearhead Scavenger",
+    "name": "Clanker 'Cogtooth' Mallard",
+    "personality": "Resourceful: Clanker can MacGyver his way out of almost any situation with the right parts. Anxious: Always twitchy, Clanker is paranoid about running out of DRIP. Opportunistic: Never one to let a good find go to waste, he can be swayed by the promise of salvage.",
+    "specialAbility": {
+      "description": "Clanker can temporarily boost a friendly unit's DRIP collection rate by jury-rigging its systems, at the cost of potentially damaging the unit.",
+      "name": "Salvage Synergy"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 50,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duster Dungeon",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Deboner",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:03:00.936Z"
+  }
+}

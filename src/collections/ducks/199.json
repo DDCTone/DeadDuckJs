@@ -1,0 +1,126 @@
+{
+  "tokenId": "199",
+  "name": "Dead Duck #199",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/199.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Choochys Chop Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Cutoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in Choochy's Chop Shop, Wrench learned to fix anything that moved, or used to. After a scrap-heap explosion took most of his beak, he fashioned a new one from scrap metal, earning him the nickname 'Snaggle'. Now he wanders Subchain City, looking for lost tech and the perfect oil slick.",
+    "class": "Mechanic",
+    "name": "Snaggle Wrench",
+    "personality": "Cynical and resourceful, Snaggle Wrench always has a snarky comment ready, but he also knows how to keep old tech running, making him invaluable in the right situation. Despite living in a toxic wasteland, he is still willing to lend a flipper to those who need one.",
+    "specialAbility": {
+      "description": "Snaggle can jury-rig broken down support structures and vehicles using scrap parts, temporarily boosting their capabilities. For example, he can give damaged turrets +2 attack and hit points making them useful for one turn or repair a destroyed barricade. This will only last for 1 turn.",
+      "name": "Salvage Expert"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 85,
+      "luck": 45,
+      "strength": 60
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Choochys Chop Shop",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Cutoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:33:58.526Z"
+  }
+}

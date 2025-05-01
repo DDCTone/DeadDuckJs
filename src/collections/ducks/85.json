@@ -1,0 +1,126 @@
+{
+  "tokenId": "85",
+  "name": "Dead Duck #85",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/85.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Runners Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Ghost",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Crypt Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Street kid turned bone-dry wasteland wanderer, Cipher scavenged enough DRIP to trick out his flippers and learn the ways of the controller. Now he roams Subchain City, a silent ghost in the ruins, seeking the next big score for his flock.",
+    "class": "Crypt Runner",
+    "name": "Cipher Fang",
+    "personality": "Quiet and observant, Cipher lets his actions speak louder than words, often communicating through practiced gestures and carefully timed controller flicks. Beneath the hooded exterior lies a calculating mind, always assessing risks and opportunities for profit, or at least, survival. Despite the wasteland's harshness, he harbors a dark sense of humor, finding twisted amusement in Subchain City's perpetual chaos.",
+    "specialAbility": {
+      "description": "Cipher channels DRIP through his customized Sk8rs, allowing him to rapidly reposition across the battlefield, dodging attacks and flanking enemies. This ability grants temporary invulnerability and a speed boost, making him a difficult target to pin down.",
+      "name": "Ghost Skate"
+    },
+    "stats": {
+      "agility": 92,
+      "intelligence": 75,
+      "luck": 68,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Runners Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Ghost",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Crypt Fang",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:09:47.783Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "29",
+  "name": "Dead Duck #29",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/29.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Degen-Jacket",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Grit Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the radioactive rubble of Old Subchain, Zephyr's early life was spent scavenging for scraps and dodging feral bot-dogs. The Hatchling Plague that marked his body may have weakened others, but it only hardened him, making him immune to most toxins and a surprisingly agile survivor.",
+    "class": "Rogue",
+    "name": "Zephyr 'Fang' Talon",
+    "personality": "Cynical: Zephyr trusts no one, having been betrayed too many times. Resourceful: He can turn a rusty bolt into a weapon, and usually does. Unpredictable: Zephyr's mind is a maze, making him difficult to anticipate in a fight, both for enemies and allies.",
+    "specialAbility": {
+      "description": "Zephyr coats his Grit Fang Beaks in a toxin extracted from Mayhem fruit, dealing poison damage over time and potentially stunning weaker opponents. The beads on his wrists help him control the dose.",
+      "name": "Toxic Bite"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Degen-Jacket",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Grit Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:17:35.847Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "324",
+  "name": "Dead Duck #324",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/324.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Water Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Degen-Jacket",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Wing Wrecker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Dropkicker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Spawned from the depths of a cryo-chamber mishap, Riff was meant to be a lab duck, but the apocalypse had other plans. He escaped into Subchain City, finding refuge amongst the stage-diving crowd where he learned to weaponize stage dives.",
+    "class": "Brawler",
+    "name": "Riff 'Dropkick' Quackson",
+    "personality": "Aggressive: Riff solves most problems by dropkicking them. Impulsive: He jumps into action without thinking, often leading to collateral damage. Loyal: Despite his rough exterior, Riff is fiercely protective of his flock.",
+    "specialAbility": {
+      "description": "Riff launches himself (or an adjacent ally) across the battlefield, dealing AoE damage. Chance to stun enemies on impact, increased if used from high ground as his crown sends immediate feedback to his feet for a powerful, but chaotic launch.",
+      "name": "El Dropkick Launch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 30,
+      "luck": 55,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo Marked",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Water Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Degen-Jacket",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Wing Wrecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Dropkicker",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:50:58.686Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "48",
+  "name": "Dead Duck #48",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/48.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Crawler Space",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Navy",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cyro",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Muffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Splinter Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_404 Vision",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of a busted crawler, Specs grew up scavenging for parts. One wrong bottle of mystery oil and he unlocked a glitch in his perception, now seeing stats where others see squalor. He's determined to crack Subchain City's core code and find the source of the DRIP drain.",
+    "class": "Glitch Tech",
+    "name": "Specs",
+    "personality": "Eccentric: Always muttering about algorithms and seeing the world in binary code. Resourceful: Can MacGyver solutions out of scrap, turning junk into tactical advantages. Jaded: Has seen too many flocks crumble over DRIP, trusts few.",
+    "specialAbility": {
+      "description": "Specs can analyze enemy units, temporarily displaying their weaknesses and optimizing his flock's attack pattern for a bonus to hit and damage.",
+      "name": "Code Sight"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 32,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Crawler Space",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Navy",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cyro",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Muffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Splinter Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "404 Vision",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:59:51.834Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "341",
+  "name": "Dead Duck #341",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/341.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Big Yoke Center",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Rocket Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found as a hatchling scavenging in the radioactive mud flats outside Subchain City, 'Choppy' Splinterbill learned to survive by any means necessary. The streets of Big Yoke Center are his hunting grounds, and rumors whisper he's a one-duck wrecking crew when DRIP is on the line.",
+    "class": "Vigilante",
+    "name": "'Choppy' Splinterbill",
+    "personality": "Vigilant and brutal, Choppy holds a dark, unwavering dedication to protect the downtrodden of Subchain City. Stoic and suspicious, he trusts few, preferring the company of the shadows and the satisfying thud of his trusty axe on the skulls of Drip raiders.",
+    "specialAbility": {
+      "description": "Choppy vanishes into shadows, reappearing behind a chosen enemy within a 5-tile radius, dealing guaranteed critical damage with his axe. Excellent initiative action and crowd control skill.",
+      "name": "Shadow Strike"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 35,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Big Yoke Center",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Rocket Shirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Plagued",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:53:11.725Z"
+  }
+}

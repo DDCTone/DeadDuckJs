@@ -1,0 +1,126 @@
+{
+  "tokenId": "323",
+  "name": "Dead Duck #323",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/323.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Cold Meano Vinos",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Duck Smiter",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Echojacks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Molder Maw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Quacktorio, once a renowned mixologist at the 'Meano Vinos' bar, met his end during a raid gone wrong. Now, resurrected with cybernetic enhancements and fueled by a thirst for DRIP, he seeks vengeance on those who left him for dead, one flipper kick at a time.",
+    "class": "DRIP Smuggler",
+    "name": "Quacktorio 'Echo' Molder",
+    "personality": "Bitter and pragmatic. Quacktorio speaks in cryptic, echo-laden phrases, often repeating the last words of his enemies. He also has a soft spot for the remaining stock of 'Meano Vinos' vintage.",
+    "specialAbility": {
+      "description": "Quacktorio unleashes a sonic blast from his Echojacks, disorienting enemies and reducing their agility by 25% for two turns. The blast also has a 10% chance to trigger a temporary EMP, disabling robotic enemies.",
+      "name": "Echo Blast"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Cold Meano Vinos",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Shadow",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Duck Smiter",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Echojacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Molder Maw",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:50:51.212Z"
+  }
+}

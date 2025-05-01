@@ -1,0 +1,126 @@
+{
+  "tokenId": "113",
+  "name": "Dead Duck #113",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/113.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Muggers Meetup",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Billish",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Toxic",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Bloody",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snarl Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the grimy underbelly of Subchain City's Street Muggers Meetup district, Cipher was always quick on his webbed feet. Losing his original flock to a DRIP raid gone south, he now trusts no one, relying only on his toxic controller skills.",
+    "class": "Controller",
+    "name": "Cipher",
+    "personality": "Paranoid and cynical, Cipher trusts no one after his original flock was wiped out. Despite his grim outlook, he possesses a morbid sense of humor, often cracking dark jokes during dicey situations. Cipher's obsession with his controller is borderline unhealthy, viewing it as his only true friend in Subchain City.",
+    "specialAbility": {
+      "description": "Cipher hacks into enemy drones, scrambling their targeting systems for 2 turns, causing them to attack their allies. High intelligence is crucial for this skill.",
+      "name": "Toxic Override"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Muggers Meetup",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Billish",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Bloody",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snarl Snap",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Hazard",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:18:22.913Z"
+  }
+}

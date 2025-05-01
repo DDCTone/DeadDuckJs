@@ -1,0 +1,126 @@
+{
+  "tokenId": "14",
+  "name": "Dead Duck #14",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/14.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Wrecked Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants White",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Jackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Skull-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Battle Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Toxic Mayhem factory, Fang grew up scavenging scrap and dodging the Drone Ducks that patrol the streets. The scars on his beak are a testament to his early forays into 'acquire-a-DRIP-at-all-costs' territory disputes, and the Shadow Punk Pin is a trophy from his first successful raid.",
+    "class": "DRIP Runner",
+    "name": "Fang Toxic",
+    "personality": "Cynical: Fang views the world through toxin-tinted scorchshields. Resourceful: Years spent navigating the Wrecked Road has made him adept at finding loopholes and advantages in dire situations. Reckless: He will do anything to get the DRIP. He often puts himself in danger for the slim chance of obtaining a big score.",
+    "specialAbility": {
+      "description": "Unleashes a toxic cloud from his Mayhem Crown, obscuring vision and dealing minor poison damage to enemies caught in the area. Movement speed is greatly increased while the cloud is active.",
+      "name": "Toxic Fumescreen"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Wrecked Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants White",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Jackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skull-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Battle Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:14.684Z"
+  }
+}

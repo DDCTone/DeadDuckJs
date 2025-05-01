@@ -1,0 +1,126 @@
+{
+  "tokenId": "125",
+  "name": "Dead Duck #125",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/125.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smokestack Jacks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Heart Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Cyber",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_DDC Trucker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a dedicated drone racer before the cataclysm, 'Gridiron' Glitch lost his flock in a DRIP raid gone wrong. Now, he roams the Subchain City outskirts, searching for his lost racing drone components and honing his skills for the ultimate rematch against the gang that left him for scrap.",
+    "class": "Technomancer",
+    "name": "Gridiron Glitch",
+    "personality": "Obsessive: Gridiron meticulously analyzes every game move, sometimes forgetting to strategize in the real world. Anxious: Haunted by past failures, he is always worried about the next DRIP draught. Resourceful: He is a master of tech scavenging, able to cobble together powerful gadgets from scraps.",
+    "specialAbility": {
+      "description": "Gridiron can launch a 'Lag Bomb', causing a temporary disruption in the enemy's neural network. Reduces enemy accuracy and movement speed for 2 turns. Affected units have their actions queued with a 30% chance for failure.",
+      "name": "Lag Bomb"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 88,
+      "luck": 45,
+      "strength": 52
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smokestack Jacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Heart Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Cyber",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "DDC Trucker",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:22:17.493Z"
+  }
+}

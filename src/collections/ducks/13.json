@@ -1,0 +1,126 @@
+{
+  "tokenId": "13",
+  "name": "Dead Duck #13",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/13.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Head Bobbers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Hollowbeak Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Silas 'Dry Squack' McQuackerton wasn't always bone dry. Once, he led raids for DRIP from atop Subchain City's tallest head-bobbing tower. Now, haunted by the plague and the faces of those he couldn't save, he seeks redemption, one desperate squack at a time.\"",
+    "class": "Plague Vigilante",
+    "name": "Silas 'Dry Squack' McQuackerton",
+    "personality": "Haunted: Silas is constantly reminded of his past failures, making him hesitant in crucial moments. Determined: Despite his internal struggles, he pushes forward, driven by a fierce desire for redemption. Stoic: Silas rarely shows emotion, a defense mechanism built over years of loss and hardship.",
+    "specialAbility": {
+      "description": "\"Plague Purge\": Silas unleashes a wave of frigid cryo-energy, freezing and potentially slowing enemies in a small area. He sacrifices some of his own health to channel the energy. The Clan Hollowbeak Beads help him maintain control over the necrotic energies involved, preventing an all-out explosion of ice.",
+      "name": "Plague Purge"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 30,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Head Bobbers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Hollowbeak Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Plagued",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:09.719Z"
+  }
+}

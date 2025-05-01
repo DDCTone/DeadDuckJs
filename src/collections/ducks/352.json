@@ -1,0 +1,126 @@
+{
+  "tokenId": "352",
+  "name": "Dead Duck #352",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/352.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Feather-Tail-Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in Feather-Tail-Garage, Cipher learned the hard way that in Subchain City, you either adapt or end up as biofuel. He watched his flock lose everything to a DRIP raid, fueling a burning desire for revenge cloaked in a mask.",
+    "class": "Vigilante",
+    "name": "Cipher",
+    "personality": "Brooding and methodical. Cipher is haunted by the past but driven to prevent history from repeating itself. He has a dark sense of humor that only surfaces in moments of extreme stress or victory, and harbors a soft spot for powerless Hatchlings, as he sees himself in them.",
+    "specialAbility": {
+      "description": "Cipher temporarily becomes Ghosted - increasing his evasion chance by 50% and allowing him to move through enemy units for one turn. If he ends his turn adjacent to an enemy with lower defense, he lands a guaranteed critical hit with Crow-Killer.",
+      "name": "Ghoststrike"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Feather-Tail-Garage",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Yokey",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:54:32.311Z"
+  }
+}

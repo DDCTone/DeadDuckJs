@@ -1,0 +1,126 @@
+{
+  "tokenId": "86",
+  "name": "Dead Duck #86",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/86.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Rust In Pieces",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Chrono Hide Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of a defunct 'Slicco' gas station, Rustbucket's early life was a symphony of sputtering engines and the metallic tang of decay. He learned to scavenge and repair before he could swim, trading salvaged parts for stale crumbs of nutrient paste, forever haunted by the sight of DRIP barrels drying up.",
+    "class": "Tinkerer",
+    "name": "Rustbucket",
+    "personality": "Rustbucket is perpetually irritable, quick to snap with a sarcastic quip or the clatter of his cranker. However, beneath the gruff exterior lies a surprisingly loyal duck, always willing to lend his mechanical expertise to those he deems worthy, even if he complains about it the whole time.",
+    "specialAbility": {
+      "description": "Rustbucket overclocks a device (or himself) to unleash a powerful blast of cryo-energy, freezing enemies in place and potentially disrupting their systems. The Chrono Hide Cryo gear combined with the Shock-Goggles-Cryo and Feather Splitter Cryo amplifies this effect, but leaves him temporarily vulnerable.",
+      "name": "Cryo-Overclock"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 50
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Rust In Pieces",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Chrono Hide Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:09:55.767Z"
+  }
+}

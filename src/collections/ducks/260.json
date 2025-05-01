@@ -1,0 +1,126 @@
+{
+  "tokenId": "260",
+  "name": "Dead Duck #260",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/260.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Parasite",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Shadow Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Cutoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Toxic",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Beak-07e",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the radioactive runoff beneath Subchain City, 'Pixel' Puddlesworth was already a glitch in the matrix. The Parasite Eyes and Toxic Markings earned him a rough upbringing in the Undercity, scavenging for scraps and dodging Enforcer drones.",
+    "class": "Hacker",
+    "name": "Pixel Puddlesworth",
+    "personality": "Pixel is a nervous but brilliant duck, always twitching and muttering code snippets. He's obsessively focused on optimizing everything, from his drip routes to his combat strategies. Despite his anxiety, he's loyal to a fault to his flock.",
+    "specialAbility": {
+      "description": "Pixel can override enemy drone controls, converting them to temporary allies or detonating them in a kamikaze attack. The Shock-Goggles-Yokey helps him visualize the blockchain matrix and exploit vulnerabilities.",
+      "name": "Ghost in the Machine"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 92,
+      "luck": 35,
+      "strength": 48
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Parasite",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Shadow Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Cutoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Beak-07e",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Yokey",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:42:27.329Z"
+  }
+}

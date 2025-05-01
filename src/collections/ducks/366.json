@@ -1,0 +1,126 @@
+{
+  "tokenId": "366",
+  "name": "Dead Duck #366",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/366.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Flipper Kicks Dojo",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Ripped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blasted",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the back alleys of Flipper Kicks Dojo, 'Hack' learned to fight dirty, fast. He witnessed too many ducks get turned into $DRIP-less husks, so he swore to protect the little guys... mostly.",
+    "class": "Brawler",
+    "name": "Hack",
+    "personality": "Cynical but loyal. Hack makes jokes, but he's secretly scared of ending up as a zombie. He's very protective of those he considers his flock.",
+    "specialAbility": {
+      "description": "A whirlwind attack utilizing his Choppy hands and Dragon Pants Orange's fiery aura, dealing damage to all adjacent enemies and inflicting a small burn effect.",
+      "name": "Dragon Chop"
+    },
+    "stats": {
+      "agility": 70,
+      "intelligence": 45,
+      "luck": 55,
+      "strength": 65
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Flipper Kicks Dojo",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Ripped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blasted",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:56:18.365Z"
+  }
+}

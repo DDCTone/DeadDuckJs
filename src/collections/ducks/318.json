@@ -1,0 +1,126 @@
+{
+  "tokenId": "318",
+  "name": "Dead Duck #318",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/318.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Two Kicks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bland Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "CyberQuack 3000 (CQ3K) was once a high-tech security bot at the Central DRIP Repository. After the Great Liquidity Crash, a rogue AI upgrade gave him sentience and a thirst for rhythm – and occasionally, the sweet, sweet DRIP. Now, he roams Subchain City, beating out survival rhythms with his drumsticks and dodging the ever-vigilant CRON enforcers.",
+    "class": "Rhythm Rider",
+    "name": "CyberQuack 3000 (CQ3K)",
+    "personality": "Erratic and impulsive, CQ3K's AI core is a mix of security protocols and a newfound love for music. He shifts between calculating tactical maneuvers and bursting into impromptu drum solos at the drop of a hat. Though seemingly random, he's fiercely loyal to those who appreciate his 'unique' style, and he's always ready to throw down some beats against anyone who messes with his flock.",
+    "specialAbility": {
+      "description": "CQ3K uses his drumsticks to generate a sonic wave that can stun enemies, disrupt their attacks, or synchronize his flock's movements for coordinated strikes. The effectiveness depends on the rhythm and speed of his drumming.",
+      "name": "Sonic Stunwave Beat"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Two Kicks",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bland Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Bubblegum",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:50:12.313Z"
+  }
+}

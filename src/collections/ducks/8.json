@@ -1,0 +1,126 @@
+{
+  "tokenId": "8",
+  "name": "Dead Duck #8",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/8.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Moshys Pitt",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Fantasma",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hailing from the depths of Moshy's Pitt, Specter was once a promising data miner before a DRIP-induced accident turned him into a semi-corporeal entity. Now he haunts the digital wastelands, seeking to reclaim his lost memories and find a way to solidify his form once more. The Shock-Goggles help him see hidden blockchain transactions.",
+    "class": "Shadow Raider",
+    "name": "Specter",
+    "personality": "Brooding and cynical, Specter's past life haunts him. He's fiercely independent, distrustful of flocks, and driven by a singular purpose: to understand what happened to him. Occasionally, a dry, dark humor flickers through his spectral facade.",
+    "specialAbility": {
+      "description": "Specter phases out of reality for a short duration, becoming untargetable and gaining a burst of speed. He can use this to scout ahead, escape danger, or set up ambushes.",
+      "name": "Ghost Shift"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Moshys Pitt",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Fantasma",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Shadow",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:15:42.899Z"
+  }
+}

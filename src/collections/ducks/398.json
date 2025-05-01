@@ -1,0 +1,126 @@
+{
+  "tokenId": "398",
+  "name": "Dead Duck #398",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/398.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Beak Breaker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Static Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the dilapidated Bldg Stage district, Quackstatic took to the streets early. He's seen flocks rise and fall, learned to fight dirty, and now just wants enough DRIP to keep his beak wet.",
+    "class": "Brawler",
+    "name": "Quackstatic",
+    "personality": "Cynical, but with a hidden core of loyalty. He's seen too much to be optimistic, but he won't leave a flockmate behind. Gruff exterior, but secretly enjoys a well-timed joke and a stiff shot of recycled sludge.",
+    "specialAbility": {
+      "description": "Quackstatic unleashes a flurry of beak strikes, empowered by static energy, dealing significant damage and potentially stunning a single target. The hooded blood staining makes it extremely painful, and there's a small bleed chance.",
+      "name": "Static Peck Fury"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 60,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Beak Breaker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Static Peck",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:01:18.276Z"
+  }
+}

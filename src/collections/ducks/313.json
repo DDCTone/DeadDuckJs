@@ -1,0 +1,126 @@
+{
+  "tokenId": "313",
+  "name": "Dead Duck #313",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/313.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hangout_Snailers Hut",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Smack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Wicked-Willow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Molder Maw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Sad Socket",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers say that 'Ol' Molder' used to be a celebrated chef before the great DRIP drought. Now, the only thing he cooks up is trouble, serving knuckle sandwiches with a side of existential dread to anyone who crosses his path.",
+    "class": "Bruiser",
+    "name": "Ol' Molder",
+    "personality": "Gruff, melancholic, and pragmatic. Ol' Molder carries the weight of Subchain City on his spectral shoulders, often lamenting the loss of fine dining while simultaneously cracking skulls. He's fiercely protective of those he deems 'worth saving', a list that grows shorter every day.",
+    "specialAbility": {
+      "description": "Molder Maw: Ol' Molder unleashes a torrent of fungal decay from his beak, dealing AOE damage to enemies in a cone and slowing them down due to the unbearable stench.",
+      "name": "Molder Maw"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 60,
+      "luck": 20,
+      "strength": 85
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hangout Snailers Hut",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Smack Pants",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Wicked-Willow",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Molder Maw",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Sad Socket",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:49:34.550Z"
+  }
+}

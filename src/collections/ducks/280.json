@@ -1,0 +1,126 @@
+{
+  "tokenId": "280",
+  "name": "Dead Duck #280",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/280.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stool Pigeons",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Elm Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Quilcutter",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Stoolie\" used to be a bouncer at the roughest dive bar in Subchain City. He saw a lot of action and a lot of DRIP get spilled. Now, he's just trying to survive, one raid at a time, haunted by the ghosts of spilled drinks and broken beaks.",
+    "class": "Bruiser",
+    "name": "Stoolie",
+    "personality": "Cynical, Pragmatic, and Unflappable. Stoolie has seen everything Subchain City can throw at him and isn't easily surprised. He does have a soft spot for the underduck, though he'd never admit it directly.",
+    "specialAbility": {
+      "description": "Stoolie slams his Quilcutter into the ground, creating a temporary zone of toxic quills that slows and damages enemies.",
+      "name": "Quill Zone"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 60,
+      "luck": 30,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stool Pigeons",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Elm Shirt",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Quilcutter",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:44:59.652Z"
+  }
+}

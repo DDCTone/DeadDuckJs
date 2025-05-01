@@ -1,0 +1,126 @@
+{
+  "tokenId": "390",
+  "name": "Dead Duck #390",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/390.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Runners Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Bartholomew 'Barty' Rottingham carved out a niche for himself among the Street Runners, not for his speed but for his grit. After a run gone wrong left him exposed to toxic runoff, the rot set in, but Barty didn't let it slow him down – it just made him smell worse and gave him a fetching greenish hue. Now, wielding scavenged golf club, he leads raids, seeking DRIP and revenge on the goons who left him for dead.",
+    "class": "Toxic Raider",
+    "name": "Barty \"Rotten\" Rottingham",
+    "personality": "Grumpy and cynical, survival in Subchain City has hardened Barty and he's become fiercely protective of his flock. He possesses a twisted sense of humor, often cracking dark jokes even in the direst situations. Despite his rough exterior, Barty harbors a longing for the days before the fall, sometimes wistfully reminiscing about a time when water wasn't radioactive.",
+    "specialAbility": {
+      "description": "Barty's toxic rot grants him immunity to most environmental hazards and a passive poison aura. In close combat, his attacks have a chance to inflict 'Toxic Buildup,' damaging enemies over time. Higher levels of Toxic Buildup can cause enemies to convulse.",
+      "name": "Toxic Touch"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 65,
+      "luck": 40,
+      "strength": 75
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Runners Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:59:21.719Z"
+  }
+}

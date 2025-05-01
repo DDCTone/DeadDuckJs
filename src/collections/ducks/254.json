@@ -1,0 +1,126 @@
+{
+  "tokenId": "254",
+  "name": "Dead Duck #254",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/254.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Dia De Drinks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Greeen",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a celebrated barkeep at the \"Dia De Los Drinks,\" Bartholomew \"Barty\" Quackenbush saw his clientele dwindle as the DRIP dried up. Now, haunted by memories of full taps and lively patrons, he roams Subchain City in search of a potent brew or someone to share a cup of lukewarm sludge with. His shock goggles are permanently affixed after a particularly nasty incident involving a rigged distillery and some very unhappy customers.",
+    "class": "Brewmaster/Medic",
+    "name": "Barty \"The Buzzed\" Quackenbush",
+    "personality": "Barty is haunted by what he has seen but still tries to remain jovial in the face of adversity. He’s got a trembling hand and a shaky beak, but he still attempts to offer comfort and a slightly poisoned brew to his allies, however misguided. More often than not, Barty is mumbling under his breath.",
+    "specialAbility": {
+      "description": "Barty mixes up a concoction from scavenged ingredients, offering temporary buffs to allies within a small radius and can inflict detrimental effects on enemies. The effects are random, both bad and good, but sometimes its the only thing that separates victory from defeat.",
+      "name": "\"Buzzed\" Brew Boost"
+    },
+    "stats": {
+      "agility": 35,
+      "intelligence": 65,
+      "luck": 55,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Dia De Drinks",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Greeen",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:41:41.056Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "399",
+  "name": "Dead Duck #399",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/399.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Quilcutter",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_La Sombra De Pluma",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Orphaned at a young age, growing up in the school of hard knocks of Street Yay Blvd, 'Grimfeather' learned to survive by his wits and his blade. He lost his flock to a DRIP raid gone wrong, now he wanders Subchain City, seeking revenge and a glimmer of hope.",
+    "class": "Ronin",
+    "name": "Grimfeather",
+    "personality": "Grimfeather is haunted by his past, giving him a stoic and brooding demeanor. He's fiercely loyal to those few he trusts, but quick to draw his Quilcutter on anyone he suspects of treachery. Deep down, he yearns for a better world, but he's convinced it's a fool's dream, so, as they say, 'fake it till you make it'.",
+    "specialAbility": {
+      "description": "Draws upon his rage and sorrow to unleash a flurry of strikes, dealing massive damage to a single target. Grimfeather's Quillcutter becomes a blur, capable of slicing through even the toughest Featherguard armor.",
+      "name": "Shadowstrike"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 40,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Quilcutter",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "La Sombra De Pluma",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:01:28.740Z"
+  }
+}

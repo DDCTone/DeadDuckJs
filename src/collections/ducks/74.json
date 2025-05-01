@@ -1,0 +1,126 @@
+{
+  "tokenId": "74",
+  "name": "Dead Duck #74",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/74.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Crawler Space",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Greeen",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Facts",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Jabber Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Bartholomew Quackersly, once a respected bio-engineer, fell victim to his own toxic concoctions during the Great DRIP Wars. Now a shambling, yet strangely stylish, abomination, he haunts the fringes of Subchain City, forever searching for a cure...or just the next big score.",
+    "class": "Toxic Saboteur",
+    "name": "Bartholomew 'Barf' Quackersly",
+    "personality": "Cynical and calculating, Barf uses his warped intelligence to outsmart rivals, but underneath the toxic exterior lies a sliver of guilt for his past hubris. He cracks terrible jokes to deflect from his existential dread.",
+    "specialAbility": {
+      "description": "Barf unleashes a cloud of toxic gas that corrodes enemy armor and deals damage over time. Affected units suffer reduced agility and a chance of equipment malfunction.",
+      "name": "Toxic Fume Cloud"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Crawler Space",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Greeen",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Facts",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Jabber Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:05:40.252Z"
+  }
+}

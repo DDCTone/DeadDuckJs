@@ -1,0 +1,126 @@
+{
+  "tokenId": "425",
+  "name": "Dead Duck #425",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/425.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background-R_Bldg_Bootyful",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Sk8rs Fishies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Scabbed",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Clank was once a maintenance bot, tasked with keeping the Subchain City transit system running smoothly. That was before the DRIP dried up and everyone started killin' each other for scraps. Now, he roams the ruins, a rusted-out enforcer with a faulty targeting system and a thirst for vengeance.",
+    "class": "Enforcer",
+    "name": "Clank Hazard",
+    "personality": "Clank is a grumpy, yet strangely methodical duck. His AI eyesight gives him an edge in spotting distant threats, but also fuels his paranoia, making him prone to overthinking every move. Despite his rusty exterior, he has a soft spot for anyone wearing new jeans (apparently a pre-apocalypse fashion trend he remembers fondly).",
+    "specialAbility": {
+      "description": "Clank's 'Target Lock Malfunction' ability fires a volley of inaccurate shots in a wide cone, dazing enemies with shrapnel and temporarily scrambling their targeting systems.",
+      "name": "Target Lock Malfunction"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 60,
+      "luck": 30,
+      "strength": 75
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Trait Background-R Bldg Bootyful",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Fishies",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Scabbed",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:05:29.577Z"
+  }
+}

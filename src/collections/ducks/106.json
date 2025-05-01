@@ -1,0 +1,126 @@
+{
+  "tokenId": "106",
+  "name": "Dead Duck #106",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/106.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Monument_Solana-Trenches",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Bred in the shadows of crumbling Solana monuments, Cipher was orphaned early, learning to scavenge amidst the radioactive dust storms. The 'Rotted Shadow' coating isn't just a body paint; it's scar tissue from years spent absorbing Subchain City's toxic runoff.",
+    "class": "Saboteur",
+    "name": "Cipher",
+    "personality": "Cynical and resourceful, Cipher is a master of misdirection and subterfuge.  His muted beak means he rarely speaks, preferring observation and calculated action.  Driven by a deep-seated distrust of authority, he's always looking for an angle.",
+    "specialAbility": {
+      "description": "Cipher hurls a shattered glass-bottle bomb filled with a debilitating concoction derived from the Quackpack. This impairs enemy accuracy and movement for two turns. The 'Beackwear Hazard' is modified to contain caustic dripping for additional splash damage. Splash damage is capped at 15 to avoid friendly fire.",
+      "name": "Solana Shard Grenade"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 32,
+      "strength": 45
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Monument Solana-Trenches",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:16:34.617Z"
+  }
+}

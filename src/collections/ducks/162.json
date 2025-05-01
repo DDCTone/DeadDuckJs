@@ -1,0 +1,126 @@
+{
+  "tokenId": "162",
+  "name": "Dead Duck #162",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/162.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Hunkers Junkers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Beat Down Boots",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cyro",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Void Crack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Rhythmrot\" grew up scavenging in the Junkers district, always finding a beat amidst the scrap. His rhythm provided a much needed distraction to the survivors around him - as it was his families job to fix up cyro-suits and give them a new home in the field. Now, Rhythmrot uses that same rhythm to find weaknesses in enemy armor and lead his flock to victory.",
+    "class": "Support/Breaker",
+    "name": "Rhythmrot",
+    "personality": "Manic, Resourceful, and Loyal. Rhythmrot's twitchy, drumstick-tapping exterior hides a sharp mind constantly searching for the next opportunity. He bounces with nervous energy, but his loyalty to his flock is unwavering.",
+    "specialAbility": {
+      "description": "Rhythmrot can identify weaknesses in enemy armor by tapping on it with his drumsticks. This reduces the target's armor and increases the damage output of allies by 15% for the next round.",
+      "name": "Armor Percussion"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Hunkers Junkers",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Beat Down Boots",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cyro",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Void Crack",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:28:49.140Z"
+  }
+}

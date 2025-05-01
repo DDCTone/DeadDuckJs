@@ -1,0 +1,126 @@
+{
+  "tokenId": "435",
+  "name": "Dead Duck #435",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/435.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Heart Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duckie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Static\" Sinatra was once a renowned DJ, spinning vinyl at the hottest underground raves in Old Subchain City. Now, he scavenges for DRIP, using his modified sonic gear to disrupt enemy formations and blast out the few remaining tunes he can remember, a desperate attempt to keep the rave spirit alive in the wasteland.",
+    "class": "Sonic Disruptor",
+    "name": "\"Static\" Sinatra",
+    "personality": "Audacious and rebellious, Static clings to the remnants of a vibrant past. He's fiercely independent, always looking for the next score, and has a knack for finding the right beat - or frequency - to cause chaos. Despite the grim world, he maintains a sardonic wit and a surprising amount of optimism.",
+    "specialAbility": {
+      "description": "Static's \"Boom Bap Blast\" uses his modified sonic crown to emit a concussive wave of sound affecting a small area. This disorients enemies, reducing their accuracy and briefly stunning them. The blast also has a small chance to reveal hidden resources or trigger environmental hazards.",
+      "name": "Boom Bap Blast"
+    },
+    "stats": {
+      "agility": 70,
+      "intelligence": 65,
+      "luck": 55,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Heart Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duckie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:06:36.747Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "73",
+  "name": "Dead Duck #73",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/73.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Choochys Chop Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Tazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Dirt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Bloody",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Jabber Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Tick-Tock\" Tommy earned his nickname from scavenging the irradiated ruins surrounding Choochy's Chop Shop. His knack for finding ticking time bombs left for dead by rival flocks has both saved and nearly obliterated his own on more than one occasion. No one's quite sure how he survived this long in Subchain City.",
+    "class": "Bomb Disposal Expert (Demolitions)",
+    "name": "\"Tick-Tock\" Tommy",
+    "personality": "Paranoid, resourceful, and darkly humorous. Tommy's always expecting the worst, which makes him a keen strategist, but also a terrible conversationalist. He finds twisted amusement in the irony of his situation.",
+    "specialAbility": {
+      "description": "\"Last Gasp Gambit\": When reduced to 10% health, Tommy triggers a delayed explosion centered on himself, dealing massive AOE Toxic damage. Timing is key, as the explosion can harm allies if they're not clear. (3 turn cooldown).",
+      "name": "Last Gasp Gambit"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 30,
+      "strength": 50
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Choochys Chop Shop",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Dirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Bloody",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Jabber Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:05:31.877Z"
+  }
+}

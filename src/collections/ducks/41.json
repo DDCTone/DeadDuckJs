@@ -1,0 +1,126 @@
+{
+  "tokenId": "41",
+  "name": "Dead Duck #41",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/41.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Degens Den",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Blood Stained Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Blazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blasted",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Cypher hatched in the Degen's Den, amidst flickering monitors and the lingering scent of burnt circuits. Raised on scavenged code and the thrill of data heists, he learned to navigate Subchain City's digital underbelly before he could even waddle properly.",
+    "class": "Netrunner",
+    "name": "Cypher",
+    "personality": "Cunning: Cypher is a master manipulator, using his words and tech skills to outwit opponents. Ruthless: He'll do whatever it takes to secure DRIP for his flock, even if it means betraying others. Calm: A crisis? What crisis? He's been through worse, and he's always got a plan.",
+    "specialAbility": {
+      "description": "Cypher can hack into enemy systems and temporarily disable their gear, leaving them vulnerable to attack. This buys his flock crucial seconds during raids.",
+      "name": "Data Spike"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 92,
+      "luck": 45,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Degens Den",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Blood Stained Marked",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blasted",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:41:31.214Z"
+  }
+}

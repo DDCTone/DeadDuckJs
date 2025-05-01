@@ -1,0 +1,126 @@
+{
+  "tokenId": "52",
+  "name": "Dead Duck #52",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/52.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Degens Den",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Shadow Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Billish",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-01",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Blood Stained",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Raised in the neon-lit, data-choked underbelly of the Hideout Degens Den, Cipher learned to navigate the digital and physical wastelands with equal skill. The toxic runoff gave him a particular resilience, and his AI eyes grant him unparalleled insight into the Subchain City's network. Now, he uses his skills to sniff out vulnerabilities and exploit them for DRIP.",
+    "class": "Netrunner",
+    "name": "Cipher",
+    "personality": "Cynical and pragmatic, Cipher trusts no one, always watching for angles. He's also fiercely independent, preferring the shadows to the spotlight. Secretly, he yearns for a connection, but the harsh reality of Subchain City keeps him guarded.",
+    "specialAbility": {
+      "description": "Cipher can execute a 'Deep Dive' hacking maneuver, allowing him to temporarily disable enemy turrets, security systems, or even siphon DRIP directly from enemy nodes. This ability has a high 'juice' (energy) cost and a chance of backfire, reflecting the unstable nature of the blockchain tech.",
+      "name": "Deep Dive"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 92,
+      "luck": 55,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Degens Den",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Shadow Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Billish",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-01",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Yokey",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:00:21.420Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "432",
+  "name": "Dead Duck #432",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/432.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_The Safety Pin",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Blazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Fudders",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Duck Smiter",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Quilcutter",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Shatter Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic swamps outside Subchain City, 'Gumbo' survived the early days eating mutated algae and scrounging for scraps. He learned early on that trust is a luxury, and the only way to thrive is with a sharp quill and a sharper wit.",
+    "class": "Ronin",
+    "name": "Gumbo",
+    "personality": "Cynical: Gumbo sees the world through a lens of bitter experience and expects the worst from everyone. Pragmatic: He makes decisions based on what's most likely to keep him alive and swimming in DRIP, sentimentality be damned. Resourceful: Gumbo's talent for finding use out of discarded tech and weaponry has kept him alive when others starved.",
+    "specialAbility": {
+      "description": "Shatters his bubblegum with psionic energy, creating a shard storm. Deals heavy damage to the target and moderate damage to surrounding enemies.",
+      "name": "Bubble Blast Barrage"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 35,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg The Safety Pin",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Fudders",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Duck Smiter",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Quilcutter",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Shatter Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:06:16.514Z"
+  }
+}

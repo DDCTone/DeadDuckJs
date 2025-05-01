@@ -1,0 +1,126 @@
+{
+  "tokenId": "328",
+  "name": "Dead Duck #328",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/328.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Pedros Watching",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Plagued",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Featherstrung",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Wing Wrecker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Originally a systems administrator for Subchain City's Ministry of Liquidity, \"Byte\" lost everything when the DRIP dried up. Now, haunted by the network crashes of the past, he wanders the wasteland seeking to rebuild the old systems, one baseball bat swing at a time.",
+    "class": "Tech Savage",
+    "name": "Byte",
+    "personality": "Byte is haunted and determined. His constant chewing of bubblegum is an nervous coping mechanism from when the 'great crash' hit and helps him focus to find any remnants of the old network. Deep down, Byte is hopeful that it can all be fixed.",
+    "specialAbility": {
+      "description": "Byte can analyze weaknesses in enemy armor or systems (organic or synthetic) and deliver precise blows with his Wing Wrecker, ignoring a percentage of enemy defense for a single, devastating strike. When the Featherstrung Guitar strings strike, Byte can make a read. The rarer the gear, the easier it is to compute the enemy weakness.",
+      "name": "Debug Strike"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Pedros Watching",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherstrung",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Wing Wrecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:51:30.640Z"
+  }
+}

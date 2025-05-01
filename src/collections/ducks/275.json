@@ -1,0 +1,126 @@
+{
+  "tokenId": "275",
+  "name": "Dead Duck #275",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/275.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Brokeland",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Gooey",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Burt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Huevo Oscuro",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born on the grimy streets of Brokeland, young Bartholomew 'Burt' Quackington the Third witnessed the slow decay of Subchain City firsthand. His parent's insistence on dressing him in knockoff dragon pants and sticky kicks didn't help his street cred, but it did make him a prime target for bullies, which made him tough. Now he's out to carve his own chunk of DRIP from this forsaken blockchain.",
+    "class": "Street Urchin Tactician",
+    "name": "Bartholomew 'Burt' Quackington III",
+    "personality": "Resilient: Having survived the harsh streets of Brokeland, Burt doesn't back down easily. Opportunistic: Always on the lookout for a chance to gain an advantage, whether through cunning or a well-placed gob of bubblegum. Deadpan: Burt's seen too much to be surprised by anything, and his sarcasm is as sharp as a rusty beak.",
+    "specialAbility": {
+      "description": "Burt uses his Burt doll as a distraction. By throwing Burt (the doll), the enemy ducks will become confused, sometimes attacking the doll and giving the rest of the team an opening to attack. Can also be used to trigger traps from afar, at the cost of the doll.",
+      "name": "Burt's Gambit"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 78,
+      "luck": 55,
+      "strength": 42
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Brokeland",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Gooey",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Burt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "El Huevo Oscuro",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:44:20.002Z"
+  }
+}

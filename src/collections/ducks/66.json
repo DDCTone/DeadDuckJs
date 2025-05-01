@@ -1,0 +1,126 @@
+{
+  "tokenId": "66",
+  "name": "Dead Duck #66",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/66.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Head Bobbers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Hatchers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Spiked Helm",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the ruins of a music studio in Subchain City, 'Deuce' learned to hustle early, using his knack for tech to rig up crude defenses against rival flocks. He once accidentally rewired a Gasser Mudder to amplify polka music, which, surprisingly, routed an entire squadron of Mallards.",
+    "class": "Techno-Trapper",
+    "name": "Deuce 'Skrilla' Spikes",
+    "personality": "Cynical and resourceful, Deuce trusts no one, especially not anyone with clean tailfeathers. He's got a dry wit that cuts through the wasteland grime, and a surprising soft spot for old vinyl records. Deuce hoards DRIP not for the power, but for the opportunity to rebuild the perfect sound system. He likes to think of himself as an individualist, but his actions always end up benefitting those closest to him.",
+    "specialAbility": {
+      "description": "Deuce deploys a 'Sonic Minefield' - a series of rigged speakers that blast distorted audio frequencies. The mine field disorients enemies, reducing their accuracy and movement speed in a targeted area. Opponents caught in the area have a chance to become 'Confused' and attack their allies.",
+      "name": "Sonic Minefield"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Head Bobbers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Hatchers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Spiked Helm",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:03:17.155Z"
+  }
+}

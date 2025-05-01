@@ -1,0 +1,126 @@
+{
+  "tokenId": "143",
+  "name": "Dead Duck #143",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/143.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Cold Meano Vinos",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Fudders",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Slick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers trail behind Cryo-Vigil as he stalks the ruins of Meano Vino's, a haunt from a bygone era. He survived the Toxic Bloom thanks to a faulty cryo-chamber and an unwavering thirst for DRIP. Now, driven by fragmented memories and a chillingly focused mind, he seeks to quell the Mayhem that plagues Subchain City.",
+    "class": "Cryo Spectre",
+    "name": "Cryo-Vigil",
+    "personality": "Haunted, Cryo-Vigil is burdened by haunting visions, leading him to be ever vigilant. Ruthless, he'll stop at nothing to secure DRIP for his flock showing no mercy to raiders. Driven, the visions compel him to uncover the secrets that lead to pre-apocalypse vaults.",
+    "specialAbility": {
+      "description": "Cryo Blast: Cryo-Vigil freezes a targeted area, slowing enemy movement and dealing cold damage over time.",
+      "name": "Cryo Blast"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Cold Meano Vinos",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Fudders",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Slick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Cryo",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:26:07.774Z"
+  }
+}

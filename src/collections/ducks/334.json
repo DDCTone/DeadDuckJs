@@ -1,0 +1,126 @@
+{
+  "tokenId": "334",
+  "name": "Dead Duck #334",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/334.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Fun Boxes",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Cyborgs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_La Sombra De Pluma",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers follow 'Rhythm Wrecker' through Subchain City. Some say he was a renowned musician before the DRIP dried up, others claim he was a tech wiz who mastered the perfect backbeat to crack any blockchain. Now, he uses his rhythmic skills to predict enemy movements and exploit vulnerabilities – all while searching for his lost golden snare drum.",
+    "class": "Support/Disruptor",
+    "name": "Rhythm Wrecker",
+    "personality": "Eccentric: Rhythm Wrecker sees patterns in everything, often leading to seemingly nonsensical but surprisingly accurate predictions. Unpredictable: You never know if he'll help, hinder, or start drumming on a corpse. Loyal (to his flock): Despite his weirdness, Rhythm Wrecker fiercely protects his flock, laying down a beat of defiance against any threat.",
+    "specialAbility": {
+      "description": "Rhythm Wrecker uses his drumsticks to create sonic disruptions. 'Sonic Pulse' acts as an temporary shield, creating a barrier that absorbs damage based on Rhythm Wrecker's proximity to DRIP. If no DRIP is available the power of the shield is substantially reduced.",
+      "name": "Sonic Pulse"
+    },
+    "stats": {
+      "agility": 70,
+      "intelligence": 85,
+      "luck": 60,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Fun Boxes",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Cyborgs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "La Sombra De Pluma",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:52:19.598Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "418",
+  "name": "Dead Duck #418",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/418.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Moshys Pitt",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Rugged",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Wing Wrecker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Muffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the ruins of Moshy's Pitt, Knuckles learned to fight dirty and survive. He patched up his threadbare warmy shirt too many times before deciding to just embrace the blood stains as a battle scar. Some say the Muffer crown was a gift from a raider boss he double-crossed. Others say he pinched it.",
+    "class": "Brawler",
+    "name": "Knuckles McBeak",
+    "personality": "Cynical: Knuckles has seen too much to trust anyone easily. Resourceful: He can fix just about anything with some spare parts and a bit of DRIP. Miffed: He's always slightly cheesed off.",
+    "specialAbility": {
+      "description": "Knuckles unleashes a devastating flurry of blows with his Wing Wrecker hands, dealing massive damage to a single target and leaving them stunned for one turn.",
+      "name": "Wing Wrecker Flurry"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 35,
+      "strength": 75
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Moshys Pitt",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Rugged",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Wing Wrecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Muffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:04:43.840Z"
+  }
+}

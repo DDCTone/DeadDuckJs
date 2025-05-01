@@ -1,0 +1,126 @@
+{
+  "tokenId": "55",
+  "name": "Dead Duck #55",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/55.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow Bitty Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a roadie for the legendary Subchain City band, 'The Cracked Quills,' Gasser Gulch saw his bandmates succumb to the DRIP wars. Now, haunted by their MIDI melodies, he roams the wastes, dispensing icy justice with his modified Cryo-Gasser, seeking retribution for the fallen rockers.",
+    "class": "Cryo-Punk",
+    "name": "Gasser Gulch",
+    "personality": "Melancholy and brooding, Gasser Gulch is a loner, often found tinkering with his Cryo-Gasser or quietly mourning his band. He's fiercely loyal to anyone who reminds him of his old crew, ready to unleash a frozen fury on anyone who threatens them. Despite his gruff exterior, he has a soft spot for lost hatchlings, remembering his own days as a fledgling musician.",
+    "specialAbility": {
+      "description": "Gasser Gulch unleashes a chilling blast from his Cryo-Gasser, freezing enemies in place for 2 turns and dealing frost damage over time. The frozen enemies become vulnerable to critical hits.",
+      "name": "Icy Requiem"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bitty Shirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Cryo",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:00:45.647Z"
+  }
+}

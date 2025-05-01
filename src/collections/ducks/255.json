@@ -1,0 +1,126 @@
+{
+  "tokenId": "255",
+  "name": "Dead Duck #255",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/255.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Crawler Space",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Dirt Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Wicked-Willow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Fuss",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Battle Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the Shadow District, Cipher was always a bit…off. Exposure to experimental Nullpatch serums during a DRIP raid left him with a face that flickers in and out of existence, but also gave him an uncanny knack for predicting enemy movements. Now, he wanders Subchain City, searching for a cure...or maybe just more DRIP.",
+    "class": "Shadow Recon",
+    "name": "Cipher",
+    "personality": "Cipher is enigmatic and unpredictable. His zombie eyes and glitched-out face combined with his dragon pants tend to make other ducks wary of him, but he views it as a benefit, as ducks tend to stay out of his way. Despite his unsettling appearance, he has a soft spot for hatchlings and will occasionally share scavenged DRIP.",
+    "specialAbility": {
+      "description": "Cipher momentarily destabilizes his Nullpatch face, creating visual glitches on surrounding enemy HUDs. This scrambles their targeting systems, reducing accuracy and causing momentary confusion in a small radius.",
+      "name": "Null Flicker"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Crawler Space",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirt Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Wicked-Willow",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Fuss",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Battle Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:41:49.451Z"
+  }
+}

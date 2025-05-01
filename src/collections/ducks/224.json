@@ -1,0 +1,126 @@
+{
+  "tokenId": "224",
+  "name": "Dead Duck #224",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/224.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hangout_Snailers Hut",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Phaser-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Echo Stain",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Wing Wrecker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Pond",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Void Crack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born from the dust and decay of Sector 7, Static was a glitch in the system, a digital echo in the concrete canyons of Subchain City. He scavenged tech scraps, piecing together his reality from the ruins around him, always searching for a signal in the noise.",
+    "class": "Techno-Scavenger",
+    "name": "Static Echo",
+    "personality": "Cynical and resourceful. Static has seen too much to trust easily, preferring the company of machines to ducks. Quirky and unpredictable. His AI-enhanced senses give him a unique perspective on the world, often seeing patterns others miss, but also prone to sudden shifts in mood and erratic behavior. Obsessive and driven. Once Static sets his mind on a goal, he pursues it relentlessly, often to the detriment of his own well-being.",
+    "specialAbility": {
+      "description": "Static overloads his phaser-pants to disrupt enemy energy weapons, creating a momentary EMP blast. This drains the DRIP reserves of nearby enemies and can disable mechanical foes.",
+      "name": "Echo Disruption"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 60
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hangout Snailers Hut",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Phaser-Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Echo Stain",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Wing Wrecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Pond",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Void Crack",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:37:24.594Z"
+  }
+}

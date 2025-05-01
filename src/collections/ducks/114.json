@@ -1,0 +1,126 @@
+{
+  "tokenId": "114",
+  "name": "Dead Duck #114",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/114.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Needles Crossing",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Sk8rs Fishies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Broke Beak",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Facts",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the rusted heart of Street Needles Crossing, grew up dodging Scrappers and learned to survive by scavenging and smashing. Lost his flock to a sudden DRIP surge caused by a desperate Elon Quack NFT dump, now he wanders alone, seeking revenge on anyone who hoards the precious resource.",
+    "class": "Road Warrior",
+    "name": "Chrome Crow",
+    "personality": "Brooding and nihilistic, Chrome Crow trusts no one, but he has a soft spot for broken things, repairing scavenged tech and orphaned bots. He's driven by a burning desire for revenge and a surprising, suppressed sense of justice.",
+    "specialAbility": {
+      "description": "Once per encounter, Chrome Crow can unleash a 'Static Burst' which disrupts enemy targeting systems, causing confusion and a 25% chance for enemies to attack their allies for one round. This ability utilizes his Static Sleaved shirt to emit an EMP.",
+      "name": "Static Burst"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 50,
+      "luck": 30,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Needles Crossing",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Fishies",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Broke Beak",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Facts",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:18:30.528Z"
+  }
+}

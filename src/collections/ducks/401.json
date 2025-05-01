@@ -1,0 +1,126 @@
+{
+  "tokenId": "401",
+  "name": "Dead Duck #401",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/401.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Quilcutter",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_La Sombra De Pluma",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "From the ruins of a bygone concert venue, \"Stage Divers,\" Styx was once a roadie, forever hauling gear and dodging mosh pits. Now, he scavenges for DRIP, blending in with the city's murky underbelly, a shadow amongst the forgotten melodies.",
+    "class": "Scavenger",
+    "name": "Styx 'Mudskipper' Plume",
+    "personality": "Grimly pragmatic: Styx sees the city for what it is – a fight for survival. Resourceful: He can MacGyver just about anything with the junk he finds. Quietly Observant: Years spent backstage taught him to listen more than he speaks, making him a keen judge of character.",
+    "specialAbility": {
+      "description": "Styx uses his Quillcutters to perform a surprise attack. From the shadows, he strikes an enemy, dealing critical damage and causing temporary disruption to their targeting systems.",
+      "name": "Backstage Ambush"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 65
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Quilcutter",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "La Sombra De Pluma",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:02:25.095Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "337",
+  "name": "Dead Duck #337",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/337.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Batch Pad",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Greeen",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Cryo Ninja Top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Whisky",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Blood Mask",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Static Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whisky Tango, or 'WT' as he’s known in Subchain City, woke up one morning with a wicked hangover and a cryptic note stating “DRIP is drying up - find the source”. He can't remember his past but knows that following the whisky is the best plan he's got.",
+    "class": "Raider",
+    "name": "Whisky Tango",
+    "personality": "Grizzled and sardonic, WT faces the grim reality of Subchain City with a biting sense of humor, often delivered with a wink. He is surprisingly loyal to those who have earned his trust, but it is hard to gain and easy to loose. His past is vague, even to him, but some whisper he used to be a top tier data scientist.",
+    "specialAbility": {
+      "description": "WT takes a swig of whisky and burps static energy, stunning opponents in a short radius.",
+      "name": "Static Belch"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 75,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Batch Pad",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Greeen",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Ninja Top",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Whisky",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Blood Mask",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Static Peck",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:52:41.543Z"
+  }
+}

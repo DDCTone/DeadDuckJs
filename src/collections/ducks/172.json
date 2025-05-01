@@ -1,0 +1,126 @@
+{
+  "tokenId": "172",
+  "name": "Dead Duck #172",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/172.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street-Degen Drive",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Talons Edge",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Lengua",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Scuzz was hatched during the Great Drip Drought of '77, a sickly duckling in a city where weakness meant starvation. He crawled out of the Hatchling Plague zone and toughened up on the mean streets, learning to swindle and scrap for every drop of DRIP.",
+    "class": "DRIP Bandit",
+    "name": "Scuzz",
+    "personality": "Cynical and quick-witted after surviving through the Hatchling Plague, Scuzz trusts no one. He displays a false jovial front to manipulate others, but is loyal to his crew for the right price.",
+    "specialAbility": {
+      "description": "Scuzz flashes a wad of Skrilla to temporarily bribe enemy units in a small radius. Bribed units have a 50% chance to turn on each other and become distracted for 1 turn. Can only be used once per raid.",
+      "name": "Skrilla Bribe"
+    },
+    "stats": {
+      "agility": 82,
+      "intelligence": 65,
+      "luck": 30,
+      "strength": 48
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street-Degen Drive",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Talons Edge",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Lengua",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:30:08.423Z"
+  }
+}

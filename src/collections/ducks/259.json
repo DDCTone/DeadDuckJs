@@ -1,0 +1,126 @@
+{
+  "tokenId": "259",
+  "name": "Dead Duck #259",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/259.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Ducks Crossing",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Smack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Billish",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Head",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the grimy underbelly of Subchain City, \"Dreads\" survived a zombie-quacking outbreak, leaving him with a permanent, unsettling gaze. He scavenged his threads from fallen Eth-enthusiasts and learned to grind the rusty rails of the city, all while perfecting his patented bubblegum beak-snap taunt.",
+    "class": "Sk8r Brawler",
+    "name": "Dreads McQuack",
+    "personality": "Cynical and quick-witted, Dreads doesn't trust easy smiles or promises of DRIP. He's fiercely loyal to his squad, but prefers to let his skateboard and fists do the talking. Despite his tough exterior, he secretly misses the old days of clean water and non-zombie companions.",
+    "specialAbility": {
+      "description": "Dreads ollies over enemies leaving a trail of chewed bubblegum slowing them down for 3 turns. If the target it tripped, it exposes them to a higher crit chance.",
+      "name": "Gum-Nado Grind"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 50,
+      "luck": 65,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Ducks Crossing",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Smack Pants",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Billish",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Head",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Bubblegum",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:42:20.058Z"
+  }
+}

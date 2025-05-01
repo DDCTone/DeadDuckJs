@@ -1,0 +1,126 @@
+{
+  "tokenId": "116",
+  "name": "Dead Duck #116",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/116.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Whisky",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Yokey",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whisky Tango, or 'WT' as he's known, wasn't always stained with the grime and sorrows of Subchain City. He was once a high-flyer in the pre-Collapse Whisky trade, until the DRIP dried up and turned the market hostile. Now, he uses his knowledge of fermented spirits and back-alley deals to navigate the brutal wastes, often with a bloodstained hood for anonymity.",
+    "class": "Alchemist",
+    "name": "Whisky Tango",
+    "personality": "Cynical and resourceful, WT possesses the uncanny ability to barter his way out of almost any situation, using his old whisky contacts and knowledge of the city's underbelly. He's world-weary but has a soft spot for the downtrodden hatchlings. Also, slightly inebriated... perpetually.",
+    "specialAbility": {
+      "description": "WT brews a volatile Molt Hawk Cocktail from scavenged ingredients. When thrown, it creates a cloud of confusion, temporarily lowering the accuracy and speed of enemies caught within its fumes. Allies who drink it gain a temporary strength buff.",
+      "name": "Molt Hawk Cocktail"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 80,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Whisky",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Yokey",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:19:39.152Z"
+  }
+}

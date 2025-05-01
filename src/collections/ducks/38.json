@@ -1,0 +1,126 @@
+{
+  "tokenId": "38",
+  "name": "Dead Duck #38",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/38.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smuglers Alley",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Ske8rs Tatted",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Static",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Burt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a high-roller in Subchain City, \"Slick\" learned the hard way that even pearls can't buy you a clean escape from the Rotted Toxic Swamps. Now, exiled from the upper echelons, he navigates the treacherous Smuggler's Alley, forever haunted by the toxic touch that turned his body into a biohazard symbol.",
+    "class": "Gasser Rogue",
+    "name": "\"Slick\" Stalker",
+    "personality": "Slick is cynical and opportunistic, a product of his fall from grace. He still clings to a facade of sophistication, evident in his pearl eyes, but beneath it lies a ruthless pragmatism necessary for survival. He has a soft spot for those tricked by the elite.",
+    "specialAbility": {
+      "description": "Slick vents a cloud of toxic gas from his rotting body, dealing poison damage to enemies within a short range. Affected enemies also have reduced accuracy for 2 turns.",
+      "name": "Toxic Fume"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smuglers Alley",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Ske8rs Tatted",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Static",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Burt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:40:19.765Z"
+  }
+}

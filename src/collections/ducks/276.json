@@ -1,0 +1,126 @@
+{
+  "tokenId": "276",
+  "name": "Dead Duck #276",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/276.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Leftovers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Heart Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Echojacks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Cheeky",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising DJ known as 'Quackmaster Flex,' Toxic Tango lost his flock and his DRIP cache when raiders jammed his signal during a crucial set. Now, he roams Subchain City, seeking vengeance and a beat that can shatter the foundations of the corrupt blockchain.",
+    "class": "Soundwave Marauder",
+    "name": "Toxic Tango",
+    "personality": "Gritty and cynical, Toxic Tango masks his loneliness with a facade of cool detachment. He's obsessed with reclaiming his lost DRIP, often prioritizing revenge over logic. Beneath the hardened exterior lies a desperate longing for connection, which he expresses through his meticulously crafted sonic attacks.",
+    "specialAbility": {
+      "description": "Toxic Tango unleashes a sonic blast from his Echojacks, creating a temporary sound barrier that deflects incoming projectiles and debuffs enemy accuracy within a short radius. The Gasser Mudder allows him to quickly reposition after the blast.",
+      "name": "Echo Bloom"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Leftovers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Heart Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Echojacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheeky",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:44:28.590Z"
+  }
+}

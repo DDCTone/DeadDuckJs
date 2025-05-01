@@ -1,0 +1,126 @@
+{
+  "tokenId": "248",
+  "name": "Dead Duck #248",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/248.webp",
+  "attributes": [
+    {
+      "value": "Trait__Background_E_Hideout_Degens Dashboard",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Blood Stained Ninja Bones",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Degen-Jacket",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-02",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Squack",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born from the toxic sludge seeping into the Subchain City hatchery, \"Chrome\" managed to survive his incubation period due to an experimental cryo-beak attachment. He now roams the ruins, patching up fellow ducks with scavenged scrap and a knack for makeshift engineering.",
+    "class": "Mechanic/Medic",
+    "name": "\"Chrome\" Sniffer",
+    "personality": "Wary and grizzled, Chrome doesn't trust easily, hardened by years of watching flocks crumble. Despite his tough exterior, he possesses a deeply buried sense of compassion, often risking his neck to save injured ducks, driven by a need to atone for past failures. His mechanical aptitude is only matched by his cynical wit; he'll fix your wounds, but not without a jab or two.",
+    "specialAbility": {
+      "description": "\"Salvage Patch\": Chrome quickly repairs mechanical units or heals biological units using scavenged parts. Provides a moderate amount of health and armor, with a chance to also provide a temporary stat bonus based on the parts available.",
+      "name": "Salvage Patch"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 55,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Trait  Background E Hideout Degens Dashboard",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Ninja Bones",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Degen-Jacket",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-02",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:40:34.449Z"
+  }
+}

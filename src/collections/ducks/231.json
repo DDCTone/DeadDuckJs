@@ -1,0 +1,126 @@
+{
+  "tokenId": "231",
+  "name": "Dead Duck #231",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/231.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Rubbers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Rocket Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_To-Kill-Ya",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Yoke You Out",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Salivator",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the grimy alleys of Street Rubbers Roost, 'Zipcord' learned early that survival meant being faster and crazier than the next duck. He's made a name for himself as the go-to scavenger for rare tech scraps, often venturing into the most radiated sectors of Subchain City.",
+    "class": "Tech Scavenger",
+    "name": "Zipcord",
+    "personality": "Zipcord is reckless, but remarkably resourceful. He's prone to impulsive decisions, often fueled by a desperate need for DRIP, but possesses a knack for uncovering hidden tech and jury-rigging solutions in a pinch. Beneath the bravado lies a surprisingly protective streak for those he considers part of his 'flock'.",
+    "specialAbility": {
+      "description": "Zipcord can temporarily overdrive his cybernetic enhancements (courtesy of his To-Kill-Ya hands and Vigilanti Cryo face mod), boosting his evasion and tech-scavenging speed for a short period. This also significantly increases his critical hit chance for a limited time, useful for making a quick escape or disabling a key enemy unit.",
+      "name": "Overdrive Hack"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 70,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Rubbers Roost",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Rocket Shirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "To-Kill-Ya",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Yoke You Out",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Salivator",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Cryo",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:38:22.969Z"
+  }
+}

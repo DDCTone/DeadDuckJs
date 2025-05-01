@@ -1,0 +1,126 @@
+{
+  "tokenId": "79",
+  "name": "Dead Duck #79",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/79.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Leftovers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow PnD Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cryo Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Macho Malard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snarl Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers follow 'Snarl Macho' – tales of a duckling found amidst a frozen cryo-wreck near the Old Plaza. Raised on black-market DRIP and salvaged tech, he clawed his way up from the deepest Subchain gutters, fueled by a burning ambition and a bone-chilling focus.",
+    "class": "Blinged Enforcer",
+    "name": "Snarl Macho",
+    "personality": "Ruthless and calculating. Snarl Macho sees every interaction as a transaction, every opponent as a hurdle. Despite his cold exterior, he holds a twisted sense of loyalty to his flock, brutally enforcing their claim on DRIP and eliminating threats with unsettling efficiency.",
+    "specialAbility": {
+      "description": "Snarl Macho unleashes a bone-jarring, frost-infused shriek, momentarily freezing enemies in place and inflicting bonus damage to their armor with a concentrated blast of sonic energy.",
+      "name": "Cryo-Sonic Snarl"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 45,
+      "strength": 88
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Leftovers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow PnD Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cryo Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Macho Malard",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snarl Snap",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:08:07.667Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "332",
+  "name": "Dead Duck #332",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/332.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Pedros Watching",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Gooey",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Anarchy Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling Cryo experiments gone wrong led to Nix's…unique physique, a consequence he constantly bemoans while simultaneously exploiting. He saw opportunities amidst the chaos; the fall of Subchain City simply meant more pockets to pick and more DRIP to skim.",
+    "class": "Skrilla Scavenger",
+    "name": "Nix the Glitch",
+    "personality": "Cynical and opportunistic: Nix is always looking for an angle, and has a dry, sarcastic comment for every situation. Resourceful: He can make anything into a weapon or tool, a skill honed from years of surviving off scraps. Paranoid: He trusts no one, always expecting a double-cross, which, admittedly, has saved his ducky-butt on more than one occasion.",
+    "specialAbility": {
+      "description": "Nix can temporarily scramble the targeting systems of enemy bots, causing them to misfire or target the wrong ally. The 'Gooey Kick' tech on Nix's flippers momentarily overwhelms enemy sensors, creating a window for escape and backstabbing.",
+      "name": "Gooey Glitch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 80,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Pedros Watching",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Gooey",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Anarchy Tank",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:52:02.739Z"
+  }
+}

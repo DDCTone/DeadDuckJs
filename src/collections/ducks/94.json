@@ -1,0 +1,126 @@
+{
+  "tokenId": "94",
+  "name": "Dead Duck #94",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/94.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Head Bobbers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Shadow Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Skull-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Plague",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Sad Socket",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Grimbert, once a medic in the Subchain City's sanitation division, witnessed firsthand the brutal cost of DRIP scarcity. Now, haunted by visions of fallen comrades and fueled by lukewarm coffee, he wanders the wastes, seeking to preserve the dead and hoard the last remnants of smooth quacks for, uh, reasons.",
+    "class": "Plague Doctor",
+    "name": "Grimbert 'Skull-Sip' Silentquack",
+    "personality": "Melancholic: Carries a perpetual air of regret and mutters darkly about the good old days (before the great DRIP drain). Resourceful: Can MacGyver solutions out of scraps and salvage with surprising effectiveness. Obsessive: Develops fixations on bizarre artifacts and peculiar superstitions related to plague and undeath.",
+    "specialAbility": {
+      "description": "Skull-Sip concoction: Grimbert brews a debuff potion from his skull-cup that weakens enemy defenses. When they attack it saps some of their strength and transfers it to Grimbert.",
+      "name": "Necrotic Brew"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 55
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Head Bobbers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Shadow Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skull-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Sad Socket",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:12:19.773Z"
+  }
+}

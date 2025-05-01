@@ -1,0 +1,126 @@
+{
+  "tokenId": "25",
+  "name": "Dead Duck #25",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/25.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Pedros Watching",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Greeen",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Skull-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Plague",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Iron Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising crypto-bro enjoying the high life atop Pedro's Building, a faulty DeFi protocol and a barrel of toxic waste turned Barnaby \"Burn Rate\" Bonedry into a shambling shadow of his former self. Now he wanders Subchain City, seeking the DRIP he lost, fueled by caffeine and bitter regret.",
+    "class": "Technomancer",
+    "name": "Barnaby \"Burn Rate\" Bonedry",
+    "personality": "Cynical and jittery, Burn Rate is always on edge, chain-smoking Matches and ranting about rug pulls. He maintains a facade of swagger with his outdated drip (Dragon Pants, Sk8r Socks, Cutoff Ghost Tee), masking his deep-seated fear of ending up in the liquidity pool. He's grudgingly loyal to his flock, mostly because they tolerate his constant complaining.",
+    "specialAbility": {
+      "description": "Burn Rate can hack into nearby defunct crypto mining rigs to generate a localized EMP blast of \"Frozen Gas\", slowing enemy movement and temporarily disabling their gear. High risk, high reward... especially since the rigs tend to explode.",
+      "name": "Cryo-Rig Overload"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 30,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Pedros Watching",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Greeen",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Cryo",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Skull-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Iron Bite",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:17:11.596Z"
+  }
+}

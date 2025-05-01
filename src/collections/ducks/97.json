@@ -1,0 +1,126 @@
+{
+  "tokenId": "97",
+  "name": "Dead Duck #97",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/97.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Jxrds Cracker Box",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Kicks-Static",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Beak Breaker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snarl Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the digital decay of Subchain City, 'Cipher' hatched in Jxrds Cracker Box, a notorious haven for rogue code and forgotten algorithms. He witnessed firsthand the brutality of the DRIP wars, learning to survive by exploiting glitches in the system's archaic blockchain. Now, he dedicates his skills to disrupting the iron grip of the major flocks, redistributing DRIP to the forgotten corners of the city.",
+    "class": "Cryptomancer",
+    "name": "Cipher",
+    "personality": "Cunning and resourceful, Cipher operates in the shadows, always several steps ahead. He's fiercely independent, trusting only his instincts and the flickering code of the old internet. Beneath his hardened exterior lies a sliver of hope – a belief that Subchain City can be more than just a digital wasteland.",
+    "specialAbility": {
+      "description": "Cipher can manipulate the blockchain, temporarily diverting DRIP flow to his flock or creating phantom transactions to confuse enemies. The risk is high, as failed hacks can trigger system alarms, summoning the dreaded 'Scrub Daddies'- virus-like entities that devour everything crypto.",
+      "name": "Blockchain Glitch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 92,
+      "luck": 68,
+      "strength": 45
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Jxrds Cracker Box",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Static",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Beak Breaker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snarl Snap",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:13:10.862Z"
+  }
+}

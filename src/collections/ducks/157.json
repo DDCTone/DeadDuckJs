@@ -1,0 +1,126 @@
+{
+  "tokenId": "157",
+  "name": "Dead Duck #157",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/157.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Big Yoke Center",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Kicks-Static",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Broke Beak",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Crypt Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the scrap heaps of Big Yoke Center, 'Glitch' was deemed defective early on due to his erratic AI-enhanced eyes. He honed his skills scavenging for tech scraps and dodging rival flocks, his Crow-Killer and Crypt Fang becoming symbols of his survival against all odds.",
+    "class": "Scavenger",
+    "name": "Glitch",
+    "personality": "Paranoid: Glitch trusts no one, constantly scanning for threats and always expecting a double-cross. Resourceful: He can fix almost anything with the right junk and always finds a way to make do. Erratic: His AI eyes occasionally glitch, causing him to see the world in unpredictable ways and making him prone to impulsive decisions.",
+    "specialAbility": {
+      "description": "Causes a burst of static electricity to emanate as he kicks out wildly, stunning nearby enemies in a 5-meter radius with his Kicks-Static flippers.",
+      "name": "Static Quackdown"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Big Yoke Center",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Static",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Broke Beak",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Crypt Fang",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:28:04.640Z"
+  }
+}

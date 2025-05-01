@@ -1,0 +1,126 @@
+{
+  "tokenId": "63",
+  "name": "Dead Duck #63",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/63.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Luchadas",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Parasite",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Rocket Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Shell Smasher",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the radioactive glow of Subchain City's abandoned wrestling arena, 'El Pollo Loco' learned to brawl before he learned to swim. He witnessed his flock get liquidated in the Great DRIP Drought of '28 and now roams the wastes, fueled by spite and a burning desire for revenge against the whales who drained them dry.",
+    "class": "Brawler/Hustler",
+    "name": "El Pollo Loco",
+    "personality": "Gritty, resourceful, and perpetually enraged. El Pollo Loco relies on street smarts and brutal fighting tactics over strategy. Despite his anger, he possesses a warped sense of humor, often cracking jokes to unnerve his opponents.",
+    "specialAbility": {
+      "description": "El Pollo Loco taps into his inner rage, unleashing a flurry of attacks that temporarily boost his strength and agility. This is represented in game as taking two turns in a row with bonus damage and evade chance, but he's stunned the next turn from overexertion. Shell Smasher Crown ability provides further damage. Usable once per encounter.",
+      "name": "Raging Flurry"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 65,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Luchadas",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Parasite",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Rocket Shirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Shell Smasher",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:02:21.007Z"
+  }
+}

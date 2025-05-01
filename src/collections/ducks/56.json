@@ -1,0 +1,126 @@
+{
+  "tokenId": "56",
+  "name": "Dead Duck #56",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/56.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Moshys Pitt",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow Bitty Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cryo Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_The Under Ducker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born during the Great Drip Drought of '77, Chillgoggles saw firsthand the brutal struggle for resources in Subchain City. He witnessed his flock leader, a revered elder, succumb to the freezing clutches of a Cryo-Raider gang. Swearing vengeance, Chillgoggles honed his skills in the icy outskirts, becoming a master of guerilla warfare and unconventional tactics.",
+    "class": "Cryo-Guerilla",
+    "name": "Chillgoggles",
+    "personality": "Stoic and calculating, Chillgoggles rarely emotes, his face hidden behind his signature Shock-Goggles-Cryo. He's fiercely loyal to those he deems worthy, but ruthless to his enemies, often using the environment to his advantage. Despite the grim reality, he possesses a dark sense of humor, often delivering sarcastic quips even in the heat of battle.",
+    "specialAbility": {
+      "description": "\"Icy Retribution\" - Upon taking critical damage, Chillgoggles unleashes a localized cryo-blast, freezing nearby enemies in place for 2 turns. Has a 3-turn cooldown. The blast radius is determined by his Intelligence stat, and the duration of the freeze is affected by enemy's Agility.",
+      "name": "Icy Retribution"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 60,
+      "strength": 55
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Moshys Pitt",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo Marked",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bitty Shirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cryo Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "The Under Ducker",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:00:54.073Z"
+  }
+}
