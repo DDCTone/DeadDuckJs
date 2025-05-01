@@ -1,0 +1,126 @@
+{
+  "tokenId": "227",
+  "name": "Dead Duck #227",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/227.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_The Safety Pin",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Punk Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Plague",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Scrappy, as he's known in Subchain City's underbelly, found a discarded crate of Punk Rock Vinyls when he was just a fledgling. The blood-stained shirt is not from raids, but from multiple altercations with enforcers. He now wanders the city, trading information and DRIP on the black market, always on the lookout for more vinyls.",
+    "class": "Information Broker/Scavenger",
+    "name": "Scrappy 'Vinyl' VonQuack",
+    "personality": "Resourceful and Cunning: Scrappy can turn a rusty bolt into a Drip. He has an eye for detail and the ability to spot opportunity where others only see decay. Irritable and Distrustful: After his dealings with Subchain City heavies, Scrappy trusts no one and is always looking over his shoulder.",
+    "specialAbility": {
+      "description": "Scrappy can analyze the terrain and enemy deployments to identify hidden resources or vulnerabilities. This grants the flock a temporary bonus to resource gathering or damage output against specific enemy types.",
+      "name": "Black Market Intel"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 80,
+      "luck": 60,
+      "strength": 45
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg The Safety Pin",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Punk Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:37:47.465Z"
+  }
+}

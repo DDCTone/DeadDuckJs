@@ -1,0 +1,126 @@
+{
+  "tokenId": "35",
+  "name": "Dead Duck #35",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/35.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Monument_Crypto-Trenches",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Odins-Hammer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Squack",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Grit Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Phantomfeather Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the radioactive mudflats near the Crypto-Trenches, 'Hammer' Squackerson scavenged for scraps amongst the digital ruins. The Growler Vest held salvaged DRIP-tech boosting his strength, but it was the Phantomfeather Cryo mutation that truly set him apart, turning his rage into icy precision.",
+    "class": "Berserker",
+    "name": "'Hammer' Squackerson",
+    "personality": "Brooding and volatile. Hammer carries the weight of Subchain City on his wing. He's fiercely loyal to his flock, but prone to fits of icy rage, triggered by perceived injustices or the mere sight of a shiny, unaffordable NFT.",
+    "specialAbility": {
+      "description": "Unleashes a devastating AOE attack with Odin's Hammer, freezing enemies solid for 2 turns. Limited by the cooldown of his unstable Cryo mutation.",
+      "name": "Cryo-Hammer Smash"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 88
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Monument Crypto-Trenches",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Odins-Hammer",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Grit Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Phantomfeather Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:20:07.404Z"
+  }
+}

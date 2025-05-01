@@ -1,0 +1,126 @@
+{
+  "tokenId": "87",
+  "name": "Dead Duck #87",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/87.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Building_Flow Below",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Quackie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling Shadow Marked from birth, \"Matchstick\" was born into a Subchain City flock known as the Cinderquacks, a crew who specialized in burning down abandoned infrastructure for warmth and DRIP salvage. Surviving a raid gone wrong saw him orphaned and forced to adapt, scavenging scraps and learning to fight dirty in the ruins before finding his own place amongst the Sk8rs.",
+    "class": "Pyromaniac Scavenger",
+    "name": "Matchstick",
+    "personality": "Reckless and impulsive, Matchstick is always itching for a fight or a chance to set something ablaze. He's fiercely independent but secretly craves the camaraderie of a flock, constantly pushing boundaries to test loyalty. Beneath the pyrotechnics lies a surprisingly quick wit and a talent for improvising under pressure and a desperate need for family.",
+    "specialAbility": {
+      "description": "Matchstick hurls a Molotov cocktail cobbled together from salvaged DRIP reserves that sets a target area ablaze. Enemies caught in the flames suffer damage over time, and the burning area provides a visual obscurance.",
+      "name": "Cinderquack Cocktail"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 60
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Building Flow Below",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Quackie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:10:30.758Z"
+  }
+}

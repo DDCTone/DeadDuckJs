@@ -1,0 +1,126 @@
+{
+  "tokenId": "158",
+  "name": "Dead Duck #158",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/158.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Hollow Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born from the muck of Subchain City, Wrencher started as a simple scavenger searching for scraps. After stumbling upon an abandoned cache of tech, he quickly became the fix-it duck for his local flock, jury-rigging defenses and keeping their antiquated gear operational.",
+    "class": "Mechanic",
+    "name": "Wrencher",
+    "personality": "Wrencher is resourceful and inventive. He can MacGyver his way out of anything, even if it looks like it's held together with spit and hope. Beneath the grim exterior is a softie that believes in protecting his flock.",
+    "specialAbility": {
+      "description": "Deploy a makeshift turret constructed from salvaged parts. The turret provides cover and fires a volley of scrap projectiles at nearby enemies, dealing moderate damage and applying a temporary debuff that reduces enemy accuracy.",
+      "name": "Junkyard Turret"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 85,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Shadow",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Hollow Beak",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:28:12.633Z"
+  }
+}

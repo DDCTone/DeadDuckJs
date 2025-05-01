@@ -1,0 +1,126 @@
+{
+  "tokenId": "149",
+  "name": "Dead Duck #149",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/149.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Beat Down Boots",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_La Sombra De Pluma",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the defunct Golden Gate Bridge, 'Brick' Breaker spent his hatchling days scavenging for scraps amongst the rubble of Street Yay Blvd. He learned early that survival in Subchain City meant having both a sharp beak and an even sharper crowbar.",
+    "class": "Breacher",
+    "name": "'Brick' Breaker",
+    "personality": "Grit tempered with Gallows Humor: Brick faces the grim realities of Subchain City with a morbid sense of humor, often cracking jokes when danger is near. Resourceful and Stubborn: Years of scraping by have made him incredibly resourceful, and once he sets his mind on something, nothing short of a DRIP drought can stop him. Loyal: Despite his rough exterior, Brick is fiercely loyal to his flock, always willing to put himself on the line for their safety.",
+    "specialAbility": {
+      "description": "Using his trusty crowbar and brute strength, Brick can smash through fortified cover, creating new pathways for his flock while stunning any enemies unlucky enough to be caught in the debris.",
+      "name": "Breach & Clear"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 45,
+      "luck": 30,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Beat Down Boots",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "La Sombra De Pluma",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:26:57.374Z"
+  }
+}

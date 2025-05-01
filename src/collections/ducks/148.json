@@ -1,0 +1,126 @@
+{
+  "tokenId": "148",
+  "name": "Dead Duck #148",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/148.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_The Safety Pin",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Cyborgs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Elm Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Beak Breaker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wiper spent his early days scavenging for scraps in the shadow of The Safety Pin, earning his keep by 'cleaning' up messes for the local flocks. One particularly nasty incident involving a rogue oil spill and a rival gang of goose bandits left him with a thirst for vengeance... and a distinct metallic glint in his eyes.",
+    "class": "Cybernetic Enforcer",
+    "name": "Wiper",
+    "personality": "Grimly pragmatic: Wiper sees the world in shades of rust and leaking oil, trusting only in what he can dismantle and reassemble. Surprisingly loyal: Once he pledges allegiance to a flock, he'll scrub every last drip of DRIP for them, even if it means getting his beak dirty. Intimidating: His robotic enhancements and blood-stained feathers send a clear message: 'Don't mess with Wiper or his flock'.",
+    "specialAbility": {
+      "description": "Wiper can temporarily boost his attack power by cannibalizing nearby scrap metal, turning it into razor-sharp projectiles fired from his Beak Breaker hands. This ability grants +30 to attack for one turn, but lowers his agility by 10 for the next turn due to decreased mobility.",
+      "name": "Scrap Metal Barrage"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 40,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg The Safety Pin",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Cyborgs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Elm Shirt",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Beak Breaker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:26:49.394Z"
+  }
+}

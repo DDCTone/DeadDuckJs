@@ -1,0 +1,126 @@
+{
+  "tokenId": "191",
+  "name": "Dead Duck #191",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/191.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Outdo Corner",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Rugged",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cyro",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_To-Kill-Ya",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Shatter Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "From the outskirts of Subchain City, Quacksilver survived the Purge of '27 by scavenging amongst the ruins and perfecting his cyro-tech skills to protect himself and others on his level. He's always been a lone duck, trusting only his instincts and the cold comfort of his Featherguard Cyro. Now, he seeks to disrupt the DRIP cartel and bring balance to the blockchain, one icy blast at a time.",
+    "class": "Cyro Disruptor",
+    "name": "Quacksilver",
+    "personality": "Cynical and resourceful, Quacksilver trusts no one and sees the worst in every situation, because it usually comes true. However, he has a soft spot for hatchlings and will go to great lengths to protect them, though he'll never admit it. Quacksilver's sense of humor is dry and sarcastic, often delivered with a deadpan expression.",
+    "specialAbility": {
+      "description": "Quacksilver unleashes a freezing blast from his Featherguard Cyro, encasing enemies in ice, reducing their agility, and potentially freezing them in place for a turn. The shattering fang beak enhances the freezing power.",
+      "name": "Cryo-Fracture"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 40,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Outdo Corner",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Rugged",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cyro",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "To-Kill-Ya",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Shatter Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Bubblegum",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:32:55.643Z"
+  }
+}

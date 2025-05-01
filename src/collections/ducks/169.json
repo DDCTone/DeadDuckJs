@@ -1,0 +1,126 @@
+{
+  "tokenId": "169",
+  "name": "Dead Duck #169",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/169.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Big Yoke Center",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Quackie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff of the Great Crypto Crash of '22, Patch was raised by a pack of feral coding bots until he stumbled upon an abandoned biker gang hideout. He learned the ways of the road, the art of the quick score, and the importance of a good pair of Slimer Kicks.",
+    "class": "Grease Monkey",
+    "name": "Patch",
+    "personality": "Cynical and resourceful, Patch sees the Subchain City for what it is: a duck-eat-duck world. He's fiercely independent but secretly yearns for a flock to call his own. He expresses this inner turmoil by constantly tinkering and upgrading his riot gear, searching for that perfect balance between style and survival.",
+    "specialAbility": {
+      "description": "Patch can temporarily reroute DRIP flow, diverting a small percentage of an enemy flock's earnings to his own for a limited time. This 'Faucet Hack' can turn the tide in a raid, but it leaves a trail of digital crumbs that skilled trackers can follow.",
+      "name": "Faucet Hack"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 65,
+      "luck": 45,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Big Yoke Center",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Quackie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:29:44.357Z"
+  }
+}

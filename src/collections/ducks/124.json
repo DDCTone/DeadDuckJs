@@ -1,0 +1,126 @@
+{
+  "tokenId": "124",
+  "name": "Dead Duck #124",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/124.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Dia De Drinks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Toxic",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bland Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Sad Socket",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the backroom of the defunct \"Dia De Drinks\" bar, Glitch grew up scavenging old circuit boards and broken game consoles. He learned to navigate the Subchain City's underbelly before he could even waddle, always searching for a signal, a path, anything to escape the digital decay.",
+    "class": "Netrunner",
+    "name": "Glitch",
+    "personality": "Glitch is a twitchy and anxious duck, constantly scanning his surroundings for threats or opportunities. He's also fiercely loyal to his flock, willing to risk his neck to provide them with intel or a well-timed distraction. Despite his anxiety, he has a dark sense of humor, often making morbid jokes to lighten the mood.",
+    "specialAbility": {
+      "description": "Glitch can temporarily overload enemy drones or turrets with a burst of toxic code, causing them to malfunction or target their allies.",
+      "name": "Toxic Override"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Dia De Drinks",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bland Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Sad Socket",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:22:09.517Z"
+  }
+}

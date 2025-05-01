@@ -1,0 +1,126 @@
+{
+  "tokenId": "264",
+  "name": "Dead Duck #264",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/264.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Prove Mom Wrong",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Starburst",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Skull-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Molt Cap",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff of Old Google HQ, Glitch saw his siblings succumb to the dreaded 'Blue Screen Rot' early on. He vowed to master the digital wasteland and prove his mom wrong about those 'useless coding classes'.",
+    "class": "Technomancer",
+    "name": "Glitch",
+    "personality": "Cynical: After years of debugging reality, Glitch expects everything to break down eventually. Resourceful: He can MacGyver just about anything from scrap parts and corrupted data. Secretly Yearns for Mom's Approval: Deep down, he just wants her to acknowledge his superior hacking skills.",
+    "specialAbility": {
+      "description": "Glitch overloads an enemy unit with corrupted code, dealing damage over time and potentially causing their systems to malfunction (e.g., reduced accuracy, movement speed).",
+      "name": "Fatal Error"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 32,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Prove Mom Wrong",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Starburst",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skull-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Cap",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:42:57.040Z"
+  }
+}

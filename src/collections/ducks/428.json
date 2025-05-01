@@ -1,0 +1,126 @@
+{
+  "tokenId": "428",
+  "name": "Dead Duck #428",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/428.webp",
+  "attributes": [
+    {
+      "value": "Trait__Background_E_Hideout_Degens Dashboard",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Punk",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Lengua",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the shadow of Subchain City's decaying infrastructure, 'Lengua' Lou learned to scavenge and hustle from a young age. The streets taught him that a silver tongue and a quick escape were more valuable than brute force in the fight for DRIP.",
+    "class": "Scout/Rouge",
+    "name": "'Lengua' Lou",
+    "personality": "- Resourceful: Lou can find uses for even the most broken tech and discarded scraps. He always manages to cobble together something useful, even in the direst situations.\n- Silver-Tongued: Lou can talk his way in or out of almost any situation.\n- Chaotic: Lou has a bit of a mischievous streak. He never passes up an opportunity for a prank or bit of mayhem.",
+    "specialAbility": {
+      "description": "\"Grease the Wheels\": Lou uses his natural charm and knack for negotiation to lower the cost of items at salvage dens. May occasionally convince rogue bots to switch sides...temporarily.",
+      "name": "Grease the Wheels"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 70,
+      "luck": 60,
+      "strength": 45
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Trait  Background E Hideout Degens Dashboard",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Punk",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Lengua",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:05:49.930Z"
+  }
+}

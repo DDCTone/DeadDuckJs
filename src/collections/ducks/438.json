@@ -1,0 +1,126 @@
+{
+  "tokenId": "438",
+  "name": "Dead Duck #438",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/438.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Muggers Meetup",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Static",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Pond",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the blood-soaked ruins of a former hatchery, 'Crimson' Quackers learned early that DRIP doesn't come easy. He scrapped his way through the slums, running with the Street Muggers, until he caught the eye of the Shadow Eth Syndicate, who noticed his knack for 'redistributing' crypto.",
+    "class": "Enforcer",
+    "name": "Crimson Quackers",
+    "personality": "Ruthless and pragmatic, Crimson sees every interaction as a transaction. He's fiercely loyal to his flock, but doesn't hesitate to use others as leverage. Beneath the hardened exterior lies a flicker of hope for a better Subchain City.",
+    "specialAbility": {
+      "description": "Crimson can use the crow-killer bar to 'persuade' enemies. Gasser Static field around it causes an area-of-effect stun locking.",
+      "name": "Crow-Killer Static"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Muggers Meetup",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Static",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Pond",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:06:56.958Z"
+  }
+}

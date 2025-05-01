@@ -1,0 +1,126 @@
+{
+  "tokenId": "36",
+  "name": "Dead Duck #36",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/36.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Hunkers Junkers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Plagued",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Muffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Sad Socket",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Bartholomew 'Barty' Rotfeather once ran the most successful Sk8r Gang in Sector 7, before the Great Drip Famine. Now, haunted by the loss of his crew and the ever-present stench of decay, he seeks solace in the Junkers' hideouts, hoarding what little DRIP he can find.",
+    "class": "Plagued Raider",
+    "name": "Barty Rotfeather",
+    "personality": "Melancholic and cynical, Barty masks his pain with dark humor and a ruthless pragmatism. He's got a soft spot for lost causes, probably because he sees himself as one. Despite his grim outlook, he's fiercely loyal to those who earn his trust.",
+    "specialAbility": {
+      "description": "Barty's 'Rotten Luck' ability allows him to temporarily inflict a 'Plague Touch' on his melee attacks, dealing persistent damage over time and reducing the target's DRIP acquisition rate by 10%.",
+      "name": "Rotten Luck"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 30,
+      "strength": 75
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Hunkers Junkers",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Muffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Sad Socket",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:20:40.474Z"
+  }
+}

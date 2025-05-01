@@ -1,0 +1,126 @@
+{
+  "tokenId": "218",
+  "name": "Dead Duck #218",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/218.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Growl Bikes Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Fudders",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Red Feather Strat",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Deboner",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snarl Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a celebrated crypto-bard, \"Shredder\" lost his flock when a rogue algorithm drained their collective wallets. Now fueled by vengeance and cheap synth-ale, he roams Subchain City, looking to punish those responsible for evaporating his fame... and his $DRIP.",
+    "class": "Rogue Rocker",
+    "name": "Shredder Synthblade",
+    "personality": "Gritty and cynical, Shredder has a penchant for dramatic entrances and even more dramatic exits. Despite his jaded exterior, he cares deeply for other musicians of Subchain City, and will always put his life on the line for the sake of a solid riff.",
+    "specialAbility": {
+      "description": "Unleashes a sonic blast from his Red Feather Strat, stunning enemies in a wide radius and disrupting their blockchain signals.",
+      "name": "Crypto-Acoustic Mayhem"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Growl Bikes Garage",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Fudders",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Red Feather Strat",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Deboner",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snarl Snap",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:36:39.493Z"
+  }
+}

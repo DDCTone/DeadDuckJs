@@ -1,0 +1,126 @@
+{
+  "tokenId": "72",
+  "name": "Dead Duck #72",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/72.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Red Feather Strat",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Echojacks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Chord hails from the forgotten district of Echo Junction, where the rusted echoes of pre-Collapse rock vibrated in the dust-choked air. He scavenged parts and learned to shred on a makeshift six-string before DRIP raids were even a thing, his music a defiant scream against the oppressive silence of Subchain City.",
+    "class": "Bardbarian",
+    "name": "Chord Strata",
+    "personality": "Chord is a whirlwind of manic energy and a surprising amount of stoicism. He is fiercely loyal to his flock, but has a tendency to take unnecessary risks in the name of ROCK.",
+    "specialAbility": {
+      "description": "Chord unleashes a sonic wave with his Red Feather Strat, shredding enemy armor and boosting friendly flock member's attack damage for 2 turns. Affected units within a short radius of Chord have a 30% increased critical hit chance.",
+      "name": "Sonic Shred"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 55,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Red Feather Strat",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Echojacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:04:57.634Z"
+  }
+}

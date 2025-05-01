@@ -1,0 +1,126 @@
+{
+  "tokenId": "266",
+  "name": "Dead Duck #266",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/266.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_DDC-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Lengua",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Bartholomew \"Barty\" Skulltongue started out as a simple stage diver. One wrong jump at a Dimethyltryptamine Deficiency Concert and a toxic gas leak later, Barty found himself immune to most of Subchain City's woes, and also somewhat dead. Now, he uses his immunity and natural agility to scout for DRIP and cause mayhem with his home-brewed concoctions.",
+    "class": "Toxic Punk Scout",
+    "name": "Bartholomew \"Barty\" Skulltongue",
+    "personality": "Chaotic: Barty lives for the anarchy and disruption; Unpredictable: Even Barty doesn't know what he'll do next; Resourceful: After years on the streets, he can MacGyver his way out of any problem.",
+    "specialAbility": {
+      "description": "Barty hurls a vile cocktail of toxic sludge, creating a cloud that poisons enemies and buffs allies with temporary immunity to toxins.",
+      "name": "Toxic Gasser Burst"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 75,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "DDC-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Lengua",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:43:11.541Z"
+  }
+}

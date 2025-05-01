@@ -1,0 +1,126 @@
+{
+  "tokenId": "78",
+  "name": "Dead Duck #78",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/78.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street-Degen Drive",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Hollowbeak Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Slick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers say Slick Sammy arose from the rotted underbelly of Subchain City, a ghost in the grease. Some claim he was once a gilded beak, a ledger lord who lost everything in the great DRIP drought, now forever haunted by the past.",
+    "class": "Shadow Broker",
+    "name": "Slick Sammy",
+    "personality": "Cunning and secretive, Sammy operates in the shadows, always seeking an angle. He's cynical but pragmatic, believing that in Subchain City, trust is a luxury no one can afford. Ruthless in his pursuit of DRIP, Sammy holds knowledge as his greatest currency.",
+    "specialAbility": {
+      "description": "Slick Sammy can 'Grease the Wheels,' temporarily boosting the luck stat of his allies, increasing their chance of successful scavenging or dodging enemy attacks. This boost is short-lived but can turn the tide in a clutch moment.",
+      "name": "Grease the Wheels"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 60,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street-Degen Drive",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Hollowbeak Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Slick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:07:32.471Z"
+  }
+}

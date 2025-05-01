@@ -1,0 +1,126 @@
+{
+  "tokenId": "58",
+  "name": "Dead Duck #58",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/58.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Dia De Drinks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Punk",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Red Feather Strat",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Blood Mask",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Splinter Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a celebrated blues musician, 'String Plucker' lost everything when the Great Liquidity Crash turned Subchain City into a dust bowl. Now, haunted by Dead-Eyes and the ghost of his former glory, he wanders the wastes, strumming his Red Feather Strat for scraps and DRIP.",
+    "class": "Bard",
+    "name": "String Plucker",
+    "personality": "Melancholic: String Plucker constantly reflects on the past, lamenting the loss of his fame and the city's vibrant music scene. Resourceful: Years of hustling for DRIP have made him adept at finding opportunity where others see only ruin. Cynical: Betrayal and hardship have left him with a jaded view of the world and its inhabitants, though a flicker of hope remains deep down.",
+    "specialAbility": {
+      "description": "String Plucker can unleash a 'Chord of Chaos' from his Red Feather Strat, creating a sonic blast that disorients enemies and temporarily boosts the morale (and stats) of his allies. The louder the crowd, the stronger the effect.",
+      "name": "Chord of Chaos"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 75,
+      "luck": 45,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Dia De Drinks",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Punk",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Red Feather Strat",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Blood Mask",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Splinter Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:01:13.291Z"
+  }
+}

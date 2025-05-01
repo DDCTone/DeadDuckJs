@@ -1,0 +1,126 @@
+{
+  "tokenId": "170",
+  "name": "Dead Duck #170",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/170.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Enjoyed Silence",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-02",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found abandoned as a hatchling in the ruins of the old skater park, Sk8r Boi was raised by a pack of feral pigeons who taught him the brutal ways of Subchain City. His growler vest, scavenged from a fallen raider, and custom Sk8rs DDCs are his only connection to the life he once knew before the DRIP wars.",
+    "class": "Skirmisher",
+    "name": "Sk8r Boi",
+    "personality": "Reckless and impulsive, Sk8r Boi is always the first to dive headfirst into chaos. Despite his gruff exterior, he has a soft spot for the underdog and is fiercely loyal to his flock, often putting himself in harm's way to protect them. His past trauma has also lead to occasional bouts of anger, especially when challenged.",
+    "specialAbility": {
+      "description": "Sk8r Boi ollies over the enemy, creating a temporary path for allies and stunning the target for 1 turn. He can perform this action while moving.",
+      "name": "Ollie Over"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 45,
+      "luck": 60,
+      "strength": 70
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Enjoyed Silence",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-02",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:29:52.150Z"
+  }
+}

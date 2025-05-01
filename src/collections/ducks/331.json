@@ -1,0 +1,126 @@
+{
+  "tokenId": "331",
+  "name": "Dead Duck #331",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/331.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Flipper Kicks Dojo",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Featherstrung",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Gold Talon",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Zero Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hailing from the forgotten dojo of Flipper Kicks, Sensei 'Zero' Zane was once a revered martial arts instructor. But when the DRIP wars erupted, he traded in his gi for scavenged gear and a bone-dry determination to protect his students, even if it meant shattering a few beaks along the way.",
+    "class": "Martial Enforcer",
+    "name": "Sensei 'Zero' Zane",
+    "personality": "Stoic, Disciplined, and Pragmatic. Zane is the quiet type, but a natural leader. He rarely shows emotion, hidden behind his Cryo Beakwear to inspire confidence. Zane adheres to a strict code of honor, valuing loyalty and skill above all else, and is reluctant to speak unless he has something worth saying.",
+    "specialAbility": {
+      "description": "With a swift strike from his Featherstrung, Zero can either disarm an opponent stunning them for a turn, or send a shockwave through the earth, knocking down all enemies within a 3 tile radius.",
+      "name": "DRIP String Barrage"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 85
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Flipper Kicks Dojo",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherstrung",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Gold Talon",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Zero Snap",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:51:54.550Z"
+  }
+}

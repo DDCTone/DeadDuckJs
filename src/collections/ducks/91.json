@@ -1,0 +1,126 @@
+{
+  "tokenId": "91",
+  "name": "Dead Duck #91",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/91.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smuglers Alley",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Smack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Shatter Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found as a hatchling amidst the radioactive ruins of a drum factory, 'Rhythm Bone' was raised by a clan of feral percussionists. He learned to scavenge and fight in the echoing junkyards, his drumsticks becoming both his weapons and his solace in the desolate wastes of Subchain City.",
+    "class": "Percussion Mercenary",
+    "name": "Rhythm Bone",
+    "personality": "Erratic and impulsive. Rhythm Bone's mood swings like a broken metronome, going from jovial beats to furious drum solos in seconds. But beneath the surface lies a loyalty to his gang that beats stronger than any drum.",
+    "specialAbility": {
+      "description": "Rhythm Bone can unleash a deafening 'Sonic Boom' by rapidly striking his drumsticks together. This stuns nearby enemies and creates a temporary sound barrier, reducing incoming damage.",
+      "name": "Sonic Boom"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 65,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smuglers Alley",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Smack Pants",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Shatter Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:11:29.261Z"
+  }
+}

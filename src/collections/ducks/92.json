@@ -1,0 +1,126 @@
+{
+  "tokenId": "92",
+  "name": "Dead Duck #92",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/92.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Growl Bikes Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Macho Malard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Lengua",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a pampered pet in the pre-collapse era, 'El Lengua' witnessed the fall of his gilded cage and the rise of Subchain City. The apocalypse twisted his once fashionable attire into a rugged ensemble of survival, trading designer collars for blood-stained shirts and the thrill of the DRIP chase. Rumor has it the the tongue comes from fallen enemies.",
+    "class": "Raider",
+    "name": "El Lengua",
+    "personality": "El Lengua posses both charisma and ruthlessness. Once the leader of a Flock, he now has a deep mistrust of others, preferring to be a lone wolf (or duck). He rarely speaks - but will often display his signature tongue taunt to enrage foes.",
+    "specialAbility": {
+      "description": "A terrifying display of El Lengua's signature tongue and a toxic belch momentarily blinds and poisons nearby enemies, reducing their accuracy and strength for a short duration.",
+      "name": "Toxic Taunt"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 45,
+      "luck": 60,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Growl Bikes Garage",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Macho Malard",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Lengua",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:11:37.007Z"
+  }
+}

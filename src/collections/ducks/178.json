@@ -1,0 +1,126 @@
+{
+  "tokenId": "178",
+  "name": "Dead Duck #178",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/178.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street-Degen Drive",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ouchy",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born and raised in the grimy underbelly of Subchain City's Degen Drive, 'Bang-Bang' Barry wasn't cursed with any unique skills, his parents were just Ghost Marked hatchlings. He learned to bang on anything he could find, turning the city's cacophony into his own chaotic symphony. Now, he leverages his rhythmic mayhem to disorient foes and rally his flock.",
+    "class": "Disruptor",
+    "name": "'Bang-Bang' Barry",
+    "personality": "Chaotic: Barry's mind is a scrambled mess of drum beats and broken code. Enthusiastic: Finds boundless energy in the face of Subchain's bleakness and is always up for causing a ruckus, his 'Ouchy' demeanor aside. Loyal: Beneath the surface of noise and bruises lies a fierce devotion to his flock, drummin' up the energy to protect them at all costs.",
+    "specialAbility": {
+      "description": "Unleashes a sonic barrage with his drumsticks, based on some corrupted blockchain-derived algorithm, briefly stunning nearby enemies and boosting the morale (and attack power) of surrounding allies. The 'Hooded Blood Stained' cloak grants him brief invincibility when performing his sonic attack.",
+      "name": "Rhythmic Rupture"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 60,
+      "strength": 55
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street-Degen Drive",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Ouchy",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:31:02.461Z"
+  }
+}

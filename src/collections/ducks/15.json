@@ -1,0 +1,126 @@
+{
+  "tokenId": "15",
+  "name": "Dead Duck #15",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/15.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Cold Meano Vinos",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling Hazard, once a promising bartender at the legendary Meano Vino's, lost it all when the DRIP dried up. Now he scours Subchain City, looking for enough resources to reopen his bar, one watered-down Mai Tai at a time.",
+    "class": "Barkeep Brawler",
+    "name": "\"Rusty\" Nail",
+    "personality": "Cynical and resourceful, Rusty always has a sarcastic quip ready, but deep down tries to bring a little bit of the old world into the new one. His addiction to shiny things often gets him into trouble, but his dragon-tail pants have saved him more than once.",
+    "specialAbility": {
+      "description": "Rusty tosses a Molotov cocktail made with cheap synth-vino at enemies in a small AOE, dealing fire damage and lowering their DRIP resistance for 2 turns.",
+      "name": "Vino Inferno"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Cold Meano Vinos",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:19.916Z"
+  }
+}

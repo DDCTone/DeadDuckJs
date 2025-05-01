@@ -1,0 +1,126 @@
+{
+  "tokenId": "242",
+  "name": "Dead Duck #242",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/242.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Growl Bikes Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Beat Down Boots",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Duck Smiter",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Fuss",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising coder in the pre-collapse era, Glitch witnessed firsthand the catastrophic DRIP drought that turned Subchain City into a digital wasteland. Now, haunted by the ghosts of failed smart contracts, he wanders the Growler's Graveyard, seeking retribution with his trusty Duck Smiter and a lukewarm cup of GM-brand coffee.",
+    "class": "Blockchain Bounty Hunter",
+    "name": "Glitch",
+    "personality": "Glitch is a stoic and cynical duck, forever muttering about gas fees and rug pulls. Despite his grim outlook, he possesses a dry wit and a surprising amount of technical knowledge, making him a valuable ally in the right situation.",
+    "specialAbility": {
+      "description": "With a swig of his GM-Cup and a focused Alpha gaze, Glitch can temporarily disrupt blockchain transactions in a small radius, delaying enemy attacks or preventing resource grabs. This ability drains his stamina substantially.",
+      "name": "Transaction Tamper"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Growl Bikes Garage",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Beat Down Boots",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Duck Smiter",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Fuss",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:39:49.463Z"
+  }
+}

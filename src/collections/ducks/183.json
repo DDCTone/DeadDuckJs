@@ -1,0 +1,126 @@
+{
+  "tokenId": "183",
+  "name": "Dead Duck #183",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/183.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Smackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Blood Stained",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Soft Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the ruins of Street Yay Blvd, Cipher survived by hacking defunct crypto-kiosks for spare DRIP. The Saturn Eyes give him an unnatural sense of future probabilities in the ruined city. He's seen the best and worst of Subchain City and won't let anyone take what little he's managed to scrape together.",
+    "class": "CyberScout",
+    "name": "Cipher",
+    "personality": "Cynical: Years of scavenging have made him distrustful of everyone.\nResourceful: Cipher can fix almost anything with the junk he carries in his smackpack.\nPragmatic: He won't take unnecessary risks, but he'll do what needs to be done to survive.",
+    "specialAbility": {
+      "description": "Cipher analyzes the blockchain in real time, predicting enemy movements and DRIP hotspots on the map. Lasts for 3 turns.",
+      "name": "Code Quack"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 85,
+      "luck": 45,
+      "strength": 52
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Smackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Soft Peck",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:31:49.140Z"
+  }
+}

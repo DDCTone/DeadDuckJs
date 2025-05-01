@@ -1,0 +1,126 @@
+{
+  "tokenId": "307",
+  "name": "Dead Duck #307",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/307.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Echojacks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Beak Breaker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Ion Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a barista at Burnt Beans, Cipher witnessed the Great Drip Drought firsthand. When the chaos hit, he scavenged what he could – a beat-up Static Tank, some toxic Gasser cannisters, and a pair of Echojacks to drown out the screams – and swore an oath to reclaim the DRIP for the people.",
+    "class": "Audio-Tactical Saboteur",
+    "name": "Cipher",
+    "personality": "Cynical but loyal. Cipher hides his soft spot under layers of sarcasm and grime. Intensely protective of his flock, he'll risk it all to ensure their survival, even if he complains the whole damn time.",
+    "specialAbility": {
+      "description": "Cipher slams his Echojacks, emitting a sonic pulse that disrupts enemy comms and temporarily stuns them, giving his flock an opening for attack or escape. The Ion Bite beak delivers an extra shock to any unfortunate enough to be caught in the fray.",
+      "name": "Headcrack Harmonic"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 60,
+      "strength": 50
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Echojacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Beak Breaker",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Ion Bite",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Cryo",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:48:48.405Z"
+  }
+}

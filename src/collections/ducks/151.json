@@ -1,0 +1,126 @@
+{
+  "tokenId": "151",
+  "name": "Dead Duck #151",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/151.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Stitchy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Static Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Static Peck Pete was born on the wrong side of the reservoir. He clawed his way up from the Hatchling Mud Flats, surviving on grubs and grit. Now, he's got a reputation for 'persuasion' and a 'static' handshake that leaves most ducks twitching on the ground, begging for mercy.",
+    "class": "Enforcer",
+    "name": "Static Peck Pete",
+    "personality": "Ruthless: Pete doesn't hesitate to get his webbed feet dirty. Pragmatic: He knows the value of DRIP and how to get it. Unpredictable: One minute, he's charming; the next, he's zapping you with his Static Peck.",
+    "specialAbility": {
+      "description": "Pete's 'Static Peck' ability allows him to deliver a paralyzing shock to a nearby enemy, stunning them for one turn and making them vulnerable to attack. Has a chance to backfire, shocking himself instead due to faulty internal wiring.",
+      "name": "Static Peck"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 50,
+      "luck": 35,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stitchy",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Static Peck",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:27:15.283Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "340",
+  "name": "Dead Duck #340",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/340.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Splinter Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the smoldering ruins of Subchain City's once-famous Burnt Beans cafe, 'Splinter' was hatched into a world perpetually caffeinated and perpetually on edge. The constant aroma of burnt coffee beans seared into his very being has left him twitchy, paranoid, and surprisingly good at finding stashes of pre-collapse espresso.",
+    "class": "DRIP Raider",
+    "name": "Splinter Jaw Hazard",
+    "personality": "Paranoid and twitchy, thanks to a lifetime of exposure to burnt coffee fumes and the general chaos of Subchain City. Highly opportunistic, always looking for the next DRIP stash, and surprisingly superstitious despite his hardened exterior. Secretly desires a double shot of pre-collapse espresso, and is constantly reminded of it through the location he was hatched in.",
+    "specialAbility": {
+      "description": "Unleashes a flurry of splinter-sharp beak strikes fueled by pure caffeine jitters, dealing extra damage to enemies in close range and can do critical damage to their armor, and especially the helmets. Has a chance to cause 'Coffee Coma' - stunning a target for one round.",
+      "name": "Caffeine Fury"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Splinter Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Hazard",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:53:04.028Z"
+  }
+}

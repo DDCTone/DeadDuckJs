@@ -1,0 +1,126 @@
+{
+  "tokenId": "174",
+  "name": "Dead Duck #174",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/174.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Plagued",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Punk Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Duck Smiter",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Featherwarmer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Vice Grip",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Clank was once a master craftsman at the Subchain City Building Supply Depot before the DRIP wars ravaged the land. Now, haunted by the echoing clang of his abandoned workshop, he uses his skills to dismantle enemy fortifications and 'convince' other ducks to see things his way.",
+    "class": "Breaker",
+    "name": "Clank",
+    "personality": "Clank is pragmatic and a bit unhinged. His sanity hangs by a thread after years of scavenging in Subchain City (the red eyes don't lie), but he channels his experiences into his work, making him brutally efficient.",
+    "specialAbility": {
+      "description": "Clank uses his Vice Grip Beaks to tear apart enemy defenses increasing the chance of his flock landing a critical hit during their next attack and temporarily weakens fortifications.",
+      "name": "Demolition Beak"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Punk Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Duck Smiter",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Featherwarmer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Vice Grip",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:30:29.950Z"
+  }
+}

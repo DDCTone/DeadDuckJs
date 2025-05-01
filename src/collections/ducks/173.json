@@ -1,0 +1,126 @@
+{
+  "tokenId": "173",
+  "name": "Dead Duck #173",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/173.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Choochys Chop Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Kicks-Static",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Cryo Ninja Top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Madd Fancy",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Quackless",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Mudder",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found as a freshly hatched duckling amidst the radioactive slag heaps outside Choochy's Chop Shop, 'Mad' Hatter was raised on a diet of motor oil and spare parts. The radiation, combined with Choochy's...eccentric...upbringing, instilled in him a fascination for shiny objects and a disturbing lack of empathy for other ducks.",
+    "class": "Tinkerer",
+    "name": "'Mad' Hatter",
+    "personality": "Obsessive: Mad Hatter is consumed by his projects and often forgets basic needs like eating or sleeping, leading to erratic behavior. Unhinged: Years of radiation exposure have scrambled his duck brain, resulting in unpredictable outbursts and a fondness for nonsensical riddles. Resourceful: His time scavenging in Choochy's scrapyard has made him adept at finding and repurposing materials for his inventions.",
+    "specialAbility": {
+      "description": "Mad Hatter can cobble together a 'Gearhead Grenade' from scrap parts. This homemade explosive has a chance to either do massive damage, buff allies with tech, or backfire and debuff allies/damage Hatter himself (50%/25%/25% chance).",
+      "name": "Gearhead Grenade"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 30,
+      "strength": 45
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Choochys Chop Shop",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Static",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Ninja Top",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Madd Fancy",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Quackless",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Mudder",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:30:16.562Z"
+  }
+}

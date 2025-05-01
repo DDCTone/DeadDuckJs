@@ -1,0 +1,126 @@
+{
+  "tokenId": "251",
+  "name": "Dead Duck #251",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/251.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Blurred Bandit",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Rugged",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cyro",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Flying Pig",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ocular Fallout",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a high-flying stockbroker before the Great Liquidity Crisis, 'Icarus' learned the hard way that even ducks with feathered wings can fall. The Subchain City collapse cost him everything, including an eye. Now, he channels his shattered ambition into securing DRIP for his flock, one dirty deal at a time.",
+    "class": "Salvager",
+    "name": "'Icarus' Chirpsworth",
+    "personality": "- Ruthless: Beneath his casual appearance, Icarus will exploit any weakness for an advantage.\n- Pragmatic: Survival in Subchain City demands tough choices, and he isn't afraid to make them, no matter the moral cost.\n- Charismatic: A remnant of his past life, he can still charm his way into (and out of) almost any situation.",
+    "specialAbility": {
+      "description": "'Liquidity Snatch' - Drains a small amount of DRIP from a target enemy and transfers it to a nearby ally. Effective for disrupting enemy strategies and buffing allies in dire situations. The 'broken chirp' of his beak seems to amplify the energy transfer somehow.",
+      "name": "Liquidity Snatch"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 78,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Blurred Bandit",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Rugged",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cyro",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Flying Pig",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Ocular Fallout",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:41:18.753Z"
+  }
+}

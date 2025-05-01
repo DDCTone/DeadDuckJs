@@ -1,0 +1,126 @@
+{
+  "tokenId": "371",
+  "name": "Dead Duck #371",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/371.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Starburst",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Hazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Blood Stained",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the radioactive slush of the Subchain City's forgotten loading docks, 'Sparky' was a scrapper from hatchling. One fateful day, while raiding a Cryo-Tech facility, he stumbled upon a pair of Shock-Goggles and a controller caked in something that certainly *looked* like blood. Now, he sees more than anyone else, both literally and figuratively.",
+    "class": "Cryo-Hacker",
+    "name": "Sparky 'Starburst' Hayes",
+    "personality": "Paranoid but brilliant, Sparky is always jittery from the cryo-tech leaking from his hacked goggles. He trusts no one, except maybe his trusty, blood-stained controller; He's pretty sure it's got his back better than most of the other ducks he's met.",
+    "specialAbility": {
+      "description": "Sparky can briefly overclock his cryo-goggles providing advanced targeting data that grants +50% critical hit chance in the next attack. However, the energy strain causes a temporary -20% to agility for one turn afterwards.",
+      "name": "Cryo-Glitch"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Starburst",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Hazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:56:57.405Z"
+  }
+}

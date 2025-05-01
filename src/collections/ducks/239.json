@@ -1,0 +1,126 @@
+{
+  "tokenId": "239",
+  "name": "Dead Duck #239",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/239.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stool Pigeons",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Dirt Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Gold Talon",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the wreckage of Subchain City's once-grand datacenters, Glitch grew up scavenging for scraps and dodging rogue AI pigeons. He learned to trust his gut and the hum of the decaying tech around him, becoming one of the city's most resourceful…and fashionable…survivors.",
+    "class": "Scavenger",
+    "name": "Glitch",
+    "personality": "Resourceful: Glitch can turn trash into treasure, crafting useful gadgets from discarded tech. Reckless: He often leaps before he looks, trusting his luck and agility to get him out of tight spots. Stylish: Even in the apocalypse, Glitch keeps his 'fit on point, proving that survival is no excuse for bad fashion.",
+    "specialAbility": {
+      "description": "Glitch can temporarily tap in to the old Subchain network to predict enemy movements within a small radius, highlighting tactical advantages. This ability gives him a short-term vision of the battlefield, essentially hacking the battlefield's matrix.",
+      "name": "Data Dive"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 80,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stool Pigeons",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirt Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Gold Talon",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:39:26.381Z"
+  }
+}

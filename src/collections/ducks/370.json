@@ -1,0 +1,126 @@
+{
+  "tokenId": "370",
+  "name": "Dead Duck #370",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/370.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Hunkers Junkers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Healthy",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Cyber",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadows of Hunker's Junkers, Glitch grew up scavenging for scraps and controllers. One day while looking for parts in a destroyed console, they found a neural interface that would change his life forever allowing to hack into the blockchain.",
+    "class": "Cyber Raider",
+    "name": "Glitch",
+    "personality": "Glitch is a mischievous and resourceful duck, always looking for an angle. They are fiercely loyal to their flock, their skills make Glitch invaluable. They are also obsessed with vintage video games, finding solace in the pre-apocalypse relics.",
+    "specialAbility": {
+      "description": "Glitch uses his Feathercomm Cyber interface to exploit vulnerabilities in the blockchain DRIP network. Temporarily steals DRIP from a targeted flock, distributing it to their own. The amount stolen is based on Glitch's Intelligence and Luck stats.",
+      "name": "DRIP Jack"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 88,
+      "luck": 62,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Hunkers Junkers",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Healthy",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Cyber",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:56:48.992Z"
+  }
+}

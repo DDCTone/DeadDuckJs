@@ -1,0 +1,126 @@
+{
+  "tokenId": "367",
+  "name": "Dead Duck #367",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/367.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Batch Pad",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Blood Stained",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Fantasma",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born and raised in the grimy Bldg Batch Pads, Glitch spent his early days scavenging old consoles for parts. One fateful raid on a pre-collapse arcade changed all that, unearthing a controller forever stained with the ghosts of gamers past, and a taste for righteous digital mayhem.",
+    "class": "Gamer Ghoul",
+    "name": "Glitch, the Phantom Controller",
+    "personality": "Glitch is a twitchy, unpredictable sort.  Obsessed with classic gaming strategies from the old world, he often yells out obscure cheat codes in the heat of battle, much to the confusion (and occasional benefit) of his flock. Deep down, he's a loyal friend, but his dedication to pixels sometimes trumps common sense.",
+    "specialAbility": {
+      "description": "By channeling the latent energy of the Blood Stained Controller, Glitch can temporarily 'rewind' a small area on the battlefield, undoing enemy movements or restoring destroyed cover, creating strategic opportunities for his allies. The effect is fleeting and taxing, leaving him vulnerable afterward.",
+      "name": "Temporal Glitch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 85,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Batch Pad",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "El Fantasma",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:56:25.437Z"
+  }
+}

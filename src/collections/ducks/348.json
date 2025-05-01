@@ -1,0 +1,126 @@
+{
+  "tokenId": "348",
+  "name": "Dead Duck #348",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/348.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duck Billit",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Prison Strips",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Shadow DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Jailbird Yokey was always a bad egg, even before the cataclysm. He spent his younger years joyriding in scrapheap racers, busting heads for DRIP, and generally making a nuisance of himself. After one too many transgressions, he ended up in the Subchain City clink, but the collapse of the blockchain was his get-out-of-jail-free card.",
+    "class": "Brawler",
+    "name": "Jailbird Yokey",
+    "personality": "Jailbird is a brooding, cynical duck, always suspicious of those around him. He prefers to solve problems with his fists first and ask questions later. However, beneath his tough exterior, he has a soft spot for the underdog and a fierce loyalty to those he considers his flock.",
+    "specialAbility": {
+      "description": "Yokey's years of brawling have honed his fighting instincts. When surrounded by enemies, he unleashes a flurry of attacks with his knuckle-dusters, dealing extra damage to all adjacent foes, sometimes incapacitating them with fear!",
+      "name": "Knuckle Sandwich"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duck Billit",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Prison Strips",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Shadow DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Yokey",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:54:03.624Z"
+  }
+}

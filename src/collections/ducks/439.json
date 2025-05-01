@@ -1,0 +1,126 @@
+{
+  "tokenId": "439",
+  "name": "Dead Duck #439",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/439.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Cold Meano Vinos",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Hollowbeak Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snarl Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the ruins of Meano Vino's, a once-popular dive bar, 'Snarl' Snipes was orphaned early in the DRIP Wars. He scavenged for scraps, learning to bite and snarl his way to survival, earning his moniker and a healthy distrust for authority.",
+    "class": "Bounty Hunter",
+    "name": "Snarl Snipes",
+    "personality": "Gritty and cynical, Snarl has a sharp beak and an even sharper wit, often delivered with a sarcastic twist. Beneath his tough exterior lies a surprising loyalty to those few he trusts, though he'd rather gnaw off his own flipper than admit it.",
+    "specialAbility": {
+      "description": "Snarl employs his 'Snarl Snap' to deliver a debilitating surprise attack. The target duck is stunned momentarily, losing a turn, and Snarl gains a temporary boost to his agility, allowing him to reposition quickly for a follow-up strike or strategic retreat.",
+      "name": "Snarl Snap"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Cold Meano Vinos",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Hollowbeak Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snarl Snap",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:07:03.747Z"
+  }
+}

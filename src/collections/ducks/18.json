@@ -1,0 +1,126 @@
+{
+  "tokenId": "18",
+  "name": "Dead Duck #18",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/18.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Web3 Boot",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Punk Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic sludge pools near the abandoned Subchain City brewery, Virgil learned early on that survival meant being scrappy and ruthless. He honed his fighting skills in the mosh pits of the raucous Bldg Stage Divers pub before the DRIP wars gutted the music and left only the thirst.",
+    "class": "Brawler",
+    "name": "Virgil 'Knuckle-DRIP' Greene",
+    "personality": "Aggressive: Virgil is quick to throw a punch and slow to negotiate, favoring direct confrontation. Resourceful: He can MacGyver his way out of most situations, especially if it involves finding a new use for something scavenged. Loyal: Despite his gruff exterior, Virgil is fiercely loyal to his flock, especially if they give him the first crack at securing DRIP.",
+    "specialAbility": {
+      "description": "Virgil's 'Toxic Fury' allows him to unleash a flurry of knuckle-duster-enhanced blows, dealing increased damage and potentially poisoning his enemies with his toxic touch.",
+      "name": "Toxic Fury"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 80
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Web3 Boot",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Punk Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:35.540Z"
+  }
+}

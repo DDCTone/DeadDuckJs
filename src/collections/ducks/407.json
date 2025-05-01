@@ -1,0 +1,126 @@
+{
+  "tokenId": "407",
+  "name": "Dead Duck #407",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/407.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Hunkers Junkers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Aqua",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Shadow DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Zero Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Scabbed",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic sludge pools of the Bone Dry district, 'Chrome Dome' scavenged for scraps amongst the skeletal remains of Subchain City. He always dreamed of bigger hauls and a more glamorous beakwear than the ubiquitous Scabbed model, so he joined a raiding flock to make his fortune.",
+    "class": "Junker Tech",
+    "name": "Chrome Dome",
+    "personality": "Resourceful: Chrome Dome can fix almost anything with a wrench and some duct tape, making him invaluable on raids. Cynical: He trusts no one and expects the worst, a survival mechanism honed from years of scraping by. Flashy: Despite his grimy exterior, Chrome Dome craves attention, customizing his gear with any shiny objects he can find.",
+    "specialAbility": {
+      "description": "Chrome Dome uses his Zero Snap beaks to magnetically manipulate salvage from the surrounding environment to quickly construct temporary cover for his flock during combat, providing a brief respite from incoming fire.",
+      "name": "Salvage Shield"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 45,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Hunkers Junkers",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Aqua",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Shadow DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Zero Snap",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Scabbed",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:03:28.541Z"
+  }
+}

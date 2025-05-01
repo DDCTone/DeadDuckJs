@@ -1,0 +1,126 @@
+{
+  "tokenId": "287",
+  "name": "Dead Duck #287",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/287.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up on Yay Blvd, Nix learned to hustle before he could waddle. He scavenged parts from the Cryo-Preservation Plant wreckage, turning them into tools and a chilling defense against the Subchain City heat. Now, he stalks the fringes, a lone wolf with a score to settle against the Drip-hoarding overlords.",
+    "class": "Cryo-Mechanic",
+    "name": "Nix the Null",
+    "personality": "Cynical and resourceful, Nix trusts no one, yet secretly yearns for a flock to call his own. His Vigilanti Yokey hides a weariness from years of surviving alone, but his icy exterior melts slightly when facing injustice. He meticulously plans his raids, always calculating the odds, but sometimes lets his temper get the best of him.",
+    "specialAbility": {
+      "description": "Nix unleashes a sub-zero blast that freezes enemies in place for a short duration, leaving them vulnerable to attack. The range is short, requiring tactical positioning, but the potential for crowd control is high.",
+      "name": "Cryo-Nova"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 60
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Hazard",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Yokey",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:46:11.050Z"
+  }
+}

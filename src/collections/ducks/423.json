@@ -1,0 +1,126 @@
+{
+  "tokenId": "423",
+  "name": "Dead Duck #423",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/423.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Static",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Burt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Slick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the Bldg Supply Depot scavenging for scraps, Torque witnessed firsthand the brutality of Subchain City. He's seen flocks rise and fall, deals go bad and DRIP dry up. This made him hard, but he keeps Burt close as a reminder of what he's fighting for - some semblance of the world that was.",
+    "class": "Mechanized Marauder",
+    "name": "Torque 'Wrench' Wilkinson",
+    "personality": "Torque is cynical yet surprisingly resourceful. His time spent in the Depot has made him a master of improvisation and salvage, always able to rig up makeshift gadgets. He harbors a deep-seated distrust of large flocks, preferring to work alone or with a small, tight-knit crew.",
+    "specialAbility": {
+      "description": "Using his scavenged Gasser Static Unit, Torque unleashes a concentrated blast of disruptive energy that temporarily disables enemy mechanical enhancements and reduces armor by 50% for two turns. The static discharge also has a chance to trigger critical failure on nearby generators.",
+      "name": "Static Overload"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Static",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Burt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Slick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:05:16.785Z"
+  }
+}

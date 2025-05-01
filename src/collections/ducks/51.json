@@ -1,0 +1,126 @@
+{
+  "tokenId": "51",
+  "name": "Dead Duck #51",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/51.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Feather-Tail-Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Hecho Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Quackie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Cheeky",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the scrapheap known as Feather-Tail Garage, ZipTie learned early that survival meant scavenging and adapting. He found solace in a raggedy Quackie doll and the thrill of dismantling old tech for parts.",
+    "class": "Tinker Scrapper",
+    "name": "ZipTie",
+    "personality": "Resourceful: ZipTie can MacGyver just about anything from spare parts. Jittery: He's always twitching, a side effect of the toxic environment. Loyal: He protects his Quackie doll at all costs.",
+    "specialAbility": {
+      "description": "ZipTie throws Quackie like a grenade dealing poison damage and reducing enemy accuracy for 2 turns.",
+      "name": "Toxic Quackie Toss"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 50,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Feather-Tail-Garage",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Shadow",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Hecho Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Quackie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheeky",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:00:13.903Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "246",
+  "name": "Dead Duck #246",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/246.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Hunkers Junkers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Kicks-Static",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Odins-Hammer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Plague",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Hammerhead\" Huckleberry was once a humble egg salesman, pre-collapse. Now, he's a hardened DRIP raider, known for his brutal efficiency and unusual pink hue. He salvaged Odin's Hammer from a long-dead Viking LARPer and it's been his trusty companion ever since, smashing skulls and cracking open digital safes alike.",
+    "class": "Berserker",
+    "name": "Hammerhead Huckleberry",
+    "personality": "Ruthless: Huckleberry shows no mercy to rival flocks when raiding for DRIP. Obsessive: He polishes Odin's Hammer religiously, even in the middle of a firefight. Superstitious: He believes his crested plague crown wards off bad luck, despite all evidence to the contrary.",
+    "specialAbility": {
+      "description": "Huckleberry unleashes a flurry of hammer blows, dealing massive damage to a single target and stunning them for one turn. The impact can also cause a localized blockchain tremor, disrupting enemy formations.",
+      "name": "Hammer Time!"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 30,
+      "luck": 60,
+      "strength": 90
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Hunkers Junkers",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Static",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Odins-Hammer",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Bubblegum",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:40:19.088Z"
+  }
+}

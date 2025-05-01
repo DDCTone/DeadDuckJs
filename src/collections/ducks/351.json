@@ -1,0 +1,126 @@
+{
+  "tokenId": "351",
+  "name": "Dead Duck #351",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/351.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Runners Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a renowned drummer for the Subchain City's loudest sludge-metal band 'The Decryptors', Riff Raff lost his hearing thanks to a faulty sonic amplifier during the Great DRIP Wars. Now, haunted by the rhythmic echoes of the past, he wanders the Street Runners Road seeking to reclaim his sonic glory and get revenge on the amplifier's manufacturer.",
+    "class": "Sound Scavenger",
+    "name": "Riff Raff",
+    "personality": "Melancholic, yet stubbornly determined. He uses dark humor to mask his hearing loss, making jokes about the 'sweet sound of silence' while secretly analyzing vibrations for clues to his next gig or DRIP raid. Underneath the cynicism, he still yearns for the thrill of live performance.",
+    "specialAbility": {
+      "description": "Riff Raff slams his drumsticks together, creating a sonic pulse that reveals hidden enemies and resources within a short radius. The pulse can also temporarily stun smaller foes, giving his flock a crucial advantage in close-quarters combat.",
+      "name": "Sonic Echo"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Runners Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:54:24.839Z"
+  }
+}

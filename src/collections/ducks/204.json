@@ -1,0 +1,126 @@
+{
+  "tokenId": "204",
+  "name": "Dead Duck #204",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/204.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Guvnas Gate",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Shadow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Ion Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Socket 2 Me",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of Guvnas Gate, 'Socket' lived a hardscrabble life.  His early days were spent scavenging for scraps, until a run in with a rival gang left him half-blind and fueled by vengeance. Now, he stalks the city, a one-eyed harbinger of payback, clad in blood-stained kicks and ready to settle the score.",
+    "class": "Infiltrator",
+    "name": "Socket",
+    "personality": "Grim and Driven: Socket rarely speaks, his single Souler eye burning with intense focus. Resourceful and Cunning: Years of surviving in the ruins have taught him how to make the most of any situation. Loyal and Vengeful: fiercely protects those he considers his flock, and never forgets a slight.",
+    "specialAbility": {
+      "description": "Socket channels the raw energy of the Flipper Kicks Blood Stained to deliver a swift, debilitating blow, leaving the target momentarily stunned, reducing their agility and opening them up to follow-up attacks.",
+      "name": "Bloodied Strike"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Guvnas Gate",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Ion Bite",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Socket 2 Me",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:34:38.334Z"
+  }
+}

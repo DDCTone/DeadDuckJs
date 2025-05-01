@@ -1,0 +1,126 @@
+{
+  "tokenId": "168",
+  "name": "Dead Duck #168",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/168.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Call Cantina",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Dirt Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Voidcap",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Decay Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born and raised in the underbelly of Subchain City's Last Call Cantina, 'Knucks' learned early on that DRIP doesn't grow on trees, it's taken. He saw his flock crumble under the pressure of dwindling resources, so he outfitted himself for survival, ready to take on anyone who stands in his way.",
+    "class": "Brawler",
+    "name": "Knucks",
+    "personality": "Cynical: After seeing his flock crumble, Knucks trusts no one. Resourceful: He can MacGyver his way out of any situation with scrap he finds. Greedy: DRIP is all that matters, and he'll do anything to get it.",
+    "specialAbility": {
+      "description": "Unleashes a flurry of blows with his Skrilla hands, dealing increased damage and potentially stunning the target. The blood-stained flippers add an extra intimidation factor.",
+      "name": "Skrilla Strike"
+    },
+    "stats": {
+      "agility": 70,
+      "intelligence": 45,
+      "luck": 30,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Call Cantina",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirt Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Voidcap",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Decay Bite",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:29:36.893Z"
+  }
+}

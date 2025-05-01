@@ -1,0 +1,126 @@
+{
+  "tokenId": "388",
+  "name": "Dead Duck #388",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/388.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Jxrds Cracker Box",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Tazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Facts",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected blockchain analyst before the Great Liquidity Crash, Duckerberg was known for his sharp insights and even sharper deals. Now, exiled from the inner circles of Subchain City after a deal gone wrong, he uses his knowledge of the blockchain to sniff out vulnerable DRIP reserves, plotting his return to power, one 'quack' at a time.",
+    "class": "Data Raider",
+    "name": "Duckerberg",
+    "personality": "Cunning and ruthless, Duckerberg is always three steps ahead, anticipating market fluctuations and enemy movements alike. Bitter and cynical, he trusts no one, a trait only amplified by his current exile. Resourceful and pragmatic, he'll use any means necessary to achieve his goals, viewing morality as a luxury the wastes can't afford. ",
+    "specialAbility": {
+      "description": "Duckerberg can analyze an opponent's DRIP reserves during combat, identifying vulnerabilities and weakening their defenses for one turn. This ability has a cooldown of 3 turns.",
+      "name": "Blockchain Breach"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Jxrds Cracker Box",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Facts",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:59:06.494Z"
+  }
+}

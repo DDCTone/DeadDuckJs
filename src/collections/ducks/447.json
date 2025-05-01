@@ -1,0 +1,126 @@
+{
+  "tokenId": "447",
+  "name": "Dead Duck #447",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/447.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Brokeland",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Fudders",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Puffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up on the mean streets of Brokeland, 'Bubblegum' Benny learned early that survival meant taking what you could get. Abandoned by his flock when he was just a hatchling, Benny honed his skills scavenging for scraps and DRIP in the ruins of Old Subchain City, becoming a master of disguise and deception.",
+    "class": "Scout/Infiltrator",
+    "name": "'Bubblegum' Benny",
+    "personality": "Cynical, resourceful, and surprisingly sentimental. Benny puts on a tough exterior, chewing bubblegum and cracking wise, but deep down he yearns for the belonging he lost. He's fiercely loyal to those who earn his trust, which is a difficult feat.",
+    "specialAbility": {
+      "description": "Benny blows a massive bubblegum bubble infused with a temporary glitch in the blockchain, creating a localized distortion field that briefly renders him invisible and undetectable to enemy systems. He can then use this opportunity to sneak past enemy lines, sabotage equipment, or make a quick escape.",
+      "name": "Bubble Burst Invisibility"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 70,
+      "luck": 60,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Brokeland",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Fudders",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Puffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:07:56.682Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "6",
+  "name": "Dead Duck #6",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/6.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hangout_Snailers Hut",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Hatchers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Featherstrung",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Wing Wrecker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Stringer 'The Null' Nullson was born amidst the rusted husks of Subchain City. He found an ancient guitar in the ruins and discovered it could channel the city's hidden energies, becoming a wandering minstrel and reluctant hero. He might be a ghost, or he might just reek of old ethernet cables.",
+    "class": "Featherstrung Bard",
+    "name": "Stringer 'The Null' Nullson",
+    "personality": "Mellifluous and stoic, Stringer prefers the company of his guitar to other ducks. He speaks only when necessary, but his music speaks volumes, either moving allies to righteous rage or putting the enemy to sleep. Secretly sentimental, he longs for a world where DRIP flows freely.",
+    "specialAbility": {
+      "description": "Stringer's Featherstrung can unleash a 'Dissonant Chord' that disrupts enemy formations, inflicting damage and reducing their agility for 2 turns. Additionally, his 'Soothing Strum' can heal allies, restoring a portion of their lost DRIP.",
+      "name": "Dissonant Chord & Soothing Strum"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hangout Snailers Hut",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Hatchers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherstrung",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Wing Wrecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:15:25.593Z"
+  }
+}

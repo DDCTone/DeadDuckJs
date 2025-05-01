@@ -1,0 +1,126 @@
+{
+  "tokenId": "421",
+  "name": "Dead Duck #421",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/421.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Parasite",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Wing Wrecker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected bartender at the 'Last Sip,' Dewey got caught slipping DRIP to the wrong flock. Now a wanted ghost, he haunts the city's underbelly, always one step ahead of the enforcers, seeking revenge and desperately trying to find a cure for the parasite burrowing in his eyes.",
+    "class": "Shadow Broker",
+    "name": "Dewey 'Parasite' Plucked",
+    "personality": "Cynical and resourceful, Dewey maintains a grim outlook on Subchain City while subtly undermining its authority through information brokering. He's fiercely protective of the few allies he has left and is driven by a desperate need to find a cure for his parasitic eye infection, making him impulsive at times.",
+    "specialAbility": {
+      "description": "Dewey uses his infected vision to briefly see through the veil of reality, granting him a temporary boost to evasion and accuracy. This ability is fueled by the parasite's energy and the strength of the bond he shares with it.",
+      "name": "Parasitic Precognition"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 65,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Parasite",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Wing Wrecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:05:03.379Z"
+  }
+}

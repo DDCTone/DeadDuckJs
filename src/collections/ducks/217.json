@@ -1,0 +1,126 @@
+{
+  "tokenId": "217",
+  "name": "Dead Duck #217",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/217.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stool Pigeons",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the ruins of old Subchain City, 'Gridlock' was raised among the Stool Pigeons, scavenging for DRIP scraps. His unnerving 'Grid' eyes saw angles and patterns others missed, making him a natural strategist in the brutal wasteland.",
+    "class": "Tactician",
+    "name": "Gridlock",
+    "personality": "Calculating and observant, Gridlock rarely speaks unless he has something strategic to share. He's haunted by the loss of his flock, leading him to always consider the big picture before acting. Despite his grim demeanor, he secretly crafts outlandish socks from scavenged materials in his downtime.",
+    "specialAbility": {
+      "description": "Grid Sight: Briefly enhances Gridlock's perception, highlighting enemy weaknesses and optimal attack routes within a limited radius. Reveals hidden DRIP caches and traps.",
+      "name": "Grid Sight"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stool Pigeons",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Hazard",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:36:32.365Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "306",
+  "name": "Dead Duck #306",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/306.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smuglers Alley",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Jackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Burt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Squack",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the underbelly of Smuggler's Alley instilled in 'Specs' a distrust for authority and a knack for finding shortcuts. Orphaned at a young age, he learned to survive by scavenging and hustling, quickly becoming a master of disguise and infiltration.",
+    "class": "Infiltrator",
+    "name": "Specs",
+    "personality": "Sly: Always looking for an angle, Specs can talk his way out of most scrapes. Resourceful: He can turn trash into treasure, and a disadvantage into an opportunity. Cold: The wasteland has hardened him; he trusts few and values self-preservation above all else.",
+    "specialAbility": {
+      "description": "Specs deploys a short-range EMP, briefly disabling enemy gear and disrupting their targeting systems within a small radius. The EMP also scrambles DRIP readings, causing a temporary diversion.",
+      "name": "Void Glitch"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 70,
+      "luck": 60,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smuglers Alley",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Jackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Burt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:48:39.959Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "357",
+  "name": "Dead Duck #357",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/357.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Luchadas",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Battle Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising Luchador in the Subchain City wrestling circuit, 'Fang' Malone had his career cut short by a rogue flock raid gone wrong. Now haunted by the eerie green glow of his augmented eyes, he wanders the ruins, seeking DRIP and vengeance, one smashed nest at a time.",
+    "class": "Brawler/Demolitionist",
+    "name": "'Fang' Malone",
+    "personality": "Gruff and brooding, Fang doesn't trust easily after the betrayal within his own flock. Beneath the hardened exterior lies a flicker of his former showmanship, occasionally surfacing as a wry joke or a well-placed taunt. He's fiercely loyal to those who earn his trust, and utterly merciless to those who cross him.",
+    "specialAbility": {
+      "description": "Fang uses his Nest Smasher to trigger localized seismic activity, creating a temporary fissure in the ground that disrupts enemy formations and provides cover for his flock - 3 turn cooldown.",
+      "name": "Subchain Rumble"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 78
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Luchadas",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Battle Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:55:09.165Z"
+  }
+}

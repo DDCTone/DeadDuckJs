@@ -1,0 +1,126 @@
+{
+  "tokenId": "445",
+  "name": "Dead Duck #445",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/445.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Basher-Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Billish",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Phantomfeather Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in Basher's Garage taught Wrench more than just how to strip an engine. He learned how to scrape by, how to make every bit of DRIP count, and how to patch himself up after a scrap. Now, he roams Subchain City, looking for the next big score, leaving a trail of grease and broken bots in his wake.",
+    "class": "Mechanic",
+    "name": "Wrench",
+    "personality": "Resourceful: Wrench can MacGyver just about anything with spare parts and a bit of elbow grease. Reckless: He's never met a challenge he wouldn't charge into headfirst. Loyal (to a fault): Wrench would do anything for his ragtag flock, even if it means taking a few bullets (or lasers) for them.",
+    "specialAbility": {
+      "description": "Scrounges the battlefield for scrap metal, which he can use to repair friendly units or rig up a temporary turret.",
+      "name": "Junkyard Tinkerer"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Basher-Garage",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Billish",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Phantomfeather Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:07:43.914Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "17",
+  "name": "Dead Duck #17",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/17.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Flipper Kicks Dojo",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Hecho Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Burt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Blood Mask",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Waddlesworth learned the hard way that a soft beak doesn't survive in Subchain City. After a particularly brutal skirmish with the Chrome Beaks over a cache of DRIP, he stumbled upon the Flipper Kicks Dojo. There, he honed his fighting skills and embraced the shadows, becoming a cunning and resourceful warrior.",
+    "class": "Shadow Ronin",
+    "name": "Waddlesworth 'Shadow Chuck' McQuack",
+    "personality": "Sarcastic, Resourceful, Haunted. Waddlesworth uses his humor to deflect from the horrors he's witnessed, but underneath the quips lies a deep-seated need to protect the few he cares about. He's incredibly resourceful, able to scavenge and repurpose almost anything into a weapon or tool, a testament to his adaptability in the harsh environment.",
+    "specialAbility": {
+      "description": "Waddlesworth focuses and throws Burt at an enemy which causes a brief fear effect where the enemy's accuracy stat is greatly reduced.",
+      "name": "Burt's Grudge"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Flipper Kicks Dojo",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Hecho Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Burt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Blood Mask",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:30.406Z"
+  }
+}

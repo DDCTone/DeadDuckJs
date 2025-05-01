@@ -1,0 +1,126 @@
+{
+  "tokenId": "208",
+  "name": "Dead Duck #208",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/208.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Growl Bikes Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Starburst",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Pond",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Soft Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Scabbed",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the scrapheap beneath the Growl Bikes Garage, Scrapper learned to wrench before he could waddle. He saw his flock get wiped out going after a big DRIP score and now he rides solo. He trusts his Gasser Shadow and his clan beads for luck.",
+    "class": "Mechanic Raider",
+    "name": "Scrapper Starburst",
+    "personality": "Gruff and independent, Scrapper trusts machines more than ducks. He's got a soft spot for hatchlings, though he'd never admit it. He can't resist tinkering with scavenged tech, often to explosive results.",
+    "specialAbility": {
+      "description": "Scrapper can jury-rig a temporary speed boost to his movement rate using salvaged engine parts, allowing him to quickly reach objectives or escape from danger. Consumes a small amount of DRIP.",
+      "name": "Gasser Overdrive"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Growl Bikes Garage",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Starburst",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Pond",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Soft Peck",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Scabbed",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:35:10.186Z"
+  }
+}

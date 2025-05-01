@@ -1,0 +1,126 @@
+{
+  "tokenId": "163",
+  "name": "Dead Duck #163",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/163.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Building_Flow Below",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Featherstrung",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Salivator",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born deep within the Flow Below, Rythmus was hatched amidst the decaying remnants of Subchain City's transit system. He learned to scavenge for DRIP, his drumsticks becoming extensions of his very being, drumming up the echoes of a ruined metropolis.",
+    "class": "Rhythm Raider",
+    "name": "Rythmus",
+    "personality": "Erratic, driven by sound, and surprisingly optimistic given his surroundings. Rythmus compulsively drums on any surface he can find, turning the ruins into his personal symphony of survival.",
+    "specialAbility": {
+      "description": "Rythmus unleashes a sonic blast, causing a temporary disruption in enemy targeting systems and granting a short-lived speed boost to allied ducks within range.",
+      "name": "Sonic Quack"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Building Flow Below",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherstrung",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Salivator",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:28:56.318Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "374",
+  "name": "Dead Duck #374",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/374.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Guvnas Gate",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Blazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Kicks-Static",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_DDC-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bland Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of Big Ben, now just a skeletal reminder of a bygone era, 'Clockwork' Charlie grew up scavenging scraps and dodging the roving gangs of rubber duck raiders. He learned the hard way that survival in Subchain City meant being faster, smarter, and a whole lot sneakier than the other ducks.",
+    "class": "Street Urchin Tech Adept",
+    "name": "Clockwork Charlie",
+    "personality": "Resourceful: Charlie can MacGyver just about anything out of the scraps he finds. Cynical: He's seen too much to trust anyone easily. Driven: Charlie's always got a hustle going to make it to the next day.",
+    "specialAbility": {
+      "description": "Charlie can temporarily overclock his robotic flippers, granting him a burst of speed and evasiveness. This allows him to either escape dangerous situations or flank enemies for a surprise attack.",
+      "name": "Kicks-Static Overdrive"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Guvnas Gate",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Static",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "DDC-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bland Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:19.813Z"
+  }
+}

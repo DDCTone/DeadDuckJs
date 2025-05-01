@@ -1,0 +1,126 @@
+{
+  "tokenId": "400",
+  "name": "Dead Duck #400",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/400.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Snail Bikers Base",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Molten",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow PnD Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Burt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Slick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched from a clutch of eggs abandoned near the Snail Biker's Hideout, Cinder was raised on petrol fumes and recycled engine oil. This upbringing left him a bit... crispy around the edges, but also instilled a loyalty to the biker gang that amounts to absolute obsession.",
+    "class": "Pyromaniac Mechanic",
+    "name": "Cinder",
+    "personality": "Loyal to a fault, Cinder would waddle through a lake of fire for his biker buddies. He's got a touch of pyromania thanks to a childhood fascination with the biker's flaming exhaust pipes. He also has an irrational attachment to his old stuffed burt doll, which he carries everywhere, and talks to.",
+    "specialAbility": {
+      "description": "Cinder can launch a Molten Blast from his eyes, dealing fire damage to a single target and leaving a burning area that damages enemies who pass through it. The burning area can also trigger chain reactions with certain environmental hazards.",
+      "name": "Molten Gaze"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Snail Bikers Base",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Molten",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow PnD Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Burt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Slick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:02:00.487Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "90",
+  "name": "Dead Duck #90",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/90.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Building_Flow Below",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Starburst",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Plagued",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Chrono Hide Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Shadow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Featherwarmer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a high-rolling blockchain developer, 'Rusty' lost everything when the Great Liquidity Drought hit. Now he haunts the ruins of Subchain City, clad in scavenged gear, desperately seeking enough DRIP to reboot his long-dormant DeFi empire.",
+    "class": "Chrono-Raider",
+    "name": "Rusty 'Tick-Tock' Plume",
+    "personality": "Cynical: After losing everything, Rusty trusts no one and expects the worst. Resourceful: He can cobble together a solution from scraps that would make even the most seasoned scavenger jealous. Obsessive: He is consumed by the desire to reclaim his lost fortune, often to the detriment of his own well-being.",
+    "specialAbility": {
+      "description": "Rusty can briefly manipulate time within a small radius, slowing down enemies and speeding up his own actions for a crucial window of opportunity. The Chrono Hide isn't perfect though, overuse can cause glitches.",
+      "name": "Time Slip"
+    },
+    "stats": {
+      "agility": 70,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Building Flow Below",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Starburst",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Chrono Hide Bloody",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Featherwarmer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:11:20.872Z"
+  }
+}

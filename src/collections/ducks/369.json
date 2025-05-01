@@ -1,0 +1,126 @@
+{
+  "tokenId": "369",
+  "name": "Dead Duck #369",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/369.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_The Safety Pin",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cryo Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers follow 'Rustlung' Reznik like the dust storms of Subchain City. Some say he was a miner, digging for long-lost DRIP reserves before the Rot set in. Others claim Reznik was a data scavenger who saw too much, his mind fragmented like the glitched code he used to trade in.",
+    "class": "Cryo-Salvager",
+    "name": "Rustlung Reznik",
+    "personality": "Reznik is haunted and driven. He's constantly chasing a forgotten memory or a lost algorithm, muttering about 'frozen protocols' and 'sub-zero caches'. Despite his fractured state, he possesses a chilling pragmatism, unafraid to wade into the most toxic zones if it means uncovering a scrap of valuable DRIP.",
+    "specialAbility": {
+      "description": "Reznik can temporarily freeze the blockchain activity in a small area, halting enemy movement and disabling drone attacks. The effect is visually represented by a localized blizzard of corrupted data streams that last for 2 turns.",
+      "name": "Cryo-Glitch"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg The Safety Pin",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cryo Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:56:40.623Z"
+  }
+}

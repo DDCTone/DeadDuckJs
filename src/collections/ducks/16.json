@@ -1,0 +1,126 @@
+{
+  "tokenId": "16",
+  "name": "Dead Duck #16",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/16.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Rubbers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Hazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Blood Stained",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Yokey",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Lengua",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ocular Fallout",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Loopy\" lived a sheltered life in the Rubbers Roost, always glued to outdated consoles. But when his flock was ambushed by rogue automatons during a Drip raid, his button-mashing reflexes became a weapon, turning glitches into offensive maneuvers. Now he has an ocular fallout that made him the clan's MVP.",
+    "class": "Glitch Hunter",
+    "name": "Loopy",
+    "personality": "Eccentric: Loopy often speaks in gaming jargon and gets distracted by shiny objects. Resourceful: Turns trash into useful tools, especially tech-based gadgets. Jumpy: After the raid, always nervous and ready to dive for cover for any moment.",
+    "specialAbility": {
+      "description": "Loopy overloads his controller to create a temporary EMP field that stuns nearby enemy automatons and creates a ripple effect disabling enemy weapons. This allows his team to quickly eliminate them.",
+      "name": "Glitch Storm"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 85,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Rubbers Roost",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Hazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Yokey",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Lengua",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Ocular Fallout",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:24.977Z"
+  }
+}

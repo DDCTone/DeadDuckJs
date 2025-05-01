@@ -1,0 +1,126 @@
+{
+  "tokenId": "301",
+  "name": "Dead Duck #301",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/301.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Head Bobbers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Web3 Boot",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a smooth-talking talent agent in old Subchain City, Beaky 'Smooth Quack' Quackerson thought he had it all. Then the DRIP dried up, leaving him to rot, but not before snagging some pearly bling from a washed-up popstar and equipping himself with what he could find at the local Web3 Boot camp.",
+    "class": "Reclaimed Scavenger",
+    "name": "Beaky 'Smooth Quack' Quackerson",
+    "personality": "Conniving, opportunistic, and surprisingly charming despite his decaying physique. Beaky is always looking for an angle, a way to turn a profit, or a chance to betray his 'friends' for a slightly larger share of DRIP.",
+    "specialAbility": {
+      "description": "Beaky can use his Gasser Cryo to freeze a small area, slowing enemy movement and dealing minor cold damage over time. His smooth-talking can also charm weak-minded enemies, causing them to misfire or lose a turn.",
+      "name": "Cryo-Charm Offensive"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 70,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Head Bobbers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Web3 Boot",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Cryo",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:47:59.653Z"
+  }
+}

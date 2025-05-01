@@ -1,0 +1,126 @@
+{
+  "tokenId": "346",
+  "name": "Dead Duck #346",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/346.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Ashocks Shadow Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Echo Stain",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Fuss",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Phantomfeather Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers around Subchain City speak of a duck once known as 'Riff,' a virtuoso musician who could coax liquid DRIP from even the most rusted pipes. When the DRIP dried up, Riff became a scavenger, haunting the Ashocks Shadow Lair, seeking lost chords and forgotten melodies amongst the wreckage.",
+    "class": "Bard",
+    "name": "Dust Riff",
+    "personality": "Melancholic and resilient. Dust Riff is plagued by memories of a more vibrant past, expressing his grief through haunting tunes played on his skeletal frame. Underneath the hardened exterior, he still hopes to revive the lost rhythm of Subchain City, using his music to inspire hope.",
+    "specialAbility": {
+      "description": "Dust Riff plays a haunting melody on his own bones, creating a temporary sonic disruption that stuns nearby enemies. This allows allies to reposition or escape, or provides a brief window for a coordinated attack.",
+      "name": "Bone Rattle Requiem"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Ashocks Shadow Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Echo Stain",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Fuss",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Phantomfeather Shadow",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:53:48.899Z"
+  }
+}

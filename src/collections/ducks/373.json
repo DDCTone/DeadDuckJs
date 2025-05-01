@@ -1,0 +1,126 @@
+{
+  "tokenId": "373",
+  "name": "Dead Duck #373",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/373.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Batch Pad",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising coder before the Great Liquidity Drought, 'Kernel' Krunk lived a comfortable life inside Subchain City, and had a cozy apartment in the Bldg Batch Pad. But when the DRIP dried up, Kernel couldn't cope with the change. Now he scavenges the ruins of the old internet, hoping to find some lost algorithm that can restore Subchain City to its former glory. To numb the pain, he self-medicates by huffing toxic rager fumes.",
+    "class": "Scavenger/Technomancer",
+    "name": "Kernel Krunk",
+    "personality": "Obsessive: Fixated on finding a technological solution to Subchain City's woes, talks in obsolete code fragments, and rarely sleeps, lost in his research. Delusional: Believes he is close to finding a solution, despite all evidence to the contrary. He often rants to himself about reviving old servers. Resourceful: Can cobble together useful tech from junk with his Tak-Gloves that he uses to survive the dangers of the wastelands.",
+    "specialAbility": {
+      "description": "Kernel Krunk can temporarily overload nearby automated defenses or enemy drones, causing them to malfunction wildly, and sometimes even turn against their owners. This can provide a temporary advantage in combat or exploration, but the effects are unpredictable.",
+      "name": "Rager-Induced Overload"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Batch Pad",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:13.030Z"
+  }
+}

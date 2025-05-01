@@ -1,0 +1,126 @@
+{
+  "tokenId": "359",
+  "name": "Dead Duck #359",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/359.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Needles Crossing",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Odins-Hammer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found wandering the ruins of Needles Crossing, Clutch was already half-rotted when he stumbled upon a cache of cryogenically frozen DRIP. Exposure to the leaking coolant preserved what was left of him, while the lingering DRIP intensified his already manic obsession with recovering the lost liquidity of Subchain City.",
+    "class": "Berserker",
+    "name": "Clutch Cryo-Rot",
+    "personality": "Clutch is a volatile mix of frozen apathy and boiling rage. One moment he's staring blankly, the next he's swinging Odin's-Hammer with reckless abandon. His pearl eyes seem to pierce through the veil of reality, though whether he's seeing anything useful is questionable.",
+    "specialAbility": {
+      "description": "Clutch goes into a cryo-fueled rage, boosting his strength and agility while temporarily freezing the ground around him, hindering enemy movement within a small radius.",
+      "name": "Cryo-Rage"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Needles Crossing",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Odins-Hammer",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:55:23.929Z"
+  }
+}

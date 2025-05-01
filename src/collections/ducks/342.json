@@ -1,0 +1,126 @@
+{
+  "tokenId": "342",
+  "name": "Dead Duck #342",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/342.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Muggers Meetup",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Toxic Striped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found frozen in a cryo-pod beneath the ruins of Old Subchain City, 'Frosty' was awakened by a gang of street muggers looking for salvage. His bone-chilled touch and surprisingly sharp pain bite proved too much for the muggers though, and he managed to escape with nothing but a 'GM' coffee thermos and a bloody warmy shirt left behind by one of his assailants.",
+    "class": "Saboteur",
+    "name": "Frosty 'GM' Bite",
+    "personality": "Frosty is sarcastic and cynical, constantly muttering about the 'good ol' days' before the DRIP dried up. He's also fiercely independent, trusting only his instincts and the questionable data from his Feathercomm Hazard mask, but there is a good heart beneath the icy exterior.",
+    "specialAbility": {
+      "description": "Bone Chill - Frosty can emanate a wave of icy cold that slows enemy movement and reduces their accuracy for a short duration. Affected targets have a 25% chance of DRIP loss.",
+      "name": "Bone Chill"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Muggers Meetup",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Toxic Striped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:53:19.428Z"
+  }
+}

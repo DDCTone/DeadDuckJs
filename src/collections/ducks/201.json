@@ -1,0 +1,126 @@
+{
+  "tokenId": "201",
+  "name": "Dead Duck #201",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/201.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Whisky",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected medic in the 'Quack Brigade,' Virgil now roams Subchain City, haunted by the plague he couldn't cure. The Vyezeen lenses help him see through the toxic smog, while the whisky numbs the memories of fallen flockmates. He scavenges the ruins, searching for a cure, or at least, more whisky.",
+    "class": "Wasteland Wanderer",
+    "name": "Virgil 'The Rot Doc'",
+    "personality": "Haunted and hardened. Virgil carries a dry wit and a cynical outlook born from witnessing too much death. Deep down, a spark of his former compassion flickers, driving him to help those he deems worthy, usually followed by a swig of whisky.",
+    "specialAbility": {
+      "description": "Virgil can temporarily boost the speed and resilience of an ally by administering a swig of high-proof 'medicinal' whisky from his flask. It also soothes the pain a little... maybe too much, but does give a buff for the next move.",
+      "name": "Whisky Fortification"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Whisky",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:34:14.376Z"
+  }
+}

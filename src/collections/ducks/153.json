@@ -1,0 +1,126 @@
+{
+  "tokenId": "153",
+  "name": "Dead Duck #153",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/153.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Degen-Jacket",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Last Sip, Rip learned the hard way that DRIP doesn't come easy. He saw his flock torn apart by raiders, and now he's out for vengeance, one scorched bill at a time.",
+    "class": "Biker Brawler",
+    "name": "Rip Scorchshield",
+    "personality": "- Stoic: Rarely speaks, letting his fists (and waddle maker) do the talking.\n- Vengeful: Holds a grudge like it's liquid DRIP in the wasteland.\n- Pragmatic: Believes in getting the job done, no matter the cost.",
+    "specialAbility": {
+      "description": "Unleashes a ground-shaking waddle that stuns nearby enemies and deals moderate damage scaling with strength.",
+      "name": "Waddlequake"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 80
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Degen-Jacket",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:27:30.505Z"
+  }
+}

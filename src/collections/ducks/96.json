@@ -1,0 +1,126 @@
+{
+  "tokenId": "96",
+  "name": "Dead Duck #96",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/96.webp",
+  "attributes": [
+    {
+      "value": "Trait__Background_E_Hideout_Degens Dashboard",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Cutoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Sweater-Anarchy",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Squack",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Cheeky",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected mechanic in Subchain City, Geargrind fell afoul of the Anarchy gang after allegedly informing on them to the Drip Lords to gain favor. Now, he roams the wastes, a rotted carcass fueled by vengeance, seeking a way to rebuild his rep and get even with both sides.",
+    "class": "Tinkerer",
+    "name": "Geargrind",
+    "personality": "Cunning and resourceful, Geargrind can fix almost anything with the right parts thanks to his time as a mechanic. Bitter and cynical, he trusts no one, knowing that survival in Subchain City means looking out for number one. He is also reckless due to his need for vengeance.",
+    "specialAbility": {
+      "description": "Geargrind can jury-rig scrap and spare parts into a temporary shield, absorbing a moderate amount of incoming damage for one turn. The Sweater-Anarchy provides the base materials for this protection.",
+      "name": "Scrap Shield"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 70,
+      "luck": 30,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Trait  Background E Hideout Degens Dashboard",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Cutoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Sweater-Anarchy",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheeky",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:13:03.130Z"
+  }
+}

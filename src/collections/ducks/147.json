@@ -1,0 +1,126 @@
+{
+  "tokenId": "147",
+  "name": "Dead Duck #147",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/147.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Cold Meano Vinos",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the cryo-labs beneath Subchain City, Subject 147 escaped before final programming. Now known as 'Scorch,' he roams the ruins, searching for parts to repair his frozen shell and fueled by a burning desire for revenge against the Duck Collective scientists.",
+    "class": "Scavenger",
+    "name": "Scorch",
+    "personality": "Grim and Resourceful: Scorch is constantly scanning his surroundings for DRIP caches or scraps of tech. Cynical: He trusts no one after his betrayal, always expecting the worst. Enigmatic: Scorch rarely speaks, preferring to let his actions do the talking.",
+    "specialAbility": {
+      "description": "Scorch can use his Scorchshield to create a temporary zone of toxic fumes, damaging enemies who enter and providing cover from ranged attacks due to visual impairment. The fumes linger for 2 turns.",
+      "name": "Toxic Cloud"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Cold Meano Vinos",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo Marked",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:26:40.570Z"
+  }
+}

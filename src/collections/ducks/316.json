@@ -1,0 +1,126 @@
+{
+  "tokenId": "316",
+  "name": "Dead Duck #316",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/316.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duck Billit",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Navy",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Toxic Striped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_DDC-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Daggerbill",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the Cryo-Labs abandoned long ago. The exposure did something... different to him. Now he haunts the Hideout Billit, searching for a cure to the Zombie rot or someone dumb enough try and steal his stash of DRIP.",
+    "class": "Hazard Medic",
+    "name": "Icy Rot",
+    "personality": "Icy Rot is a paranoid and jittery duck. He trusts no one, convinced everyone is after his dwindling supply of DRIP. He desperately tries to exude an aura of danger, but his anxiety often gets the better of him.",
+    "specialAbility": {
+      "description": "Icy Rot throws a vial of unstable Cryo-Serum at a target. If it hits, it applies a 'Frozen' debuff that reduces agility and applies a stacking 'Toxic' debuff damage over time.",
+      "name": "Cryo-Toxin Bomb"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 70,
+      "luck": 30,
+      "strength": 45
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duck Billit",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Navy",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Toxic Striped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Cryo",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "DDC-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Daggerbill",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:49:56.738Z"
+  }
+}

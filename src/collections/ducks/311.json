@@ -1,0 +1,126 @@
+{
+  "tokenId": "311",
+  "name": "Dead Duck #311",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/311.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Monument_Solana-Trenches",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Rugged",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Soft Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_404 Vision",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Rubble Rouser Rod was found as a hatchling in the heart of the Solana Trenches. Bred for war, raised on recycled energy drinks, he's got one thing on his mind: claiming scraps of DRIP from anyone dumb enough to stand in his way.",
+    "class": "Berserker",
+    "name": "Rubble Rouser Rod",
+    "personality": "Rod is Aggressive and volatile, with a 'take what you can' attitude. He's also got a soft-peck heart though, and will often look after abandoned hatchlings when he thinks no one is watching. His 404 Vision means he rarely sees the whole picture, leading him to make impulsive decisions.",
+    "specialAbility": {
+      "description": "Rod flies into a green rage, increasing his attack damage and movement speed by 50% for three turns. He also gains temporary immunity to toxic attacks.",
+      "name": "Toxic Frenzy"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Monument Solana-Trenches",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Rugged",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Soft Peck",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "404 Vision",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:49:20.162Z"
+  }
+}

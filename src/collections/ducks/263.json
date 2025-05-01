@@ -1,0 +1,126 @@
+{
+  "tokenId": "263",
+  "name": "Dead Duck #263",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/263.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Pedros Watching",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Greeen",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Chrono Hide Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Toxic",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_404 Vision",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling 263, or 'Glitch' as he's become known, was found abandoned near the mainframe ruins. Rumor has it he was an experimental project that escaped the clutches of the toxic waste barons, with strange side effects from Chrono-Hide infusion.",
+    "class": "Hacker/Controller",
+    "name": "Glitch",
+    "personality": "Glitch is twitchy and paranoid, always expecting the system to crash or the DRIP to dry up. He's also fiercely loyal to his flock, willing to risk life and limb to exploit vulnerabilities in enemy defenses. Secretly, Glitch longs for the days before the apocalypse, when the only concern was lag.",
+    "specialAbility": {
+      "description": "Glitch can '404' enemy drones, temporarily scrambling their targeting systems and causing them to attack their own allies. This ability has a chance to backfire, though, due to Glitch's unstable Chrono-Hide Gear.",
+      "name": "Reality Glitch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 90,
+      "luck": 45,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Pedros Watching",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Greeen",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Chrono Hide Toxic",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "404 Vision",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:42:49.463Z"
+  }
+}

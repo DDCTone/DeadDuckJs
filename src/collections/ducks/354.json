@@ -1,0 +1,126 @@
+{
+  "tokenId": "354",
+  "name": "Dead Duck #354",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/354.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Hunkers Junkers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Talons Edge",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_DDC-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a simple mud duck, 'Rotty' was caught in a DRIP explosion during a raid gone wrong. He emerged...changed. Now he haunts the junkyards, seeking revenge and a decent cup of reclaimed coffee.",
+    "class": "Junker Brawler",
+    "name": "Rotty Reddy",
+    "personality": "Grumpy and resourceful. Rotty's seen too much, leaving him with a cynical outlook. However, his loyalty to his flock is unwavering, providing them with cobbled-together gear and brutal close-combat support.",
+    "specialAbility": {
+      "description": "Rotty can unleash a 'Toxic Quack,' a noxious cloud that deals poison damage to nearby enemies, with a chance to stun them with its sheer awfulness.",
+      "name": "Toxic Quack"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Hunkers Junkers",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Talons Edge",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "DDC-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:54:47.236Z"
+  }
+}

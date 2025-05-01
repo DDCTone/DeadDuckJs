@@ -1,0 +1,126 @@
+{
+  "tokenId": "45",
+  "name": "Dead Duck #45",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/45.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Black-Disk-Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Wild Lick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the lower levels of the Shadow Disk Shop, Vinyl Scratch witnessed the brutal reality of Subchain City early. Surrounded by fading records and the echoes of forgotten tunes, he learned to survive by scavenging and outsmarting rival flocks.",
+    "class": "Rogue",
+    "name": "Vinyl Scratch",
+    "personality": "Cynical and resourceful with a dark sense of humor, Vinyl Scratch is always prepared for the worst. He cracks jokes to cope with the decay of Subchain City and trusts no one easily, but he's fiercely loyal to his flock.",
+    "specialAbility": {
+      "description": "Vinyl Scratch can create a 'Nullpatch' distraction - a burst of discordant noise that disorients enemies, lowering their accuracy and creating an opening for his flock.",
+      "name": "Nullpatch Cacophony"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Black-Disk-Shop",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Wild Lick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:59:30.299Z"
+  }
+}

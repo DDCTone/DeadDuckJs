@@ -1,0 +1,126 @@
+{
+  "tokenId": "205",
+  "name": "Dead Duck #205",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/205.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Muggers Meetup",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Blazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Cyborgs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bland Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born under the flickering neon glow of a defunct crypto exchange, 'Glitch' was hatched into a world where DRIP was more valuable than life itself. He learned the ropes down at Street Muggers Meetup, quickly figuring out that in Subchain City, the fastest way to get ahead was to short the system.",
+    "class": "Cryo-Hacker",
+    "name": "Glitch",
+    "personality": "Glitch is a chaotic neutral with a knack for getting into trouble. He's always looking for the next big score, driven by a restless energy and a fear of ending up bone-dry in the DRIP desert. Beneath his punk exterior, there's a sharp intellect and a surprising amount of loyalty to those few he trusts.",
+    "specialAbility": {
+      "description": "Glitch overloads the local blockchain node, creating a temporary 'DRIP Faucet' that floods the area with extra DRIP for a short duration. This can be used to overwhelm enemies or give his flock a crucial economic advantage, but there's a chance of attracting unwanted attention from the authorities and rival gangs.",
+      "name": "Cryo-Flux"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 60,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Muggers Meetup",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Cyborgs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bland Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Hazard",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:34:46.662Z"
+  }
+}

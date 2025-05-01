@@ -1,0 +1,126 @@
+{
+  "tokenId": "288",
+  "name": "Dead Duck #288",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/288.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Rubbers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Sk8rs Fishies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Chrono Hide Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Jabber Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Choppy\" Chopkinson wasn't always a crypto-axe murderer. Once, he was a mild-mannered accountant at QuackChain LLC. But after a rogue DAO vote liquidated his nest egg to fund a Doge-themed amusement park, he lost it and now he uses his axe to enforce proper DYOR.",
+    "class": "Berserker",
+    "name": "\"Choppy\" Chopkinson",
+    "personality": "Paranoid: Convinced everyone's out to rug him. Vigilante: Takes the law into his own hands, literally. Grimly Humorous: Cracks dark jokes even he doesn't find funny.",
+    "specialAbility": {
+      "description": "\"Rekt Check\": Choppy flies into a rage, gaining temporary invincibility and increasing his attack damage by 50% for 3 turns, fueled by the injustice of impermanent loss in the crypto markets (Cooldown: 5 turns).",
+      "name": "Rekt Check"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 30,
+      "luck": 15,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Rubbers Roost",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Fishies",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Chrono Hide Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Jabber Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Hazard",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:46:19.045Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "129",
+  "name": "Dead Duck #129",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/129.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Growl Bikes Garage",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Toxic Striped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Bubblegum\" Bart was once a cheery, bubblegum-obsessed mechanic, living a simple life building bikes in Subchain City's grimy underbelly. One fateful DRIP raid gone wrong changed everything, imbuing him with a strange energy and a one-track mind for toxic vengeance.",
+    "class": "Toxic Biker",
+    "name": "\"Bubblegum\" Bart",
+    "personality": "Psychotic: Bart's mind is a whirlwind of revving engines and bubbling rage, making him unpredictable and volatile. Obsessive: He relentlessly pursues anything related to toxic materials and seeks a certain type of revenge. Resilient: Even after facing death itself, Bart continues on with a grim determination.",
+    "specialAbility": {
+      "description": "Upon taking lethal damage, Bart releases a cloud of toxic mist around him, poisoning any nearby enemies and gaining a short burst of speed. Also, Bart is a master mechanic and can repair vehicles for the squad during down time.",
+      "name": "Toxic Revenge"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 50,
+      "luck": 30,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Growl Bikes Garage",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Toxic Striped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:22:50.195Z"
+  }
+}

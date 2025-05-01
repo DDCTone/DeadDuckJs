@@ -1,0 +1,126 @@
+{
+  "tokenId": "184",
+  "name": "Dead Duck #184",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/184.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Head Bobbers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Hecho Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Vice Grip",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found amidst the ruins of a forgotten skate park, 'Vice' was once a street medic, patching up fellow skaters after gnarly spills. Now, he uses his rusty medical knowledge and bone-dry demeanor to patch up (or more often, patch over) his fellow flock members, always muttering about the good old days when DRIP flowed freely at the park fountain.",
+    "class": "Wasteland Medic",
+    "name": "Vice Grip 'Vice' Quackers",
+    "personality": "Deadpan, pragmatic, and a little unhinged. Vice never cracks a smile, even when dispensing questionable medical advice. He's fiercely loyal to his flock, but mostly because they're the only ones who can tolerate his morbid sense of humor and toxic bedside manner. Hiding a kind quacking heart, that no one dares to approach.",
+    "specialAbility": {
+      "description": "Vice's 'Emergency Stitch-Up' ability allows him to quickly bandage a wounded ally, staunching blood loss and providing a temporary boost to their defense. The toxic concoction he uses sometimes has... unexpected side effects, but hey, at least they're not bleeding out anymore.",
+      "name": "Emergency Stitch-Up"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Head Bobbers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Hecho Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Vice Grip",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:31:58.058Z"
+  }
+}

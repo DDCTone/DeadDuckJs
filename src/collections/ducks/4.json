@@ -1,0 +1,126 @@
+{
+  "tokenId": "4",
+  "name": "Dead Duck #4",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/4.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Hollow Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Woke up 3 weeks after the initial genesis block went rogue. With no memories of his quack-life, and a GM cup glued to his hands, this duck set out to unravel the web3 mysteries of Subchain City, one cup of burnt coffee at a time. If he's not careful all the DRIP will be gone before he gets to the bottom of things.",
+    "class": "Espresso Enforcer",
+    "name": "Hash Halpert",
+    "personality": "Cynical but optimistic, Halpert is convinced that there's a way back to the old chain, he just hates the taste of the coffee they make in Subchain City. He is also Loyal to the few people he trusts, but those are few and far between, which makes him a dangerous ally.",
+    "specialAbility": {
+      "description": "Halpert can use his Hollow Beak to siphon DRIP from enemy flocks, temporarily boosting his flock's DRIP reserves and reducing the enemy flock's income.",
+      "name": "DRIP Siphon"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Hollow Beak",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:15:14.236Z"
+  }
+}

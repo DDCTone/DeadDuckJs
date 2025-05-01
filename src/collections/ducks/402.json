@@ -1,0 +1,126 @@
+{
+  "tokenId": "402",
+  "name": "Dead Duck #402",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/402.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Sakos Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Laser Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Toxic Striped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Skull-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Iron Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the toxic swamps bordering Subchain City, 'Sako' learned early on that survival meant scavenging and hacking. He stumbled upon Sako's Lair as a young duckling, inheriting the hideout and its secrets after the original Sako met an untimely end during a particularly vicious DRIP raid. Now he uses the Lair to plan his own DRIP heists, fueled by caffeine and a burning desire to outsmart the other flocks.",
+    "class": "Hacker",
+    "name": "Sako",
+    "personality": "Cynical and resourceful: Sako scoffs at 'quackademics' and trusts only his own code to survive, often mumbling about the failings of the blockchain. Insomniac: fueled by highly caffeinated sludge from his skull-cup, Sako rarely sleeps, constantly monitoring the DRIP flow for vulnerabilities. Mischievous: Sako is particularly fond of setting up traps and rigging laser pants to distract other flocks from finding DRIP.",
+    "specialAbility": {
+      "description": "Sako hacks into the DRIP network, creating a temporary but highly unstable 'DRIP Surge'. During the surge, he can siphon extra DRIP from nearby nodes, but with a high risk of triggering a counter-attack from the system's security protocols.",
+      "name": "DRIP Surge"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Sakos Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Laser Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Toxic Striped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skull-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Iron Bite",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:02:53.463Z"
+  }
+}

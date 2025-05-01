@@ -1,0 +1,126 @@
+{
+  "tokenId": "145",
+  "name": "Dead Duck #145",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/145.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Dia De Drinks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Soft Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected bouncer at the \"Dia De Los Drinks\" dive bar, Rusty's transition to the post-apocalyptic world was surprisingly smooth. He's seen worse nights just breaking up fights over watered-down DRIP. The T-1000 cybernetic eye he snagged during a drunken raid now helps him spot trouble and loot from a mile away.",
+    "class": "Brawler",
+    "name": "Rusty \"The Gasser\" Chuckles",
+    "personality": "Cynical: Rusty's seen too much grog spilled to get sentimental. Resourceful: Years of bar fights taught him how to improvise weapons from anything. Intimidating: His robotic eye and mud-stained apparel are enough to make most ducks think twice about crossing him.",
+    "specialAbility": {
+      "description": "\"Broken Bottle Blitz\" - Rusty smashes his glass bottle weapon and hurls the jagged shards in a cone, dealing bleed damage and reducing enemy accuracy.",
+      "name": "Broken Bottle Blitz"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Dia De Drinks",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Soft Peck",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:26:24.592Z"
+  }
+}

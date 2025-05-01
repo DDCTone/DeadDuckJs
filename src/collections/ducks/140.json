@@ -1,0 +1,126 @@
+{
+  "tokenId": "140",
+  "name": "Dead Duck #140",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/140.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_The Bullies Block",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Sk8rs Willies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_DDC-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Molt Cap",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Locked Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born and raised in the toxic outskirts of Subchain City, 'Sk8r' Quackinton scraped by as a courier, dodging rogue bots and desperate scavengers. He saw his flock crumble under the pressure of dwindling DRIP, but he held onto his sense of gnarly style, fueled by toxic fumes and the burning desire to ollie over the competition.",
+    "class": "Radical Renegade",
+    "name": "Sk8r Quackinton",
+    "personality": "Rebellious, resourceful, and relentlessly optimistic. Sk8r approaches every obstacle with a sarcastic quip and a stubborn refusal to give up. Despite the grim reality of Subchain City, he maintains a surprisingly upbeat attitude, always looking for the next big score or a sick ramp to shred.",
+    "specialAbility": {
+      "description": "Sk8r Quackinton channels the toxic energy around him. He unleashes a burst of speed and temporarily gains invulnerability while skating through enemies, dealing AOE damage and leaving a trail of toxic residue.",
+      "name": "Toxic Grind"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 75,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street The Bullies Block",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Willies",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "DDC-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Cap",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Locked Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:25:43.493Z"
+  }
+}

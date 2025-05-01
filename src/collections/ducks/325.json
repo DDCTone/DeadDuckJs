@@ -1,0 +1,126 @@
+{
+  "tokenId": "325",
+  "name": "Dead Duck #325",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/325.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Bill Yards",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Parasite",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Degen-Jacket",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-01",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Decay Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the old Bill Yards brewery, Bubbles learned to survive by scavenging scraps and outsmarting rival flocks. The toxic environment warped his beak into a weapon, and he honed his skills in the back alleys, becoming a legend whispered among the downtrodden.",
+    "class": "Brawler",
+    "name": "Bubbles 'Decay' Malloy",
+    "personality": "Bubbles is a stoic and cynical duck, hardened by the harsh realities of Subchain City. He masks a deep-seated empathy with a sarcastic wit and prefers to work alone, though he will reluctantly team up if the DRIP payout is high enough. He has a strange obsession with blowing toxic bubblegum.",
+    "specialAbility": {
+      "description": "Decay Bite: Bubbles unleashes a venomous bite with his mutated beak, dealing significant damage and inflicting a lingering poison effect that drains the target's hit points. The toxin degrades armor over time.",
+      "name": "Decay Bite"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Bill Yards",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Parasite",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Degen-Jacket",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-01",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Decay Bite",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:51:06.596Z"
+  }
+}

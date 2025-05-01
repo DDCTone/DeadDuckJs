@@ -1,0 +1,126 @@
+{
+  "tokenId": "245",
+  "name": "Dead Duck #245",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/245.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duck Billit",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Ripped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Bled",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Mudder",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic wastes of Sector 7, Scragglebill was abandoned as a hatchling. The harsh landscape turned him into a survivor, scavenging for DRIP amongst the ruins, always one step ahead of the rival flocks.",
+    "class": "Scavenger",
+    "name": "Scragglebill",
+    "personality": "Paranoid: Watches every shadow, trusts no one. Resourceful: Can fix anything with duct tape and grit. Sarcastic: Responds to danger with dark humor.",
+    "specialAbility": {
+      "description": "Scragglebill unleashes a toxic belch that deals poison damage to nearby enemies, lowering their accuracy and movement speed for 2 turns.",
+      "name": "Toxic Belch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duck Billit",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Ripped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Bled",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Mudder",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:40:10.980Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "77",
+  "name": "Dead Duck #77",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/77.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Call Cantina",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-01",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Facts",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Salivator",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff pits of Subchain City, 'Rotten' Frankie survived by scavenging parts and hustling for scraps. He saw firsthand how the flocks turned on each other for a single drop of DRIP, and vowed to become a legend, known for his grit and ruthless survival. Now, he wanders the wastelands, searching for valuable tech and DRIP stashes.",
+    "class": "Wasteland Scavenger",
+    "name": "'Rotten' Frankie",
+    "personality": "Cynical, resourceful, and fiercely independent. Frankie distrusts most ducks, preferring the solitude of the wastes. He's a keen observer, able to quickly assess a situation and exploit any weakness. When he does talk, his words are dripping with sardonic wit and hard-earned wisdom.",
+    "specialAbility": {
+      "description": "Frankie can identify and immediately loot a hidden cache of DRIP or unique item within a 10-meter radius. He can use twice per battle, representing his scavenger instincts and accumulated knowledge of Subchain City's hiding spots.",
+      "name": "Scavenger Sense"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Call Cantina",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-01",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Facts",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Salivator",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:06:58.006Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "43",
+  "name": "Dead Duck #43",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/43.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Sakos Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Cryo DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Static Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Last Look",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the radioactive Bubblegum Swamps, 'Stix' lost his eye in a DRIP mining accident. Now, he's obsessed with scavenging and repurposing scrap, driven by a half-crazed vision of rebuilding Subchain City, one salvaged circuit board at a time.",
+    "class": "Tinkerer",
+    "name": "'Stix' Static Peck",
+    "personality": "Erratic, driven, and morbidly curious. Stix is constantly tinkering with salvaged tech, often muttering to himself about nonexistent schematics. Despite his unsettling appearance, he possesses a strange charisma that somehow inspires loyalty, even if nobody understands what he's talking about.",
+    "specialAbility": {
+      "description": "Stix can jury-rig a temporary EMP blast from scavenged components, disabling enemy mechanical units and short-circuiting their defenses for a short duration.",
+      "name": "Salvaged Shockwave"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Sakos Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Cryo DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Static Peck",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Last Look",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:59:16.334Z"
+  }
+}

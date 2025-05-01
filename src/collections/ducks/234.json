@@ -1,0 +1,126 @@
+{
+  "tokenId": "234",
+  "name": "Dead Duck #234",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/234.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Flipper Kicks Dojo",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Molten",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Aqua",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Punk",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Toxic",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Bloody",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a top contender in the Flipper Kicks Dojo, Zombieland was sidelined when the Great DRIP Drought mutated his body. Now, fueled by toxic rage and armed with his trusty controller, he seeks to reclaim his former glory and dominate Subchain City's arena.",
+    "class": "Toxic Brawler",
+    "name": "Zombieland",
+    "personality": "Bitter and resentful due to his transformation, Zombieland channels his pain into aggressive gameplay. He's surprisingly strategic, a remnant of his dojo training, but prone to rage-quitting when things don't go his way. Deep down, he craves the respect he once commanded.",
+    "specialAbility": {
+      "description": "Zombieland temporarily gains immunity to toxic damage and receives a 25% attack damage increase. This is triggered at moments when a play-to-earn NFT game has high price volatility.",
+      "name": "Toxic Overload"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Flipper Kicks Dojo",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Molten",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Aqua",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Punk",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Bloody",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:38:46.834Z"
+  }
+}

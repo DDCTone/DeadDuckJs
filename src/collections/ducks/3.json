@@ -1,0 +1,126 @@
+{
+  "tokenId": "3",
+  "name": "Dead Duck #3",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/3.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Bill Yards",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Stitchy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic swamps just outside Subchain City, 'Stitches' saw his flock torn apart by a DRIP-fueled raid gone sideways. Now, he wanders the ruins, a grim reminder of the blockchain's brutal reality, piecing himself back together one scavenged scrap at a time.",
+    "class": "Grave Robber",
+    "name": "Stitches",
+    "personality": "Brooding and morbidly curious, Stitches carries the weight of past failures. He's fiercely independent and obsessed with finding a way out of Subchain City but he is also surprisingly compassionate towards weaker ducks, often sharing his meager DRIP rations.",
+    "specialAbility": {
+      "description": "Stitches can temporarily resurrect a fallen teammate as a zombified decoy. The decoy lasts for 2 turns attracting enemy fire but deals no damage.",
+      "name": "Raise Dead Duck"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Bill Yards",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stitchy",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:15:08.519Z"
+  }
+}

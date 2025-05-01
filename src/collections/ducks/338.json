@@ -1,0 +1,126 @@
+{
+  "tokenId": "338",
+  "name": "Dead Duck #338",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/338.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Outdo Corner",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Hot Head",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Wild Lick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected mechanic known for his meticulous engine work, 'Wrench' witnessed his flock decimated by a DRIP-fueled gang known as the 'Rust Feathers.' Now, haunted by the past and fueled by a thirst for retribution, he roams Subchain City, leaving trails of broken goons in his wake, seeking vengeance on those who wronged him. His stained Chucks, a constant reminder of the blood he has spilled on his warpath.",
+    "class": "Vigilante Mechanic",
+    "name": "'Wrench' Reddy",
+    "personality": "Brooding and resourceful, Wrench prefers to operate alone. He's haunted by the memory of his fallen flock, making him fiercely protective. He also possesses a dark sense of humor, often delivered with a chillingly deadpan expression.",
+    "specialAbility": {
+      "description": "Wrench can jury-rig field repairs mid-battle. This ability can temporarily boost a team member's armor or weapon, though with a 5% chance of it backfiring catastrophically with unintended (often humorous) results.",
+      "name": "Improvised Gearhead"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 78,
+      "luck": 42,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Outdo Corner",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Hot Head",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Wild Lick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:52:48.507Z"
+  }
+}

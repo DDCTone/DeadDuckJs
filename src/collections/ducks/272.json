@@ -1,0 +1,126 @@
+{
+  "tokenId": "272",
+  "name": "Dead Duck #272",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/272.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stage Divers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Smack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic sludge of the old crypto mines, Glitch learned early that trust is a liability. He witnessed firsthand the devastating effects of rug pulls and now wanders Subchain City, a silent observer and occasional saboteur of corrupt flocks.",
+    "class": "Infiltrator",
+    "name": "Glitch",
+    "personality": "Glitch is a stoic and cynical duck, slow to trust but fiercely loyal to those who earn his respect. He's a loner by nature, preferring the shadows to the spotlight, and his silence often makes him seem intimidating. He possesses a dry wit, cracking sardonic jokes at the expense of the powerful…if he deems them worthy of his attention.",
+    "specialAbility": {
+      "description": "Using his AI eye, Glitch can scan an enemy flock for vulnerabilities, temporarily reducing their DRIP earnings by 25% for 2 turns. This ability has a 4 turn cooldown.",
+      "name": "Data Breach"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stage Divers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Smack Pants",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:43:56.242Z"
+  }
+}

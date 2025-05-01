@@ -1,0 +1,126 @@
+{
+  "tokenId": "243",
+  "name": "Dead Duck #243",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/243.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Hunkers Junkers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Whackers",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Shatter Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the rust-choked heart of Hunker's Junkers, 'Shatter' Spinter learned the value of a good scrap heap early. Parental units long gone, this Hatchling Shadow Marked survivor scavenged and brawled his way through Subchain City, honing his knack for turning trash into formidable weapons.",
+    "class": "Brawler",
+    "name": "Shatter Spinter",
+    "personality": "Shatter is scrappy, resourceful, and undeniably surly. He trusts his instincts and his Whackers above all else. Despite his gruff exterior, he has a soft spot for underducks and will occasionally, grudgingly, lend a hand to those in need (if they can return the favor, that is).",
+    "specialAbility": {
+      "description": "\"Junk Fury\" - Shatter uses his knowledge of the junk heaps to improvise weapons on the fly. During combat, he can create a powerful temporary weapon from surrounding debris, significantly increasing damage for a short period.",
+      "name": "Junk Fury"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Hunkers Junkers",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Whackers",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Shatter Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:39:56.896Z"
+  }
+}

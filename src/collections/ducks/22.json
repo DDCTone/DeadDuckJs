@@ -1,0 +1,126 @@
+{
+  "tokenId": "22",
+  "name": "Dead Duck #22",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/22.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Leftovers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Threaded Maddness",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Pond",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a celebrated electrician, 'Sparky' was caught in the Great Subchain Meltdown, leaving him fused with scavenged tech and a constant buzzing headache. Now, he wanders Subchain City, a grim reminder of the volatile nature of blockchain dependency, searching for the mythical 'Grounding Rod' to silence the voices in his head.",
+    "class": "Tech Scavenger",
+    "name": "Sparky Salvage",
+    "personality": "Sparky is jittery and unpredictable, a side effect of the constant feedback loop in his system. He's prone to sudden bursts of manic energy followed by periods of listless staring. Despite his quirks, he's fiercely loyal to those who earn his trust, often putting himself in harm's way to protect them.",
+    "specialAbility": {
+      "description": "Sparky can overload the circuits of nearby robotic enemies, causing them to short-circuit and become temporarily stunned. There's a chance it might backfire, briefly stunning Sparky himself.",
+      "name": "Static Surge"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 35,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Leftovers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Threaded Maddness",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Pond",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Yokey",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:55.644Z"
+  }
+}

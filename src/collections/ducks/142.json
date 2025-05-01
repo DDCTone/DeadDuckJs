@@ -1,0 +1,126 @@
+{
+  "tokenId": "142",
+  "name": "Dead Duck #142",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/142.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Stool Pigeons",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Fudders",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Dirt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Squack",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wraithfeather Shadow, once a pampered hatchling from uptown, found his life drastically altered when the Great DRIP Drought hit Subchain City. Forced to scavenge and fight, he forged a formidable reputation as a silent, deadly operative, haunted by the memories of his former lavish life.",
+    "class": "Shadow Operative",
+    "name": "Silas 'Specter' Squack",
+    "personality": "Silas is brooding and taciturn, preferring action to words. He carries a heavy burden of the past, giving him a grim determination. His loyalty, however, is unwavering to those who earn his trust.",
+    "specialAbility": {
+      "description": "Wraithfeather Shadow melts into the surroundings, becoming nearly invisible for a short duration. While cloaked, his next attack deals significantly increased damage. This ability is fueled by dark DRIP, a rare variant found only in the deepest corners of Subchain City.",
+      "name": "Shadow Veil"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Stool Pigeons",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Fudders",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Dirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Shadow",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:25:59.621Z"
+  }
+}

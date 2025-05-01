@@ -1,0 +1,126 @@
+{
+  "tokenId": "83",
+  "name": "Dead Duck #83",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/83.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Jxrds Cracker Box",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Shadow Ninja Top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Ghost",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Soft Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born and bred in the digital junkyard of Jxrd's Cracker Box, Glitch spent his early days scavenging for scraps of code and broken controllers. Years of exposure to the dying blockchain have rotted his flesh, but sharpened his mind into a calculating survivalist.",
+    "class": "Netrunner",
+    "name": "Glitch",
+    "personality": "Glitch is cynical and detached, his green-dead eyes having witnessed too much decay. He finds humor in the absurd chaos of Subchain City, often cracking dark jokes even in the face of danger. Despite his jaded exterior, he possesses a strong sense of loyalty to his flock, acquired from his time in the hideout, and a surprising talent for hacking.",
+    "specialAbility": {
+      "description": "Glitch can overload enemy drones and turrets by hijacking their control systems with his controller and using the Hazard Beakware to infiltrate their systems. The virus can cause the affected enemy to attack its allies for a short period of time.",
+      "name": "Controller Chaos"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Jxrds Cracker Box",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Ninja Top",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Ghost",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Soft Peck",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:09:05.759Z"
+  }
+}

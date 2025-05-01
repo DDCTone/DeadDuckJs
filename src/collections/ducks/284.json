@@ -1,0 +1,126 @@
+{
+  "tokenId": "284",
+  "name": "Dead Duck #284",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/284.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Kujos Crusters",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Plague",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Lengua",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found as a hatchling abandoned in the toxic mud flats outside Subchain City, 'Tongue-Tied' Terry was raised by a pack of feral bots who taught him the value of scavenging and a healthy distrust of everyone. He earned his nickname honestly, by accidentally ingesting a particularly potent strain of mutated algae that permanently extended his tongue, much to the amusement (and disgust) of his bot-kin.",
+    "class": "Mad-Max Medic",
+    "name": "Tongue-Tied Terry",
+    "personality": "Cynical and resourceful, Terry is a font of dark humor and grim pragmatism. Though he acts like he doesn't care, he secretly harbors a soft spot for the underdog (or under-duck) and will begrudgingly lend a helping glove to those in need… for a price.",
+    "specialAbility": {
+      "description": "Terry can use his abnormally long tongue to whip enemies, dealing ranged damage and potentially inflicting the 'Slimed' condition, reducing their agility for 2 turns.  His Featherguard Shadow armor grants him a defensive buff after using this ability.",
+      "name": "Toxic Tongue Lash"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Kujos Crusters",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Lengua",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:45:45.201Z"
+  }
+}

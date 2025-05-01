@@ -1,0 +1,126 @@
+{
+  "tokenId": "111",
+  "name": "Dead Duck #111",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/111.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Choochys Chop Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Aqua",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trais_Shoes_C_Chucks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_404 Vision",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wrenched from the assembly lines of Choochy's Chop Shop, Glitch was repurposed for purposes unknown, deemed… defective? All he knows is that he now uses his unique hardware to serve his flock. Fueled by toxic waste and DRIP.",
+    "class": "Brawler",
+    "name": "Glitch",
+    "personality": "Glitch is a stoic and brooding duck, rarely speaking unless it's to deliver a cutting remark. He's fiercely loyal to those he considers his own, and he has a simmering rage beneath his metallic exterior, ready to be unleashed on anyone who threatens them.",
+    "specialAbility": {
+      "description": "When Glitch falls below 25% health, he enters 'Overclock' mode, granting +50% to physical strength and agility for three turns, but leaving him vulnerable once the mode expires.",
+      "name": "Overclock"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Choochys Chop Shop",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Aqua",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Trais Shoes C Chucks Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "404 Vision",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:17:41.049Z"
+  }
+}

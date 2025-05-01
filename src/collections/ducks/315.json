@@ -1,0 +1,126 @@
+{
+  "tokenId": "315",
+  "name": "Dead Duck #315",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/315.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Prove Mom Wrong",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Yokey",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the icy ruins of Cryo-City, 'Click' Clackerjack had to scavenge early to survive. He left his mom's nest to prove himself as a Drip Raider and discover resources from the wastelands of Subchain City, even if it meant braving toxic storms and rival flocks.",
+    "class": "Toxic Tech Raider",
+    "name": "'Click' Clackerjack",
+    "personality": "Rebellious and resourceful, 'Click' is always looking for ways to outsmart the system and prove his capabilities.. Despite his tough exterior, he has a soft spot for the underdog and a burning desire to make his mark on Subchain City. He also has a sarcastic sense of humor, often making light of the bleak situation with darkly funny quips.",
+    "specialAbility": {
+      "description": "Click's 'Toxic Payload' ability allows him to overload his Riot Rags Toxic gear, creating a short-range toxic cloud that weakens enemy defenses and deals damage over time. This is particularly effective in tight corridors. The 'Old Click' is reactivated using DRIP (game resource).",
+      "name": "Toxic Payload"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 78,
+      "luck": 55,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Prove Mom Wrong",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Yokey",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:49:49.697Z"
+  }
+}

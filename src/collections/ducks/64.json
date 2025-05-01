@@ -1,0 +1,126 @@
+{
+  "tokenId": "64",
+  "name": "Dead Duck #64",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/64.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Prove Mom Wrong",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Prison Strips",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Ghost",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatch, as he's now begrudgingly known, spent his early days trying to prove his mom wrong about everything. She told him the old ways were dead, that DRIP was everything. He ran away from the brood, scribbled hazard markings on his down, and swore he'd find a better way in the ruins of Subchain City.",
+    "class": "Hazard Runner",
+    "name": "Hatch Hazard",
+    "personality": "Rebellious: Hatch constantly questions authority and established norms, often leading him into trouble. Resourceful: He's adept at scavenging and repurposing discarded tech, turning junk into useful tools. Brooding: Despite his rebelliousness, Hatch is haunted by doubts and a deep-seated fear of failure.",
+    "specialAbility": {
+      "description": "Hatch uses his customized Quackpack to deploy a temporary smokescreen made of repurposed DRIP fumes. This allows him to evade enemies or set up surprise attacks, but the fumes are slightly toxic and only last for a few turns.",
+      "name": "Hazard Fume"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Prove Mom Wrong",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Prison Strips",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Ghost",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:02:56.247Z"
+  }
+}

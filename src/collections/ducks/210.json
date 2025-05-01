@@ -1,0 +1,126 @@
+{
+  "tokenId": "210",
+  "name": "Dead Duck #210",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/210.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Luchadas",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Healthy",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Socket 2 Me",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers say Socket was once a high-roller, a data broker peddling secrets in Subchain City's underbelly. But a deal gone south left him eyeless and ghosted, forever marked by the digital wraiths of a lost transaction. Now, he seeks DRIP to buy back his sight, or at least, a decent VR rig.",
+    "class": "Information Broker/Brawler",
+    "name": "Socket 'See No Evil' 2 Me",
+    "personality": "Cynical: Socket sees the worst in everyone, a byproduct of years spent navigating Subchain City's shadowy corners. Resourceful: He knows where to find anything, or anyone, for the right price, relying on his network of informants and a knack for sniffing out opportunity. Grudgingly Loyal: Despite his jaded outlook, Socket will stick by those who've earned his trust, even if he complains about it the whole time.",
+    "specialAbility": {
+      "description": "Socket leverages his past life to gather intelligence on enemies. 'Socket Scan' reveals enemy weaknesses (reduces defense) and briefly highlights their position on the tactical map.",
+      "name": "Socket Scan"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Luchadas",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Healthy",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Socket 2 Me",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:35:26.114Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "233",
+  "name": "Dead Duck #233",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/233.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Snail Bikers Base",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Blood Stained Ninja Top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cyro",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Blood Stained",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Locked Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the radioactive ponds and scrap heaps of Subchain City, 'Pixel' was just a hatchling when the digital dust storms ravaged his nest. Now, raised by rogue AI and fueled by glitch-ridden energy drinks, he patrols the digital frontier with a controller in hand, searching for lost bits and forgotten cheat codes.",
+    "class": "Controller",
+    "name": "Pixel Puker",
+    "personality": "Glitchy and unpredictable, Pixel is as likely to help you as he is to accidentally unleash a swarm of killer micro-bots. A nervous duck who spends more time gaming than scavenging, but has flashes of heroism stemming from the game that inspires him, especially if it relates to DRIP.",
+    "specialAbility": {
+      "description": "Pixel can temporarily 'glitch' the battlefield, causing opponents' stats to fluctuate randomly, giving the flock a temporary upper hand, or resulting in hilarious mishaps.",
+      "name": "Controller Chaos"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 85,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Snail Bikers Base",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Ninja Top",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cyro",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Locked Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:38:39.194Z"
+  }
+}

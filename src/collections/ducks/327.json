@@ -1,0 +1,126 @@
+{
+  "tokenId": "327",
+  "name": "Dead Duck #327",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/327.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Runners Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Anarchy Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff trenches of Subchain City, 'Crest' spent his early hatchling days scavenging for scraps. He learned to swindle and smash his way through life, finding a knack for disassembling tech and improvising weaponry from junk he found on the streets.",
+    "class": "Tinkerer/Bruiser",
+    "name": "Crest the Cryo-Smasher",
+    "personality": "Crest is rebellious and opportunistic. He's got a nihilistic worldview but a soft spot for his makeshift family of outcasts. Can often be found tinkering with his Nest Smasher or trying to siphon the last drop of coolant from broken Cryo units.",
+    "specialAbility": {
+      "description": "With a swing of his 'Nest Smasher' hammer, Crest can unleash a devastating area-of-effect attack, freezing the ground and nearby enemies in a burst of improvised cryo-energy, slowing their movement and leaving them vulnerable to follow-up attacks.",
+      "name": "Cryo-Smash!"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Runners Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Anarchy Tank",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:51:22.242Z"
+  }
+}

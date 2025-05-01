@@ -1,0 +1,126 @@
+{
+  "tokenId": "165",
+  "name": "Dead Duck #165",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/165.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Snail Bikers Base",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blasted",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Molt Cap",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Grit Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Socket 2 Me",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the radioactive glow of a forgotten reactor, Socket survived by scavenging scrap and 'borrowing' tech from the Snail Bikers. Now, slightly unhinged but resourceful, he roams Subchain City looking for his missing eye... and maybe a little DRIP along the way.",
+    "class": "Tinkerer",
+    "name": "Socket",
+    "personality": "Resourceful: Socket can MacGyver just about anything from junk he finds lying around. Obsessive: His fixation on finding his missing eye borders on madness. Grumpy: Socket has a serious distaste for most other ducks, particularly the preening 'elite' flocks.",
+    "specialAbility": {
+      "description": "Socket rigs up a makeshift EMP from scavenged electronic parts. This temporarily disables enemy tech and stuns robotic drones in a small radius.",
+      "name": "Jury-Rigged EMP"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Snail Bikers Base",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blasted",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Cap",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Grit Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Socket 2 Me",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:29:12.459Z"
+  }
+}

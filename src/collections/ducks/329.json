@@ -1,0 +1,126 @@
+{
+  "tokenId": "329",
+  "name": "Dead Duck #329",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/329.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Call Cantina",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Fracture Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Bubblegum",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Last Call Cantina, 'Bubbles' learned the hard way that the sweetest things in Subchain City often come with a bitter price. The plague markings are a constant reminder of a DRIP deal gone south, but his Moltlocks Mudder crown reminds him who he is.",
+    "class": "Wasteland Scavenger",
+    "name": "Bubbles 'Fracture Beak' Malone",
+    "personality": "Nonchalant: Bubbles approaches every situation with a deadpan attitude, even when staring down a ravenous Robo-Raccoon. Resourceful: Years of scavenging in Subchain City have made Bubbles adept at finding DRIP where others see only scrap. Observant: His survival depends on noticing the smallest details, making him a keen strategist on the battlefield.",
+    "specialAbility": {
+      "description": "Bubbles blows a massive bubblegum bubble that explodes, dealing AOE damage and temporarily blinding enemies with sticky residue.",
+      "name": "Bubble Blast"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 80,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Call Cantina",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Fracture Beak",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Bubblegum",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:51:38.795Z"
+  }
+}

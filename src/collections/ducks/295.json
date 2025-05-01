@@ -1,0 +1,126 @@
+{
+  "tokenId": "295",
+  "name": "Dead Duck #295",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/295.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Static",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Scab",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up on Street Yay Blvd taught Ducky 'Rust Bill' Riot to hustle for every scrap of DRIP. He witnessed firsthand how quickly fortunes could turn in Subchain City, and he vowed to become a player, not a pawn, in this pixelated apocalypse. After his flock was wiped out by the Glitch Goblins, he's been a lone wolf, trading secrets and salvaged tech to survive.",
+    "class": "Scavenger",
+    "name": "Ducky 'Rust Bill' Riot",
+    "personality": "Cynical: Ducky's seen too much to trust anyone easily, always expecting a double-cross. Resourceful: He can MacGyver just about anything from scrap, essential for survival in Subchain City. Greedy: Ducky can't help his desire for DRIP, although he will share some of his wealth... sometimes.",
+    "specialAbility": {
+      "description": "Rust Bill can deploy a cloud of static that jams enemy targeting systems and confuses their movement. The Gasser Static disrupts enemy lines, turning the tides in chaotic skirmishes.",
+      "name": "Gasser Static Field"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Static",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Scab",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:47:12.448Z"
+  }
+}

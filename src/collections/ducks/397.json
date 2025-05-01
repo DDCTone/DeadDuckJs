@@ -1,0 +1,126 @@
+{
+  "tokenId": "397",
+  "name": "Dead Duck #397",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/397.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Rubbers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Plagued",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Scab",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Splinter Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the heart of the Rubbers Roost, Viridian was always a survivor. Even after the plague took its toll, leaving him a patchwork of rot and resilience, he traded his dead-eye stare for DRIP, becoming a feared enforcer for the local flock. Now, armed with his trusty waddle-maker, he keeps the peace... or breaks it, depending on who's paying.",
+    "class": "Bruiser",
+    "name": "Viridian Rot",
+    "personality": "Gruff and pragmatic, Viridian prefers action to words. He's fiercely loyal to his flock, even if he struggles to show it, protecting them with brutal efficiency. Although plagued, he retains a grim sense of humor, often cracking dark jokes after a particularly messy altercation.",
+    "specialAbility": {
+      "description": "Viridian's Plague Touch transfers a fragment of his affliction to his enemies. It reduces their agility and deals damage over time, leaving them vulnerable to follow-up attacks.",
+      "name": "Plague Touch"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 30,
+      "luck": 25,
+      "strength": 75
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Rubbers Roost",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Scab",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Splinter Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:00:41.297Z"
+  }
+}

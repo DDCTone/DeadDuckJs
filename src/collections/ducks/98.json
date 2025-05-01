@@ -1,0 +1,126 @@
+{
+  "tokenId": "98",
+  "name": "Dead Duck #98",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/98.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Jxrds Cracker Box",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Hatchers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Molder Maw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Mudder",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the forgotten server farms beneath Subchain City, Glitch grew up scavenging for obsolete tech and dodging rogue cleaning protocols. His hideout in Jxrds Cracker Box is a testament to his ability to survive and thrive in the digital wasteland, patching up his rotted body with whatever he can find.",
+    "class": "Datamancer",
+    "name": "Glitch, the Crypto-Hacker",
+    "personality": "Glitch is paranoid and cynical, always expecting a double-cross in the cutthroat world of Subchain City. He's also fiercely independent, preferring to work alone even when a flock would be safer, and compulsively addicted to caffeine, which amplifies his already twitchy demeanor.",
+    "specialAbility": {
+      "description": "Glitch can temporarily scramble enemy targeting systems, causing them to misfire or target their allies. This can only be used if Glitch had consumed at least one dose of caffeinated DRIP drink within 5 turns, amplifying the power of his GM-Cup. However, it has a 15% chance to backfire messing up his movement for the round.",
+      "name": "Glitchstorm"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 85,
+      "luck": 45,
+      "strength": 35
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Jxrds Cracker Box",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Hatchers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Molder Maw",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Mudder",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:13:18.718Z"
+  }
+}

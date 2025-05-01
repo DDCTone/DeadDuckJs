@@ -1,0 +1,126 @@
+{
+  "tokenId": "271",
+  "name": "Dead Duck #271",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/271.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Dia De Drinks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Drumsticks",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bland Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the ruins of 'Dia De Los Drinks,' a pre-collapse watering hole, 'Bland' Benny always had a nose for trouble. He learned to play the drums on empty barrels, attracting unwanted attention from rival flocks which made him seek refuge with the 'Shadow Syndicate.' Now, he lays down the beat for their raids, a grim rhythm echoing through Subchain City.",
+    "class": "Riot Medic",
+    "name": "Bland 'Bite' Benny",
+    "personality": "Grimly pragmatic, Benny's seen too much to crack a smile. Resourceful, he can turn scrap into something useful, especially when it comes to patching up his flock-mates. Secretly, he yearns for the days when the only blood he saw was spilled beer.",
+    "specialAbility": {
+      "description": "Using a combination of salvaged meds and percussive rhythm, Benny can administer an 'Adrenaline Beat' to heal allies, temporarily boosting their attack speed and resilience, but leaving them vulnerable to a 'crash' afterward.",
+      "name": "Adrenaline Beat"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Dia De Drinks",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Drumsticks",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bland Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:43:48.460Z"
+  }
+}

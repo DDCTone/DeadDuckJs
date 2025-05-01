@@ -1,0 +1,126 @@
+{
+  "tokenId": "389",
+  "name": "Dead Duck #389",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/389.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_The Bullies Block",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Scabs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-01",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Yokey",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Shatter Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born on the mean streets of the Bullies Block, Glitch developed a reliance on scavanging and tech skills to subsist in the harsh landscape. His AI enhanced eyes give him an edge, but the near constant malfunctions make every choice interesting in Subchain City. He joined a flock for 'protection', but really he just wants to find enough DRIP to keep his systems from crashing entirely.",
+    "class": "Tech Scavenger",
+    "name": "Glitch",
+    "personality": "Paranoid, Resourceful, Glitchy. Glitch trusts no one, often seeing enemies where there are none. He's a master of improvisation, turning scraps into deadly tools. His AI integration causes him to skip conversational beats, repeat phrases, and sometimes predict the future... poorly.",
+    "specialAbility": {
+      "description": "Overclocks his AI eyes to predict enemy movements for a short duration. High risk; may cause a system crash.",
+      "name": "Precognitive Glitch"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 30,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street The Bullies Block",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Scabs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-01",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Yokey",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Shatter Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:59:13.929Z"
+  }
+}

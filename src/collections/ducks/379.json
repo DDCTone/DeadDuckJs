@@ -1,0 +1,126 @@
+{
+  "tokenId": "379",
+  "name": "Dead Duck #379",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/379.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Batch Pad",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Hecho Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Deboner",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Daggerbill",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Spawned from the murky depths of the Dried Lake reactor runoff, \"Dead-Eye\" Derek learned early that survival in Subchain City meant either you carve out your own slice of the pie, or get turned into beak-chow. He carries the Growler Vest Shadow, a reminder of a past flock betrayal where he barely escaped with his feathers intact.",
+    "class": "Scout",
+    "name": "\"Dead-Eye\" Derek",
+    "personality": "Cynical and brooding, Derek trusts no one, preferring his own company and the sharp edge of his Deboner. Despite his hardened exterior, he harbors a secret soft spot for the hatchlings, often leaving small caches of DRIP near their crèches in the Bldg Batch Pad.",
+    "specialAbility": {
+      "description": "Derek uses his Deboner in conjunction with toxic beakwear to deliver an especially nasty poison strike that does damage over time (DOT).",
+      "name": "Toxic Deboning"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 40,
+      "strength": 65
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Batch Pad",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Hecho Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Deboner",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Daggerbill",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:57.871Z"
+  }
+}

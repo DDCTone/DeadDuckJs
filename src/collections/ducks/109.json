@@ -1,0 +1,126 @@
+{
+  "tokenId": "109",
+  "name": "Dead Duck #109",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/109.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Fudders",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Echo Stain",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Fuss",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic swamps on the edge of Subchain City, 'Gravewalker' Gus has seen more death than most ducks his age. His early life scavenging for scraps led him to an encounter with a mysterious artifact tainted by the Echo Stain, granting him unusual abilities, but also an insatiable hunger.",
+    "class": "Shadow Stalker",
+    "name": "Gravewalker Gus",
+    "personality": "Gravewalker Gus is haunted by the constant echoes of the dead, making him withdrawn and brooding. He trusts few ducks and prefers to operate alone, often muttering cryptic warnings only he seems to understand. Despite his grim demeanor, there's a flicker of dry humor beneath the surface - a coping mechanism honed by years of survival.",
+    "specialAbility": {
+      "description": "Gus can briefly phase into the Echo, becoming partially invisible and gaining increased speed for a short duration. This allows him to slip past enemies or reposition strategically during raids.",
+      "name": "Echo Shift"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Fudders",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Echo Stain",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Fuss",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:16:58.806Z"
+  }
+}

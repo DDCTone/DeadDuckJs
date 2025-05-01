@@ -1,0 +1,126 @@
+{
+  "tokenId": "427",
+  "name": "Dead Duck #427",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/427.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Crawler Space",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Voidhorn Helm",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Wild Lick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers say 'Stompy' Stu was once a simple scavenger before stumbling upon a cache of pre-Collapse performance enhancing chews. Now, fueled by questionable chemicals and a profound loathing for the status quo, he wanders Subchain City, leaving a trail of carnage and disgruntled Flock leaders in his wake.",
+    "class": "Berserker",
+    "name": "Stompy Stu",
+    "personality": "Chaotic and unpredictable. One minute he's a stoic observer, the next he's launching into a frenzy with his trusty waddle-maker. Secretly, Stu craves order but is incapable of finding it in Subchain City, instead channeling that frustration into raw, destructive power.",
+    "specialAbility": {
+      "description": "Stu throws back into his system the last chewed performance enhance chew, granting temporary invincibility and dramatically boosts is strength, allowing him to stomp around and inflict major damage.. Side effect results in uncontrollable drawling, lowering the intelligence stat temporarily.",
+      "name": "Rage Chew"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 90
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Crawler Space",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Voidhorn Helm",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Wild Lick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:05:43.196Z"
+  }
+}

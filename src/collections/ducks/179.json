@@ -1,0 +1,126 @@
+{
+  "tokenId": "179",
+  "name": "Dead Duck #179",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/179.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smashys Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Heart Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Talons Edge",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Scabbed",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the radioactive mudflats outside Subchain City, Virgil was always a survivor. He honed his skills scavenging in Smashy's Shop, turning broken glass and scavenged metal into deadly weapons and fashionable, yet functional, attire. Now, he's ready to carve his way to the top of the DRIP heap… one shard of glass at a time.",
+    "class": "Wastelander Scavenger",
+    "name": "Virgil 'Shard' Scabsworth",
+    "personality": "Cynical and opportunistic, Virgil sees the humor in the grim reality of Subchain City. He's pragmatic, valuing survival above all else, but carries a twisted sense of loyalty to those in his ragtag flock. He also has a deep seated love for drip, and will do anything to acquire larger amounts of it for himself and his allies.",
+    "specialAbility": {
+      "description": "Virgil can create a cloud of broken glass with a mighty swing of his glass bottle, damaging enemies in a small area and applying a bleed effect.",
+      "name": "Glass Shard Hail"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smashys Shop",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Heart Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Talons Edge",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Scabbed",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:31:12.287Z"
+  }
+}

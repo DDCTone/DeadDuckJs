@@ -1,0 +1,126 @@
+{
+  "tokenId": "108",
+  "name": "Dead Duck #108",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/108.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Call Cantina",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Elm Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Skull-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found abandoned in the husk of the Last Call Cantina, Unit 108 has pieced himself together from scraps and salvage. Memory banks corrupted, he only remembers fragments of a past life – and a burning need for DRIP.",
+    "class": "Bounty Hunter",
+    "name": "Unit 108 \"Glitch\"",
+    "personality": "Glitch is a haunted shell of a duck, driven by corrupted programming and a lust for DRIP. He's ruthless, efficient, and prone to unpredictable glitches in his fragmented processing core, which can lead to either strategic brilliance or catastrophic failure.",
+    "specialAbility": {
+      "description": "Glitch overloads his corrupted systems, briefly boosting his combat stats and accuracy, creating a short damage burst. However, the surge drains DRIP reserves and risks temporary system instability, making him vulnerable to attacks.",
+      "name": "System Overload"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Call Cantina",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Elm Shirt",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skull-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:16:49.817Z"
+  }
+}

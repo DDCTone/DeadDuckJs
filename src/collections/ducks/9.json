@@ -1,0 +1,126 @@
+{
+  "tokenId": "9",
+  "name": "Dead Duck #9",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/9.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Rattlers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Shadow",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Elm Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Dropkicker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Noble Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wrench wasn't always a zombie-eyed gearhead. Before the Great Liquidity Crash, he was just a regular duck with a penchant for custom modifications. Now, he spends his days in the ruins of Rattler's Roost, haunted by the ghosts of DRIP, desperately trying to piece together a working vehicle to escape Subchain City.",
+    "class": "Mechanic",
+    "name": "Wrench",
+    "personality": "Wrench is a gruff loner, haunted by the losses of the old world. He's fiercely independent and trusts no one, preferring the company of his tools. However, beneath his hardened exterior lies a spark of ingenuity and a desperate hope for a better future.",
+    "specialAbility": {
+      "description": "Wrench can jury-rig a temporary upgrade onto a vehicle or piece of equipment, boosting its stats for a limited time. The effect is unpredictable, sometimes resulting in a massive power surge, other times a catastrophic failure.",
+      "name": "Salvaged Boost"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 85,
+      "luck": 30,
+      "strength": 70
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Rattlers Roost",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Shadow",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Elm Shirt",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Dropkicker",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Noble Peck",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:15:47.947Z"
+  }
+}

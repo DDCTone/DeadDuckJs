@@ -1,0 +1,126 @@
+{
+  "tokenId": "32",
+  "name": "Dead Duck #32",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/32.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Call Cantina",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Laser Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Cyborgs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Last Look",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected enforcer for the 'Feathered Fists' flock, 'Knuckles' McGuire lost an eye in a particularly nasty DRIP raid gone wrong. Now haunted by visions of the bloodshed, he spends his days drifting through Subchain City's Last Call Cantina, drowning his sorrows in diluted coolant fluid.",
+    "class": "Bruiser",
+    "name": "Knuckles 'Last Look' McGuire",
+    "personality": "Haunted and nihilistic, Knuckles tries to maintain a detached facade, but beneath the gruff exterior lies a duck wrestling with guilt. Prone to brooding, he occasionally surprises others with moments of dark humor and bursts of unexpected loyalty.",
+    "specialAbility": {
+      "description": "Knuckles inflicts bleed with a crit, and has a small chance to inflict poison with each melee hit.",
+      "name": "Toxic Knuckle Sandwich"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Call Cantina",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Laser Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Cyborgs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Last Look",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:18:21.336Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "241",
+  "name": "Dead Duck #241",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/241.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Enjoyed Silence",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Phaser-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cryo Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_To-Kill-Ya",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Molt Cap",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Soft Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the underbelly of Subchain City, Kipp never knew a life untouched by the DRIP wars. His hatchling days were soaked in the blood of fallen kin, a grim reminder to survive by any means necessary. He learned to trust no beak, only the cold steel in his webbed hands.",
+    "class": "Bounty Hunter",
+    "name": "Kipp 'Kold' Toes",
+    "personality": "Cynical: Kipp's seen it all and believes very little. Opportunistic: He's always looking for a way to turn a profit or gain an edge. Pragmatic: Sentimentality is a luxury he can't afford; he does what needs to be done to survive.",
+    "specialAbility": {
+      "description": "Kipp can freeze a small puddle of DRIP to create a slippery surface, hindering enemy movement and potentially causing them to fall prone for one turn.",
+      "name": "Cryo-Trip"
+    },
+    "stats": {
+      "agility": 70,
+      "intelligence": 65,
+      "luck": 30,
+      "strength": 80
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Enjoyed Silence",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Phaser-Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cryo Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "To-Kill-Ya",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Cap",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Soft Peck",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:39:42.273Z"
+  }
+}

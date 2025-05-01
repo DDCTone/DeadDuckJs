@@ -1,0 +1,126 @@
+{
+  "tokenId": "415",
+  "name": "Dead Duck #415",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/415.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Fun Boxes",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Broke Beak",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Skull-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Facts",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising entrepreneur in Subchain City's burgeoning crypto-arcade scene, 'Mocker' Max now haunts the ruins of Bldg Fun Boxes, forever searching for the mythical 'God Game' rumored to contain the ultimate DRIP exploit. The toxic scorchshields he wears are a constant reminder of the arcade wars that ended his sweet dream of becoming an crypto games mogul.",
+    "class": "DRIP Diver",
+    "name": "Mocker Max",
+    "personality": "Max is jaded and sarcastic, but still clings to the hope of finding the God Game. He's haunted by his past failures, using his dark humor as a defense mechanism. Despite his rough exterior, he secretlyyearns for the days when NFTs and crypto were fun.",
+    "specialAbility": {
+      "description": "Max drains and steals DRIP by mocking the enemy defense. This attack is unblockable but has a 20% chance of backfiring and mocking his own flock.",
+      "name": "Toxic Taunt"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Fun Boxes",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Broke Beak",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Skull-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Facts",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:04:23.591Z"
+  }
+}

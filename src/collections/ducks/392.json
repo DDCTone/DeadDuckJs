@@ -1,0 +1,126 @@
+{
+  "tokenId": "392",
+  "name": "Dead Duck #392",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/392.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duster Dungeon",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Rugged",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Scabs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Toxic Striped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Cyber",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_404 Vision",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the back alleys of Subchain City, Glitch started out life scavenging for discarded data packets and broken console parts. It was in those early raids that he learned to dodge laser grids and disarm sentry bots, skills that would later make him a notorious DRIP hoarder.",
+    "class": "Cyber Scavenger",
+    "name": "Glitch",
+    "personality": "Glitch is a nervous, jittery duck, always tweaking his cybernetic enhancements. Despite being a bit of a mess, he has a soft spot for other lost ducklings, especially those who've been glitched beyond repair.",
+    "specialAbility": {
+      "description": "Glitch can temporarily scramble enemy targeting systems with a surge of digital noise, causing them to misfire or target the wrong enemy. The Boom Bap Shadow crown amplifies this effect, sometimes even causing enemies to turn on each other.",
+      "name": "Data Static Burst"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 68,
+      "luck": 52,
+      "strength": 40
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duster Dungeon",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Rugged",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Scabs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Toxic Striped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Cyber",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "404 Vision",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:59:39.450Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "378",
+  "name": "Dead Duck #378",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/378.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_To-Kill-Ya",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Fluffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up on Street Yay Blvd, Spike was scrapping for DRIP since he could waddle. A run-in with the Featherguard Shadow left him with a respect for the old ways, but a healthy dose of street smarts to survive in Subchain City.",
+    "class": "Scout/Assassin",
+    "name": "Spike 'Shadowbloom' Mallard",
+    "personality": "Cunning and resourceful, Spike is always looking for an angle. He has a surprising amount of loyalty driven by the old ways of the Featherguard, but can be cold-blooded when it comes to protecting his own DRIP.",
+    "specialAbility": {
+      "description": "Spike uses his hand-to-kill-ya to inflict an unexpected critical strike that deals massive damage and stuns the enemy temporarily. This ability has a cooldown of 3 turns.",
+      "name": "Golden Strike"
+    },
+    "stats": {
+      "agility": 92,
+      "intelligence": 75,
+      "luck": 68,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "To-Kill-Ya",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Fluffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:50.570Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "175",
+  "name": "Dead Duck #175",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/175.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Monument_Crypto-Trenches",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Beat Down Boots",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Ninja-Star",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Static Peck",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the heart of the Crypto-Trenches, Cipher learned early that survival meant staying ahead of the drip. He scavenges forgotten hard drives, piecing together fragments of the old world's code in a desperate attempt to unlock Subchain City's secrets.",
+    "class": "Data Raider",
+    "name": "Cipher",
+    "personality": "Cunning and resourceful, Cipher sees every situation as a puzzle to be solved. He's ruthlessly pragmatic, willing to exploit any vulnerability for a competitive advantage, but deep down, he fears the unraveling of his own code.",
+    "specialAbility": {
+      "description": "Cipher can analyze enemy defenses and download temporary buffs related to enemy weaknesses.",
+      "name": "Data Breach"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Monument Crypto-Trenches",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Beat Down Boots",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Ninja-Star",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Static Peck",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:30:37.611Z"
+  }
+}

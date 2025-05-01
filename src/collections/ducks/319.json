@@ -1,0 +1,126 @@
+{
+  "tokenId": "319",
+  "name": "Dead Duck #319",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/319.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Smack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found amidst the rubble of the Bldg Supply Depot after the Great Liquidity Crash, this duck was pieced back together, bone by bone. The Boom Bap Shadow crown he found grants him uncanny insight into the broken blockchain, making him a valuable, if unsettling, member of any raiding party.",
+    "class": "Cryptic Scavenger",
+    "name": "Silas 'The Shadow' Scavenge",
+    "personality": "Silas is a brooding loner, often found mumbling about forgotten mempools and lost DRIP. Despite his gloomy demeanor, his knack for finding hidden resources and predicting market crashes make him indispensable. Surprisingly sentimental, he occasionally leaves small piles of scavenged goods for struggling ducklings.",
+    "specialAbility": {
+      "description": "Silas activates his Vigilanti Shadow mask, granting him temporary x-ray vision to detect hidden stashes of DRIP and identify enemy weak points. The Broken Chirp beak amplifies the sonic feedback, disorienting nearby foes.",
+      "name": "Shadow Scan"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 72,
+      "strength": 45
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Smack Pants",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:50:19.796Z"
+  }
+}

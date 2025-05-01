@@ -1,0 +1,126 @@
+{
+  "tokenId": "206",
+  "name": "Dead Duck #206",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/206.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_The Bullies Block",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Blazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Prison Strips",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Talons Edge",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Hollowbeak Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Shell Smasher",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Vice Grip",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ouchy",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the unforgiving streets of The Bullies Block, 'Stripes' did time early for a petty DRIP-related crime. Prison made him tough, resourceful, and eternally suspicious of any duck wearing shiny shoes.",
+    "class": "Street Brawler",
+    "name": "Stripes",
+    "personality": "Wary: Stripes trusts no one after his stint in the Subchain slammer. Resourceful: He can turn a discarded bottle cap into a deadly weapon. Fatalistic: Stripes believes that everyone ends up as crispy duck one way or another, so might as well enjoy the chaos.",
+    "specialAbility": {
+      "description": "Stripes can unleash a 'Shell Shock' attack, a devastating flurry of blows with his reinforced Chucks Cryo Socks. This deals high damage and has a chance to freeze the target momentarily.",
+      "name": "Shell Shock"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 30,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street The Bullies Block",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Prison Strips",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Talons Edge",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Hollowbeak Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Shell Smasher",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Vice Grip",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Ouchy",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:34:54.595Z"
+  }
+}

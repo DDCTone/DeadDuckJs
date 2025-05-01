@@ -1,0 +1,126 @@
+{
+  "tokenId": "368",
+  "name": "Dead Duck #368",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/368.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hangout_Snailers Hut",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Chrono Hide Noche",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Hollowbeak Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Phantomfeather Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a slick-talking timebroker peddling glimpses of pre-apocalyptic paradise on the Dark Swarm, Chrono Clutch lost his beak in a deal gone sideways. Now, he haunts the Snailer's Hut, hawking salvaged tech and whispered secrets while dodging vengeful clients and the ever-encroaching rot.",
+    "class": "Tinkerer",
+    "name": "Chrono Clutch",
+    "personality": "Cynical and opportunistic, Clutch uses his bleak experiences to manipulate those around him, always seeking an edge in the dwindling DRIP economy. Despite his shady dealings, a flicker of guilt remains, hinting at a desire for redemption, though he'd never admit it.",
+    "specialAbility": {
+      "description": "Chrono Clutch can briefly manipulate the temporal field around a targeted hex on the battlefield. This either fast-forwards the recovery time of allies within that hex, or slows down enemy actions, giving Clutch's allies a crucial advantage.",
+      "name": "Chrono Shift"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hangout Snailers Hut",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Chrono Hide Noche",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Hollowbeak Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Phantomfeather Shadow",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:56:32.824Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "356",
+  "name": "Dead Duck #356",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/356.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Dia De Drinks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Ske8rs Tatted",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Chrono Hide Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ocular Fallout",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a celebrated mixologist at the Dia De Los Drinks, 'Ocular' Ollie lost his eye – and a good portion of his sanity – in a rogue batch of 'Subchain Swill.' Now, convinced the cryogenic ingredients hold the key to unlocking eternal happy hour, he roams Subchain City in search of the perfect cocktail of chaos.",
+    "class": "Mad Scientist/Tinkerer",
+    "name": "'Ocular' Ollie",
+    "personality": "Obsessive: Fixated on recreating the perfect crypto-cocktail, talks to his missing eye. Unhinged: Prone to unpredictable outbursts and madcap schemes. Resourceful: A dab hand at turning scrap into surprisingly effective gadgets.",
+    "specialAbility": {
+      "description": "Ollie chucks a concoction of cryogenic liquid at his enemies slowing down their agility and temporarily freezing their attack power. The higher the intelligence stat, the better the effect.",
+      "name": "Chrono-Cocktail Chaos"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 90,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Dia De Drinks",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Ske8rs Tatted",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Chrono Hide Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Ocular Fallout",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:55:01.767Z"
+  }
+}

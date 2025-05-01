@@ -1,0 +1,126 @@
+{
+  "tokenId": "223",
+  "name": "Dead Duck #223",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/223.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Duck Billit",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Drawl",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the rusted-out Subchain City skyline, 'Chill' Quackers grew up scavenging for scraps and avoiding the territorial spats between rival duck flocks. The sight of too many fellow ducks ending up as roadkill beneath the treads of raiding parties hardened his shell and gave him a perpetually world-weary outlook.",
+    "class": "Road Warrior",
+    "name": "'Chill' Quackers",
+    "personality": "Sarcastic, Pragmatic, and Loyal. Chill has a biting sense of humor and a seen-it-all attitude. Despite his cynicism, he fiercely protects those he considers part of his 'flock,' putting himself in harm's way without hesitation. He appreciates the warmth from his Warmy Shirt Shadow as he is more comfortable in colder weather",
+    "specialAbility": {
+      "description": "Chill activates his Shock-Goggles-Cryo, granting him temporary enhanced vision and the ability to inflict 'Chill' damage to enemies. Enemies who are 'Chilled' have decreased speed and accuracy",
+      "name": "Cryo-Vision"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Duck Billit",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Drawl",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:37:16.788Z"
+  }
+}

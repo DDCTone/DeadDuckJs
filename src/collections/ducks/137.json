@@ -1,0 +1,126 @@
+{
+  "tokenId": "137",
+  "name": "Dead Duck #137",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/137.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Rubbers Roost",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Vesper Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Hollow Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "\"Binary Billy\" was once a promising programmer, coding critical infrastructure for Subchain City's (now defunct) automated DRIP distribution system. When the system crashed, he tried to fix it himself. The Cryo-Rot he sustained during his digital dive left him… altered, but he's convinced he's *this* close to getting the system back online.",
+    "class": "Algorithmic Anomaly",
+    "name": "Binary Billy",
+    "personality": "Driven by a technical obsession, Billy believes old technology holds the key to Subchain City's salvation. He's prone to rambling technobabble and often gets lost in his own simulations, but beneath the surface lies a desperate desire to fix what he broke.",
+    "specialAbility": {
+      "description": "Binary Billy can temporarily 'reboot' a downed ally, restoring them to combat readiness for a turn. However, the reboot is unstable, with a 50% chance of inflicting a 'glitch' that reduces their stats for the following turn.",
+      "name": "Reboot"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 88,
+      "luck": 60,
+      "strength": 32
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Rubbers Roost",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Vesper Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Hollow Beak",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:25:17.961Z"
+  }
+}

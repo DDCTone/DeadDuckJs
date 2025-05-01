@@ -1,0 +1,126 @@
+{
+  "tokenId": "59",
+  "name": "Dead Duck #59",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/59.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Prove Mom Wrong",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Chrono Hide Noche",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Blood Stained",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Locked Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the shadow of his overachieving siblings, Pixel knew he had to break free and make a name for himself. Ditching the family flock, he now operates a clandestine DRIP data-recovery operation from a hidden bunker, fuelled by caffeine and a burning desire to be more than just 'another mudder' in the family.",
+    "class": "Chrono-Hacker",
+    "name": "Pixel Glitch",
+    "personality": "Paranoid and twitchy, Pixel is always on edge, expecting the system to crash or the Fuzz Ducks to raid his hideout. He masks his anxiety with a constant stream of sarcastic quips and meticulously plans every move, convinced that only foresight can save him from the chaos of Subchain City.",
+    "specialAbility": {
+      "description": "Pixel can briefly manipulate temporal loops to rewind his last movement or action during combat, allowing him to dodge critical hits or reset unfavorable combat situations. Comes equipped with Chrono Hide Noche, an Epic piece of gear.",
+      "name": "Temporal Glitch"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Prove Mom Wrong",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Chrono Hide Noche",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Blood Stained",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Locked Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Yokey",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:01:20.873Z"
+  }
+}

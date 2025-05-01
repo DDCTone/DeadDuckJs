@@ -1,0 +1,126 @@
+{
+  "tokenId": "282",
+  "name": "Dead Duck #282",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/282.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Bill Yards",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Muertos",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Socket 2 Me",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected pool shark at the 'Cracked Beak' billiard hall, 'Socket' Sammy lost his eye in a particularly nasty DRIP debt dispute. Now, clad in scavenged gear and fueled by a burning desire for revenge, he roams Subchain City, wrench in hand, looking for the quack who took his eye...and his DRIP.",
+    "class": "Mechanic/Bruiser",
+    "name": "Socket Sammy",
+    "personality": "Gritty & Ruthless: Sammy doesn't play nice, especially when DRIP is on the line. Resourceful & Crafty: He can MacGyver just about anything out of scrap. Haunted & Determined: The loss of his eye and status fuels his relentless pursuit of vengeance.",
+    "specialAbility": {
+      "description": "Using his wrench, Sammy can deliver a disabling blow that stuns the enemy. The Muertos Crown provides enhanced insight, increasing crit chance against stunned opponents. The Socket to Me face trait allows Sammy to temporarily see enemy weaknesses and target them on the next attack.",
+      "name": "Wrench Wrench WHAA!"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Bill Yards",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Muertos",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Socket 2 Me",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:45:28.125Z"
+  }
+}

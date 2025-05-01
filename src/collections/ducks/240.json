@@ -1,0 +1,126 @@
+{
+  "tokenId": "240",
+  "name": "Dead Duck #240",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/240.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Moshys Pitt",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Aqua",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Voidhorn Helm",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Vice Grip",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wrench, formerly known as Ducky McFixit, was once the chief mechanic of Subchain City's only functional biodiesel refinery. After a rival flock sabotaged the operation, leaving him for dead amongst the wreckage, Wrench emerged with a newfound appreciation for chaos and a talent for repurposing scrap.",
+    "class": "Tinkerer",
+    "name": "Wrench",
+    "personality": "Cynical: Years of watching Subchain City crumble have left Wrench with a bleak outlook, expressed through sarcastic quips. Resourceful: He can MacGyver almost anything from discarded junk, a highly valuable skill in the wasteland. Unstable: Traumatized by the refinery incident, he's prone to unpredictable outbursts and fixations on vengeance.",
+    "specialAbility": {
+      "description": "Can jury-rig a temporary upgrade to a team-mate's gear. This upgrade can come in the form of increased damage, temporary shield, or a small heal. Chance of the gear falling apart after use.",
+      "name": "Scrapheap Synergy"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 30,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Moshys Pitt",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Aqua",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Voidhorn Helm",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Vice Grip",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:39:33.921Z"
+  }
+}

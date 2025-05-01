@@ -1,0 +1,126 @@
+{
+  "tokenId": "11",
+  "name": "Dead Duck #11",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/11.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smokestack Jacks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Dirt Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the grimy shadow of the Smokestack Jacks hideout, Zip grew up scavenging for scraps and dodging rogue oil slicks. The Tak-Gloves his mother gave him became his most prized possession, a reminder of the family he lost to a DRIP-fueled raid.",
+    "class": "Engineer/Tinkerer",
+    "name": "Zip 'Sparky' Clutch",
+    "personality": "Resourceful and quick-witted, Zip can MacGyver his way out of most situations. He's always tinkering with salvaged tech, often to the detriment of his own safety and the amusement of onlookers. Deep down, he's fiercely loyal to those he trusts, even if he expresses it with sarcastic quips rather than outright affection.",
+    "specialAbility": {
+      "description": "Sparky can jury-rig a 'Cryo-Grenade' from his Warmy Shirt Cryo, freezing an area and slowing enemies within its radius for 2 turns. High risk of malfunction.",
+      "name": "Cryo-Mod"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 80,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smokestack Jacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirt Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:15:58.853Z"
+  }
+}

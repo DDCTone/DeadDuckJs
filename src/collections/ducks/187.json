@@ -1,0 +1,126 @@
+{
+  "tokenId": "187",
+  "name": "Dead Duck #187",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/187.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Ducks Crossing",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Shadow DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_GM-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_DDC Trucker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Whispers say Clutch went down with a Cryo-tanker, frozen solid for decades before the thaw. Now, he haunts the streets, fueled by lukewarm coffee and vengeance against the corporation that left him on ice. He's seen some serious stuff and has a cold exterior to match.",
+    "class": "Bruiser",
+    "name": "Clutch",
+    "personality": "Clutch is cynical, quiet with survivor's guilt. Clutch still fights on driven by a relentless fury towards the ones who abandoned him.",
+    "specialAbility": {
+      "description": "Clutch slams his GM-Cup to the ground, creating a shockwave that temporarily stuns nearby enemies and provides a small DRIP boost to allies. The power of his caffeine addiction is a force to be reckoned with.",
+      "name": "Caffeinated Quake"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 60,
+      "luck": 35,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Ducks Crossing",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Shadow DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "GM-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "DDC Trucker",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:32:21.266Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "304",
+  "name": "Dead Duck #304",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/304.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Wrecked Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cyro",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Odins-Hammer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hailing from the forgotten sector of Street Wrecked Road, Mock is a survivor, piecing together scrap and rumors to stay one step ahead. He witnessed the Great Drip Drought firsthand and swore vengeance on those who hoarded the precious liquid, becoming a symbol of rebellion for the downtrodden ducks of Subchain City.",
+    "class": "Vigilante",
+    "name": "Mock 'The Mocker' Plagued",
+    "personality": "Cynical and Resourceful: Mock's seen the worst of Subchain and trusts no one. He's always on the lookout for a better deal, but possesses a dry wit that can lighten even the grimmest situation. Driven By Justice: Though survival is key, Mock has a strong sense of right and wrong; a flicker of defiance burns bright. Mock will fight if there is any injustice dealt to innocents.",
+    "specialAbility": {
+      "description": "Mock uses his Odin Hammer to pulverize the earth creating a localized earthquake that stuns enemies in a small radius. This gives him a chance to waddle away or follow up with another attack.",
+      "name": "Hammer Quake"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 75,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Wrecked Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cyro",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Odins-Hammer",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:48:23.498Z"
+  }
+}

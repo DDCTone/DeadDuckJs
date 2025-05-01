@@ -1,0 +1,126 @@
+{
+  "tokenId": "268",
+  "name": "Dead Duck #268",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/268.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Gooey",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Shadow Mask",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Subchain City Bldg Supply Depot, 'Bent Beak' Benny scrapped his way through life, learning to turn discarded scrap into deadly tools. He lost an eye in a squabble over some blockchain hard forks, but that only hardened his resolve to survive in the DRIP-deprived wastes.",
+    "class": "Riot Medic",
+    "name": "Bent Beak Benny",
+    "personality": "Cynical and resourceful, Benny is always looking for an angle. He's fiercely loyal to his flock but trusts no one else. Despite his hardened exterior, he secretly clings to the hope that Subchain City can be rebuilt.",
+    "specialAbility": {
+      "description": "Benny uses his engineering skills to convert scrap materials into temporary medical boosts, healing his flock in the heat of battle and increasing their resistance to toxic hazards.",
+      "name": "Scrap Medkit"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Gooey",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Shadow Mask",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:43:26.842Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "431",
+  "name": "Dead Duck #431",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/431.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Fudders",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duckie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Clipped",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born during a particularly nasty DRIP drought, 'Pink Slip' Patty learned early on that survival in Subchain City meant being both ruthless and resourceful. Patty scavenged parts from broken bots and learned to hustle caffeine scraps at the Burnt Beans, all while dreaming of escaping the city's grimy underbelly.",
+    "class": "Mercenary",
+    "name": "Pink Slip Patty",
+    "personality": "Cunning: Patty's always got angle, whether it's spotting a vulnerability in enemy defenses or finding the best route through a rubble-strewn street. Resourceful: From her custom-modded flipper kicks to her repurposed growler vest, Patty can make anything into a weapon or tool. Jaded: Years of hardship have made her cynical, but a spark of optimism remains -- buried deep, like a cache of unused DRIP.",
+    "specialAbility": {
+      "description": "Patty uses her Kicks-Fudders to launch a surprise attack, delivering a powerful kick that stuns the opponent and creates temporary chaos in the surrounding area. Usable once every 3 turns.",
+      "name": "Flipper Fury"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Fudders",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duckie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Clipped",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:06:10.097Z"
+  }
+}

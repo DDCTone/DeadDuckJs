@@ -1,0 +1,126 @@
+{
+  "tokenId": "278",
+  "name": "Dead Duck #278",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/278.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Leftovers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Blue",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_The Under Ducker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Match",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Found rummaging through the ruins of the old skateparks, Nipflip’s life changed when he scavenged the mystical crown of the Under Ducker. Now he leads his gaggle through the wastes, seeking legendary skate spots and DRIP alike to fuel both their ollies and war efforts.",
+    "class": "Rebel Leader",
+    "name": "Nipflip, the Crow-Killer",
+    "personality": "Rebellious and impulsive, Nipflip favors action over planning, often leading his flock into chaotic yet surprisingly effective raids. Despite a grim outlook, he maintains a street-smart wit, cracking jokes even in the face of a DRIP shortage. His leadership is unconventional but inspires fierce loyalty, as he always puts the needs of his flock before his own.",
+    "specialAbility": {
+      "description": "Nipflip unleashes a chaotic flurry of crowbar strikes. His ultimate can stun multiple enemies in a small AOE for a short period, leaving them vulnerable to follow-up attacks from his flock.",
+      "name": "CROWBAR CONFUSION"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 55,
+      "luck": 62,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Leftovers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Blue",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "The Under Ducker",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Match",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:44:44.276Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "413",
+  "name": "Dead Duck #413",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/413.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Runners Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Fuss",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Salivator",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born into the grim reality of Subchain City, 'Silas' was orphaned young. Raised amongst the Street Runners, he learned to navigate the decaying urban sprawl and scavenge for scraps, earning his keep by running messages for the local flock bosses. His knowledge of the city's underbelly is unparalleled.",
+    "class": "Gasser Mercenary",
+    "name": "Silas the Salivator",
+    "personality": "Silas is cynical and pragmatic. Having seen the worst of Subchain City, he has little faith in anyone but himself. However, he has a soft spot for the underdog and a sardonic sense of humor that surfaces at unexpected moments.",
+    "specialAbility": {
+      "description": "Silas spits a stream of acidic saliva that corrodes enemy armor and weakens their defenses for a short period. High chance of causing panic.",
+      "name": "Cryo Saliva Splash"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Runners Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Fuss",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Salivator",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:04:10.214Z"
+  }
+}

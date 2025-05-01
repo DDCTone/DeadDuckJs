@@ -1,0 +1,126 @@
+{
+  "tokenId": "123",
+  "name": "Dead Duck #123",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/123.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Degens Den",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Kicks-Static",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Muffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Splinter Jaw",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ocular Fallout",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff of Subchain City's data farms, 'Knockout' Knuckles spent his early days scavenging for scraps among the discarded hardware. The radiation exposure left him a little…off, but gave him an uncanny knack for repurposing tech and a disturbing twitch in his singular eye.",
+    "class": "Scrap Savant",
+    "name": "Knockout Knuckles",
+    "personality": "Erratic and unpredictable, Knuckles is prone to sudden outbursts of manic energy followed by periods of near catatonic silence. He talks to his hammer, 'Betsy', more than he talks to other ducks. Despite his quirks, he's fiercely loyal to his flock…mostly.",
+    "specialAbility": {
+      "description": "Knuckles can channel the static energy from his Kicks-Static flippers into his Nest Smasher hammer, creating a concussive blast that stuns enemies and temporarily disables their gear.",
+      "name": "Static Slam"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Degens Den",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Static",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Muffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Splinter Jaw",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Ocular Fallout",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:22:01.097Z"
+  }
+}

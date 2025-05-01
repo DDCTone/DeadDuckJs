@@ -1,0 +1,126 @@
+{
+  "tokenId": "67",
+  "name": "Dead Duck #67",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/67.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Monument_Solana-Trenches",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Degen Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-02",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the radioactive shallows near the Solana Monument trenches, 'Johnny Rotter' was abandoned as a hatchling. He learned to scavenge and fight to survive, quickly becoming a formidable, if somewhat unstable, presence in Subchain City's underbelly.",
+    "class": "Scavenger/Trapper",
+    "name": "Johnny 'Rotter' Rockstar",
+    "personality": "Cynical and territorial. Johnny trusts no one, bordering on paranoia. Beneath the rough exterior and Shadow Degen Shirt hides a flicker of sentimentality-- he occasionally leaves small piles of 'DRIP' for orphaned ducklings, though he'd never admit it; Independent – Johnny prefers to work alone, relying on his resourcefulness and street smarts to navigate Subchain City's dangers. He'll reluctantly team up if the payoff is big enough, but always has an exit strategy in mind.",
+    "specialAbility": {
+      "description": "Johnny can rig any area with makeshift traps crafted from salvaged scraps and toxic sludge, slowing and poisoning enemies venturing into his territory. These can include snares made of barbed wire, scattered caltrops made of sharpened bone, and tripwires connected to exploding water-purifiers.",
+      "name": "Rotter's Rig"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 65
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Monument Solana-Trenches",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Degen Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-02",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:03:25.110Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "207",
+  "name": "Dead Duck #207",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/207.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Guvnas Gate",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow BItty Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Squack",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the shadow of Street Guvnas Gate, Hacksaw learned early that survival meant being tougher and smarter than the average hatchling. He scavenged for scraps, dodged rival gangs, and honed his skills with whatever tools he could find, turning himself into a formidable presence in Subchain City's underbelly.",
+    "class": "Vigilante Scavenger",
+    "name": "Hacksaw",
+    "personality": "Ruthless and efficient, Hacksaw gets the job done, no matter the cost. Pragmatic and cynical, he trusts no one and expects the worst and is always prepared to act preemptively. Despite his hard exterior, he has a soft spot for hatchlings and those unable to defend themselves.",
+    "specialAbility": {
+      "description": "Hacksaw uses his rusted axe 'Choppy' for a devastating cleave, hitting multiple enemies at once, dealing bleed damage and lowering their armor.",
+      "name": "Axe Barrage"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Guvnas Gate",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow BItty Cuttoff",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:35:03.114Z"
+  }
+}

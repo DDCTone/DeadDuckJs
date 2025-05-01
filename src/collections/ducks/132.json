@@ -1,0 +1,126 @@
+{
+  "tokenId": "132",
+  "name": "Dead Duck #132",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/132.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Batch Pad",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Parasite",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Water Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Scabs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Billish",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Fluffer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Scabbed",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling's Plague swept through his clutch, leaving him oddly resilient, if a bit itchy. Now, he scavenges the Bldg Batch Pad outskirts, forever searching for a cure...or at least a stronger scratch.",
+    "class": "Plague Doctor",
+    "name": "Dr. Scabs",
+    "personality": "Morbidly curious. Doc Scabs is fascinated by the various ailments afflicting Subchain City's avian inhabitants and is weirdly jovial when discussing them. Calculating. He see's every interaction as a transaction towards finding his next cure, with everyone as a potential test subject. Resourceful. Doc Scabs can turn old junk and forgotten garbage into medical tools to help in his goals.",
+    "specialAbility": {
+      "description": "Unleashes a cloud of specially cultured spores, healing allies for 25% of their health, while inflicting a minor infection (5% damage per turn for 2 turns) to enemies in a small area.",
+      "name": "Medicinal Microbe Burst"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Batch Pad",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Parasite",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Water Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Scabs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Billish",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Fluffer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Scabbed",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:24:08.830Z"
+  }
+}

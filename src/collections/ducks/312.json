@@ -1,0 +1,126 @@
+{
+  "tokenId": "312",
+  "name": "Dead Duck #312",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/312.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Outdo Corner",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Gooey",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Bones Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Bloody",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Broken Chirp",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Last Look",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a high-rolling golf caddy, \"Nine Iron\" Ike saw his career go to the rough when Subchain City's DRIP dried up. Now, he uses his knowledge of angles and trajectories to scavenge and defend his corner of the wasteland, always looking for an edge, be it a lucky bounce or a well-placed bludgeon. He's seen better days, but he's not about to let the apocalypse break his stride.",
+    "class": "Wasteland Caddy",
+    "name": "\"Nine Iron\" Ike",
+    "personality": "Ike is cynical and world-weary, always expecting the worst but secretly hoping for a lucky break. He possesses a dark sense of humor, often cracking jokes about the bleakness of their reality. Despite his gruff exterior, he has a soft spot for those who are down on their luck, perhaps a reflection of his own downfall.",
+    "specialAbility": {
+      "description": "\"Hazardous Slice\": Ike uses his golf knowledge to calculate a powerful strike with his nine iron. It's a high risk, high reward attack that can inflict significant damage, but can also leave him vulnerable if he whiffs (accuracy is impacted by luck).",
+      "name": "Hazardous Slice"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 50,
+      "luck": 70,
+      "strength": 75
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Outdo Corner",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Gooey",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Bones Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Bloody",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Broken Chirp",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Last Look",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:49:27.614Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "344",
+  "name": "Dead Duck #344",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/344.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Bill Yards",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Beak Breaker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the radioactive glow of the Hatchling District, 'Knuckles' honed his fighting skills in the back alleys of Subchain City; before becoming a prominent member of The Bill Yards Bunch. The stains on his Warmy Shirt are a grim reminder of his past, adding a splash of horror to his bubblegum-hued skin.",
+    "class": "Brawler",
+    "name": "\"Knuckles\" Bubblegum",
+    "personality": "Brash and confrontational, \"Knuckles\" isn't one to back down from a fight. Loyal to a fault, he protects his flock with unbridled ferocity, but he doesn't always think before acting which sometimes makes him reckless.",
+    "specialAbility": {
+      "description": "Unleashes a devastating flurry of attacks with his Beak Breakers, dealing massive damage to a single target and potentially stunning them.",
+      "name": "Bubblegum Beatdown"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Bill Yards",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Beak Breaker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:53:33.881Z"
+  }
+}

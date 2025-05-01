@@ -1,0 +1,126 @@
+{
+  "tokenId": "81",
+  "name": "Dead Duck #81",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/81.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Dirty Tank-top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Fuss",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Vice Grip",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wrench’s early life was spent scavenging the ruins of the Bldg Supply Depot, where he learned the harsh realities of Subchain City. He saw his flock get rekt by some greedy geese. Now, fueled by vengeance and a love for DRIP, he's out to flip the system.",
+    "class": "Mechanic",
+    "name": "Ratchet Wrench",
+    "personality": "Cynical: Wrench has seen too much to trust easily and always expects the worst. Resourceful: Years of scavenging have made him adept at finding creative uses for discarded tech. Gruff: He's not one for small talk and prefers to get straight to the point, which often comes off as rude.",
+    "specialAbility": {
+      "description": "Using his knack for engineering, Wrench can temporarily boost the attack of a friendly unit by 25% by modifying their weapon with salvaged parts. This buff lasts for 2 turns.",
+      "name": "Salvaged Power-Up"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Dirty Tank-top",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Fuss",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Vice Grip",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:08:22.841Z"
+  }
+}

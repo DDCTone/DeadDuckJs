@@ -1,0 +1,126 @@
+{
+  "tokenId": "135",
+  "name": "Dead Duck #135",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/135.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hidout-Monkeys Buckets",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Plagued",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow Punk Pin",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Ghost",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising blockchain developer, Ducky McStab lost everything when the Great Liquidity Drought hit Subchain City. Now, fueled by a green-eyed vengeance, he navigates the digital ruins, clutching his trusty controller and a half-rotted body, seeking retribution against those who drained the DRIP.",
+    "class": "Glitch Raider",
+    "name": "Ducky McStab",
+    "personality": "Bitter: Ducky McStab is constantly lamenting his lost fortune and the sorry state of Subchain City. Resourceful: Years of navigating the digital wastes have made him adept at finding value where others see none. Addicted: Can't stop playing old games on his controller, even in the middle of a raid.",
+    "specialAbility": {
+      "description": "Ducky can 'Glitch' through enemy defenses, briefly becoming untargetable and reappearing behind the lines. Perfect for flanking or escaping a tight spot.",
+      "name": "Pixel Slip"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hidout-Monkeys Buckets",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Pin",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Ghost",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:24:34.943Z"
+  }
+}

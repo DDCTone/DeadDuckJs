@@ -1,0 +1,126 @@
+{
+  "tokenId": "279",
+  "name": "Dead Duck #279",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/279.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Blurred Bandit",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Heart Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Quackie",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Phantomfeather Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the Mud Flats, 'Patches' witnessed the brutal realities of Subchain City early. He lost his flock to a DRIP raid gone south and now wanders the ruins, haunted by phantom memories and fueled by a thirst for vengeance... and maybe a little DRIP along the way.",
+    "class": "Gutter Punk Ronin",
+    "name": "Patches 'Soulclick' Mallory",
+    "personality": "Patches is a brooding and cynical duck, a consequence of witnessing too much loss. However, he carries a strange, morbid attachment to a tattered plushie he calls 'Quackie,' a silent confidant that seems to be his only source of comfort. Beneath the hardened exterior, there's a flicker of loyalty, but trust is a luxury he can no longer afford.",
+    "specialAbility": {
+      "description": "Soulclick's 'Phantomfeather Frenzy' allows him to briefly tap into the echoes of past battles, increasing his evasion and attack speed for a short duration. The bloodstains on his face glow ominously as he becomes a whirlwind of claw and beak, leaving a trail of confusion in his wake.",
+      "name": "Phantomfeather Frenzy"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 45,
+      "luck": 32,
+      "strength": 65
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Blurred Bandit",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Heart Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Quackie",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Phantomfeather Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:44:51.774Z"
+  }
+}

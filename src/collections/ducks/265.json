@@ -1,0 +1,126 @@
+{
+  "tokenId": "265",
+  "name": "Dead Duck #265",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/265.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Sakos Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Shadow Ninja Bones",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Shadowfeather Blade",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Ion Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the toxic runoff of old crypto mines, 'Blight' learned to survive by scavenging and exploiting vulnerabilities in the Subchain City's data streams. He witnessed firsthand the brutal DRIP wars, losing his flock to a band of rogue NFTs, forging a path as a silent, deadly operator. Now, he seeks vengeance and a fatter wallet.",
+    "class": "Shadow Raider",
+    "name": "Blight",
+    "personality": "Blight is pragmatic and calculating. His shadowed past has made him distrustful, always expecting a double cross. A dry wit surfaces at the most inappropriate times as a coping mechanism.",
+    "specialAbility": {
+      "description": "Blight uses DRIP-laced smoke bombs to disrupt enemy formations, causing confusion and weakening their defenses. The plague masks he wears are specially fitted to give him immunity during these attacks.",
+      "name": "Ion Bite Cloud"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 70,
+      "luck": 45,
+      "strength": 60
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Sakos Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Ninja Bones",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Shadowfeather Blade",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Ion Bite",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:43:04.030Z"
+  }
+}

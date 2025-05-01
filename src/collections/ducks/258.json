@@ -1,0 +1,126 @@
+{
+  "tokenId": "258",
+  "name": "Dead Duck #258",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/258.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Ashocks Shadow Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising scholar before the Great Drip Drought, 'Mocker' Malarkey lost everything when his flock was raided. Now, he haunts the lower sectors of Subchain City, a bitter recluse, muttering conspiracy theories and scavenging scrap while plotting his improbable revenge.",
+    "class": "Tinkerer/Saboteur",
+    "name": "Mocker 'Malarkey' McDrip",
+    "personality": "Cynical: Every silver lining has a dark cloud for Malarkey. Paranoid: He sees conspiracies in every leaky faucet. Resourceful: Years of scavenging have made him adept at finding value in the wasteland's junk.",
+    "specialAbility": {
+      "description": "Malarkey can rig a temporary trap using salvaged parts and a bit of DRIP. This trap can immobilize an enemy for one turn or inflict minor damage.",
+      "name": "Salvaged Snare"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 20,
+      "strength": 45
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Ashocks Shadow Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:42:12.368Z"
+  }
+}

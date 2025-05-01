@@ -1,0 +1,126 @@
+{
+  "tokenId": "164",
+  "name": "Dead Duck #164",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/164.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Fun Boxes",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Cutoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wrench was hatched in the ruins of the 'Bldg Fun Boxes', a forgotten arcade from the old world. He learned to scavenge parts and crack skulls early on, earning him a reputation as a scrappy survivor.",
+    "class": "Mechanic",
+    "name": "Wrench",
+    "personality": "Wrench is resourceful and pragmatic, always looking for the most efficient (and often violent) solution to a problem. He's fiercely loyal to his flock, but has a dark sense of humor and a tendency to hoard junk.",
+    "specialAbility": {
+      "description": "Using scavenged parts, Wrench can temporarily upgrade a teammate's weapon, increasing its damage and range for a turn.",
+      "name": "Jury Rig"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Fun Boxes",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Cutoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:29:04.157Z"
+  }
+}

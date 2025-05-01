@@ -1,0 +1,126 @@
+{
+  "tokenId": "75",
+  "name": "Dead Duck #75",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/75.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Burnt Beans",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Vyezeen",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Flipper Kicks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bent Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling, as he's known, isn't old enough to remember the Old World, only the smoldering decay of Subchain City. Found as an egg near the Burnt Bean refinery, he unfortunately hatched with a mysterious, plague-like affliction - strangely, it seems to empower him, making him both feared and pitied.",
+    "class": "Plaguebringer",
+    "name": "Hatchling Plague",
+    "personality": "Grimly Determined: Hatchling witnessed brutality at a young age. He is quiet, intense, and focused solely on the survival, and maybe someday thriving, of his flock. Resourceful: Scavenging is his forte. He's mastered the art of finding usable scraps amidst the ruins, often turning trash into surprisingly effective gear. Vengeful: Consumed by the need to protect his allies, he is a nightmare to enemies or anyone causing harm to his flock.",
+    "specialAbility": {
+      "description": "Hatchling emits a toxic cloud that weakens enemy defenses and makes them open to critical hits. This affliction can also spread across adjacent enemies if they have a low resistance to the plague.",
+      "name": "Plague Cloud"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 50,
+      "luck": 40,
+      "strength": 75
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Burnt Beans",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Vyezeen",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Flipper Kicks Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bent Snap",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:06:15.559Z"
+  }
+}

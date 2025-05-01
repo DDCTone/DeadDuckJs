@@ -1,0 +1,126 @@
+{
+  "tokenId": "107",
+  "name": "Dead Duck #107",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/107.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_The Bullies Block",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Phaser-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Metal Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Odins-Hammer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Featherwarmer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born on the mean streets of the Bullies Block, Beaker 'The Hammer' Hansson saw his family's DRIP reserves drained by a rival flock. Now, fueled by cosmic fury and clad in scavenged metal, he roams Subchain City, looking to settle the score, one swing of Odin's Hammer at a time.",
+    "class": "Berserker",
+    "name": "Beaker 'The Hammer' Hansson",
+    "personality": "Aggressive: Beaker is quick to anger and even quicker to swing his hammer, often charging into fights without a second thought. Loyal: Despite his rough exterior, he is fiercely loyal to his flock and would do anything to protect them. Vengeful: Beaker never forgets a slight, especially when it comes to those who wronged his family.",
+    "specialAbility": {
+      "description": "Beaker channels the power of Odin's Hammer, unleashing a devastating shockwave that stuns nearby enemies and deals massive damage. This ability is fueled by Beaker's rage and can only be activated when his health is low.",
+      "name": "Hammer Time"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 90
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street The Bullies Block",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Phaser-Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Metal Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Odins-Hammer",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Featherwarmer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:16:42.235Z"
+  }
+}

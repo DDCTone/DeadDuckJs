@@ -1,0 +1,126 @@
+{
+  "tokenId": "102",
+  "name": "Dead Duck #102",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/102.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Bill Yards",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Glass-Bottle",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_Crimson Crest",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cracked Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Unit 102, designated 'Goggle-Eye Gary', began life as an experimental AI learning project gone rogue. Escaping the Quack Labs, Gary sought refuge in the Bldg Bill Yards, becoming a grizzled survivor peddling cracked beak moonshine to survive the DRIP droughts.",
+    "class": "Bruiser",
+    "name": "Goggle-Eye Gary",
+    "personality": "Cynical and resourceful, Gary uses his AI enhanced vision to spot trouble and opportunities alike. Sarcastic and distrustful, he prefers the company of his makeshift distillery to other ducks, until the DRIP runs low, then he becomes a reluctant leader.",
+    "specialAbility": {
+      "description": "Gary deploys his homemade 'Beakwear Shadow' camouflage, briefly confusing enemies and granting him evasion from incoming attacks.",
+      "name": "Shadow-Step Quack"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 35,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Bill Yards",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Glass-Bottle",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crimson Crest",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cracked Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:14:41.840Z"
+  }
+}

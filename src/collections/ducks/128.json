@@ -1,0 +1,126 @@
+{
+  "tokenId": "128",
+  "name": "Dead Duck #128",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/128.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Luchadas",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the Bldg Luchadas gave \"Knuckles\" Mallard a knack for navigating the city's underbelly and a healthy respect for masked mayhem. He saw the writing on the wall long before the DRIP dried up, and spent his time learning to spot the best opportunities, legal or otherwise.",
+    "class": "Opportunist",
+    "name": "\"Knuckles\" Mallard",
+    "personality": "Calculating and opportunistic, Knuckles is always looking for an angle. His void glasses and Souler eyes hide a keen mind, constantly assessing risks and rewards. While he may appear callous, he holds a strange loyalty to his flock, as long as they prove useful.",
+    "specialAbility": {
+      "description": "Knuckles can use his 'Cheap Pecker' beak to hack into a nearby terminal or DRIP-containing device. Success rate is increased by his intelligence stat. Once hacked, he can redistribute the Drip, or unlock some feature.",
+      "name": "Digital Pecking"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 70,
+      "strength": 45
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Luchadas",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:22:42.736Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "394",
+  "name": "Dead Duck #394",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/394.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Monument_Solana-Trenches",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Rugged",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Blood Stained Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Shadowfeather Blade",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the trenched monuments of old Solana, 'Rusty' scraped by as a scavenger, haunted by the crimson stains he could never wash from his feathers. The Clan Talonborn beads he wears are a constant reminder of debts unpaid and loyalties tested in the DRIP wars.",
+    "class": "Trench Raider",
+    "name": "Rusty 'Dust Devil' Mallard",
+    "personality": "Gritty and cynical, Rusty has seen too much to trust anyone easily. Despite his rough exterior, he possesses a fiercely protective streak for those few he considers his flock. Beneath the dust and grime lies a surprisingly sharp tactical mind, honed from years of navigating the treacherous trenches.",
+    "specialAbility": {
+      "description": "Rusty uses his Shadowfeather Blade to create a localized dust cloud, obscuring enemy vision and decreasing their accuracy by 30% for 2 turns, giving his allies a tactical advantage to reposition or strike.",
+      "name": "Dust Cloud Decoy"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 65
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Monument Solana-Trenches",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Rugged",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Blood Stained Marked",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Shadowfeather Blade",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:00:10.127Z"
+  }
+}

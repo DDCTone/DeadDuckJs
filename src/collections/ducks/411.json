@@ -1,0 +1,126 @@
+{
+  "tokenId": "411",
+  "name": "Dead Duck #411",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/411.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_The Safety Pin",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Bone Dry_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Mud Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Controller Toxic",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Scab",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born from a vat of toxic runoff near the old Sk8r park, Glitch grew up scavenging for spare parts and perfecting his grind. He's haunted by visions of the blockchain's collapse, always twitching, forever online.",
+    "class": "Controller",
+    "name": "Glitch",
+    "personality": "Nervous and twitchy, Glitch is a hyperactive duck always fiddling with his controller. Despite his jittery nature, he's fiercely loyal to his flock and known to be quite clever when it comes to exploiting glitches in the Subchain City's digital infrastructure.",
+    "specialAbility": {
+      "description": "Glitch can temporarily scramble enemy targeting systems with his modified controller, causing them to misfire or target the wrong ally. This 'Target Override' buys precious time for his team to reposition or unleash a counter-attack.",
+      "name": "Target Override"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 80,
+      "luck": 45,
+      "strength": 30
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg The Safety Pin",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Mud Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Controller Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Scab",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:03:56.229Z"
+  }
+}

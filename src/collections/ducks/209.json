@@ -1,0 +1,126 @@
+{
+  "tokenId": "209",
+  "name": "Dead Duck #209",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/209.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Wrecked Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Gooey",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Mudder Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Dirt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Featherwarmer",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Vice Grip",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a respected medic in the Featherguard, 'Rotten Reddy' fell victim to a virulent strain of Subchain Rot, reanimating him with a grim purpose. He now wanders the blasted streets, seeking a cure while dispensing his uniquely pungent brand of battlefield 'aid'.",
+    "class": "Plague Medic",
+    "name": "Rotten Reddy",
+    "personality": "Morbidly Humorous: Even in the direst of circumstances, Rotten Reddy cracks gallows humor. Pragmatic: He values efficiency above all else, even if it means unorthodox methods. Driven: Despite his condition, he's determined to find a cure and restore order to Subchain City.",
+    "specialAbility": {
+      "description": "Unleashes a cloud of weaponized pathogen that weakens enemies' defenses and has a chance to zombify the target. If the target is already zombified, this attack leeches HP and heals Reddy.",
+      "name": "Viral Payload"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 75,
+      "luck": 45,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Wrecked Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Gooey",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Mudder Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Dirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Featherwarmer",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Vice Grip",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:35:17.396Z"
+  }
+}

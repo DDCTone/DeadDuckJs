@@ -1,0 +1,126 @@
+{
+  "tokenId": "381",
+  "name": "Dead Duck #381",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/381.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Enjoyed Silence",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Anarchy Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Shadow Mask",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Shatter Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Last Look",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the ruins of old Subchain City, Wrencher scavenged for parts and learned to fix anything to survive. He's seen more code crashes than sunrises, and the sight of another defunct node barely registers a flicker of emotion in his dead eyes.",
+    "class": "Mechanic/Raider",
+    "name": "Wrencher",
+    "personality": "Wrencher is cynical and resourceful. He's not afraid to get his hands dirty, and his street smarts are as sharp as any Shatter Fang. He also has a soft spot for lost causes, often repairing broken drones and giving the occasional DRIP to hatchlings.",
+    "specialAbility": {
+      "description": "Wrencher can jury-rig temporary fixes to mechanical units, granting them bonus armor and attack power for a short duration. He uses the surrounding scrap to boost armor with rusty plates from the building he is in.",
+      "name": "Scrap Armor"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Enjoyed Silence",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Anarchy Tank",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Shadow Mask",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Shatter Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Last Look",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:58:12.778Z"
+  }
+}

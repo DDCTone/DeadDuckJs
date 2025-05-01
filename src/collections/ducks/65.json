@@ -1,0 +1,126 @@
+{
+  "tokenId": "65",
+  "name": "Dead Duck #65",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/65.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout-Jawlsrs",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Navy",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Facts",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Phantomfeather Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a high-roller in Subchain City's crypto casino scene, 'Facts' Malarkey lost everything when the DRIP dried up. Now, haunted by phantom echoes of past deals, he uses his 'Snagglebill' to scavenge relics and intel, seeking the next big play. He's determined to reclaim his lost fortune, consequences be damned.",
+    "class": "Jack-of-All-Trades",
+    "name": "Facts 'Bone Dry' Malarkey",
+    "personality": "Cynical, calculating, and prone to rambling about conspiracy theories, Malarkey trusts no one. Despite his paranoia, he has a surprising knack for uncovering hidden caches of DRIP and exploiting market inefficiencies. Also, he has an odd habit of only stepping on the black tiles of the floor.",
+    "specialAbility": {
+      "description": "Malarkey can assess opponents mid-combat, revealing their weakest stat and increasing his flock’s chance of landing a critical hit for one round. But beware- it takes a toll on his already frayed nerves.",
+      "name": "Malarkey's Market Analysis"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 88,
+      "luck": 42,
+      "strength": 75
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout-Jawlsrs",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Navy",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Facts",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Phantomfeather Shadow",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:03:04.905Z"
+  }
+}

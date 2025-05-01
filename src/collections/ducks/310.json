@@ -1,0 +1,126 @@
+{
+  "tokenId": "310",
+  "name": "Dead Duck #310",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/310.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Snail Bikers Base",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Shadow DDC",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Teethsaw",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Cheap Pecker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a salvage operator, Rustjaw survived a raid on a DRIP cache that left him skeletal and reliant on scavenged tech to stay afloat. Now, fueled by spite and cheap beak petroleum, he roams Subchain City seeking revenge on the ferrofluid gangs who left him for dead.",
+    "class": "Scavenger Tech",
+    "name": "Rustjaw",
+    "personality": "Cynical: Years of scavenging have left Rustjaw distrustful of everyone, especially fellow ducks. Resourceful: He can MacGyver broken scrap into deadly tools, a testament to his survival skills. Obsessive: Haunted by betrayal, he is fixated on vengeance, letting nothing deter his hunt.",
+    "specialAbility": {
+      "description": "Rustjaw can enter a 'Frenzy' state, drastically increasing his speed and attack power for a short duration, fueled by pure rage and cheap beak fuel. However, this frenzy burns DRIP at an alarming rate and leaves him exhausted afterward.",
+      "name": "Frenzy"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 40,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Snail Bikers Base",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Shadow DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Teethsaw",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Cheap Pecker",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:49:12.112Z"
+  }
+}

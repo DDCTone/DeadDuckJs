@@ -1,0 +1,126 @@
+{
+  "tokenId": "95",
+  "name": "Dead Duck #95",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/95.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Molten",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Ghost",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Scabs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Talons Edge",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Nullpatch Skull",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of a crumbling Bldg Supply Depot, Cinder was orphaned young after a DRIP raid gone south. Forced to scavenge for survival, he learned to fight dirty and trust no one, especially not those smooth-feathered city slickers.",
+    "class": "Scout",
+    "name": "Cinder 'Hatchling' Hollow",
+    "personality": "Cinder is cynical and distrustful, always expecting the worst. He has a morbid sense of humor, often making dark jokes to cope with the grim reality of Subchain City. Despite his tough exterior, he secretly yearns for companionship but fears betrayal.",
+    "specialAbility": {
+      "description": "Cinder releases a blinding flash of heat from his Molten eyes, disorienting enemies and lowering their accuracy by 50% for the next round. This reflects the Molten Eyes trait and scouting role.",
+      "name": "Scorched Earth Gaze"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Molten",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Ghost",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Scabs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Talons Edge",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Nullpatch Skull",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:12:54.965Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "80",
+  "name": "Dead Duck #80",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/80.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Wrecked Road",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Ske8rs Tatted",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Degen-Gloves",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Quackless",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the toxic swamplands outside Subchain City, 'Rad' Riot was abandoned as a hatchling due to his tainted blood. Raised by rogue Ske8r rats, he learned to grind the wrecked streets and fight dirty for every scrap of DRIP he could find.",
+    "class": "Riot Grinder",
+    "name": "Rad Riot",
+    "personality": "Rebellious and reckless, Rad Riot trusts no one but himself. Beneath the streetwise exterior, he secretly yearns to lead a flock and create a safe haven for outcasts like him. He's also got a morbid sense of humor, finding amusement in the absurdity of Subchain City.",
+    "specialAbility": {
+      "description": "Using his skates and riot gear, Rad Riot can perform a 'Toxic Grind,' leaving a trail of hazardous waste behind him. Enemies who cross the trail take damage over time. The trail also provides speed boost to any allies.",
+      "name": "Toxic Grind"
+    },
+    "stats": {
+      "agility": 92,
+      "intelligence": 67,
+      "luck": 58,
+      "strength": 73
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Wrecked Road",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Ske8rs Tatted",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Degen-Gloves",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Quackless",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:08:16.017Z"
+  }
+}

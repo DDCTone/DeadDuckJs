@@ -1,0 +1,126 @@
+{
+  "tokenId": "181",
+  "name": "Dead Duck #181",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/181.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Degens Den",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Starburst",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Red",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Threaded Maddness",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Duster-Gloves-03",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Scab",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatchling Cryo experiments gone wrong left Duster with heightened senses but a constantly fluctuating body temperature. He saw his flock wiped out by a DRIP raiding party, and now seeks revenge on all those who hoard the precious resource. His vigilante plague doctor mask hides a burning desire for vengeance… and a chronic case of the sniffles.",
+    "class": "Plague Punk Hacker",
+    "name": "Duster",
+    "personality": "Brooding and vengeful, Duster is driven by the memory of his fallen flock. He's got a knack for tech, always tinkering with scavenged parts to create makeshift gadgets, and a surprisingly dark sense of humor that surfaces at the most inappropriate times. Deep down, he yearns for connection, but trusts no one.",
+    "specialAbility": {
+      "description": "Duster hacks into enemy combat drones, temporarily seizing control and turning them against their former allies. The Threaded Madness gear allows him to overload the bot's systems, causing mayhem; the Scab crown allows for even further subversion of the system with a special contagion.",
+      "name": "Dronejack"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Degens Den",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Starburst",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Red",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Threaded Maddness",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Duster-Gloves-03",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Scab",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Plagued",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:31:27.409Z"
+  }
+}

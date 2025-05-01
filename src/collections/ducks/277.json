@@ -1,0 +1,126 @@
+{
+  "tokenId": "277",
+  "name": "Dead Duck #277",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/277.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background-R_Bldg_Bootyful",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Blood Stained DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Nest Smasher",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Plague",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Barnaby 'Barney' Squackers was once a respected architect before the Great Drip Drought. Now, consumed by the rot and armed with his trusty Nest Smasher, he wanders Subchain City, desperately searching for DRIP and plotting to rebuild the Bootyful Building as it once was, even if it takes him a lifetime (or afterlife).",
+    "class": "Ruin Raider",
+    "name": "Barnaby 'Barney' Squackers",
+    "personality": "Obsessive (fixated on restoring the Bootyful Building), Unstable (prone to fits of rage when DRIP supplies dwindle), Resourceful (can MacGyver almost anything with scrap he finds).",
+    "specialAbility": {
+      "description": "Barney uses his architectural knowledge to identify structural weaknesses in enemy fortifications, causing them to collapse and creating temporary choke points during raids. The 'Structural Collapse' ability can also be used defensively to collapse escape routes, although it risks damaging potential DRIP caches.",
+      "name": "Structural Collapse"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 75,
+      "luck": 30,
+      "strength": 60
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Trait Background-R Bldg Bootyful",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Blood Stained DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Nest Smasher",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:44:36.852Z"
+  }
+}

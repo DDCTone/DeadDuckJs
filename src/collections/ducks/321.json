@@ -1,0 +1,126 @@
+{
+  "tokenId": "321",
+  "name": "Dead Duck #321",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/321.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Enjoyed Silence",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Rotted_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow PnD Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Dirt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Heys",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Toxic",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising cryo-engineer, \"Chilly\" McDuck was caught in a rogue DRIP explosion during a raid on a defunct research facility. Now a rotted, yet resilient, shell of his former self, Chilly seeks to weaponize the very element that nearly extinguished him.",
+    "class": "Cryo-Saboteur",
+    "name": "\"Chilly\" McDuck",
+    "personality": "Morbidly pragmatic. He sees the humor in bleak situations, likely as a coping mechanism for his own decaying state. Obsessed with salvaging and repurposing tech, even if it's held together by duct tape and sheer willpower.",
+    "specialAbility": {
+      "description": "\"Flash Freeze\": Chilly instantly encases a small area in a sheet of ice, slowing enemy movement and providing temporary cover. Has a chance to freeze enemies solid if their internal temperature is low enough.",
+      "name": "Flash Freeze"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 35,
+      "strength": 50
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Enjoyed Silence",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow PnD Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Dirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Heys",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Toxic",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:50:35.426Z"
+  }
+}

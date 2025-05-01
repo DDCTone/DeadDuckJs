@@ -1,0 +1,126 @@
+{
+  "tokenId": "150",
+  "name": "Dead Duck #150",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/150.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Snail Bikers Base",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Orange",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Beat Down Boots",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Ghost Ripped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Slackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Beak Breaker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dry Squack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Shock-Goggles-Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Snail Biker's Hideout, ZipZap scrapped his way to infamy. He used to run minor errands for the gang, but soon yearned for more than what Subchain City could offer, leading him abandoning it all.",
+    "class": "Techno-Raider",
+    "name": "ZipZap",
+    "personality": "Resourceful and quick-witted, ZipZap has an unusual affinity for tinkering with old tech. While often coming across as cocky, he has a soft spot for Hatchlings, being one himself.",
+    "specialAbility": {
+      "description": "ZipZap overrides enemy defenses with a burst of electromagnetic energy, neutralizing their armor for one turn.",
+      "name": "Static Quack"
+    },
+    "stats": {
+      "agility": 78,
+      "intelligence": 65,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Snail Bikers Base",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Orange",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Beat Down Boots",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Ripped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Slackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Beak Breaker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Plagued",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dry Squack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Shock-Goggles-Shadow",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:27:05.513Z"
+  }
+}

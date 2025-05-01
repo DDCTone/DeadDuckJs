@@ -1,0 +1,126 @@
+{
+  "tokenId": "20",
+  "name": "Dead Duck #20",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/20.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Bill Yards",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow DYOR Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Feather Splitter Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of collapsing billiard halls, 'Vigil' grew up scavenging for DRIP in the forgotten corners of Subchain City. The toxic fumes of the Rotted Hazard zones claimed his wings early, but he learned to adapt, turning his rage into a righteous fury against those who hoard what little DRIP remains.",
+    "class": "Vigilante",
+    "name": "Vigil",
+    "personality": "Grim and determined, Vigil operates on a strict moral code, punishing those he deems guilty. He's fiercely independent, distrustful of flocks after a betrayal in his youth, yet secretly yearns for connection. Beneath the intimidating exterior, there's a flicker of hope that Subchain City can be salvaged.",
+    "specialAbility": {
+      "description": "Vigil unleashes a blinding strike with his Choppy, dealing massive damage and inflicting 'Moral Exhaustion' on the target - reducing their DRIP generation for 3 turns. The severity increased depending on Vigil's HP, if Vagil is low it will trigger a 'Last Light' status that increases the target's moral exhaustion to the max!",
+      "name": "Painful Justice"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 50,
+      "luck": 35,
+      "strength": 85
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Bill Yards",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow DYOR Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Feather Splitter Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Yokey",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:45.910Z"
+  }
+}

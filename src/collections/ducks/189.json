@@ -1,0 +1,126 @@
+{
+  "tokenId": "189",
+  "name": "Dead Duck #189",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/189.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Bldg_Pedros Watching",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Water Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Featherstrung",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Deboner",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Bland Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the scrap heaps of Subchain City, Scorchshield learned early that survival meant scavenging and scrapping. As a hatchling, he narrowly avoided a DRIP-fueled dust storm, forever scarring his beak with cryogenic residue and hardening his resolve. Now, he wanders the wastes, a lone wolf searching for a flock to call his own.",
+    "class": "Scavenger",
+    "name": "Scorchshield",
+    "personality": "Grimly practical, Scorchshield is a survivor above all else. He trusts few and speaks even less, preferring to let his actions do the talking. Despite his hardened exterior, he harbors a hidden desire for connection, his boom bap mudder crown a silent plea for camaraderie.",
+    "specialAbility": {
+      "description": "Using his Featherstrung bow, Scorchshield can fire a sonic arrow that temporarily disrupts enemy signal chains, reducing their accuracy and causing momentary chaos within their ranks.",
+      "name": "Signal Distortion"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Pedros Watching",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Water Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherstrung",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Deboner",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Bland Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:32:38.974Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "126",
+  "name": "Dead Duck #126",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/126.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Luchadas",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Wicked-Willow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Zero Snap",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising luchador in Subchain City's underground wrestling scene, El Toxico mysteriously disappeared after a rigged match. He re-emerged years later, a changed duck, driven by a thirst for vengeance against those who wronged him and the corrupt system that let it happen with the flock he is devoted to.",
+    "class": "Vigilante Brawler",
+    "name": "El Toxico",
+    "personality": "Brooding and cynical, El Toxico carries the weight of past betrayals. Beneath his hardened exterior lies a fierce loyalty to his flock, those in it remind him of the glory he once had. He's always watching, always planning, and always ready to strike.",
+    "specialAbility": {
+      "description": "\"Toxic DDT\": El Toxico unleashes a devastating wrestling move, dealing massive damage and poisoning the target with a lingering toxic cloud. Enemies caught in the cloud suffer continuous damage over time. Cost 50 DRIP.",
+      "name": "Toxic DDT"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 85
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Luchadas",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo Marked",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Wicked-Willow",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Zero Snap",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:22:26.835Z"
+  }
+}

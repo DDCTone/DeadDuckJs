@@ -1,0 +1,126 @@
+{
+  "tokenId": "320",
+  "name": "Dead Duck #320",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/320.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_The Safety Pin",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Crack Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Hazard",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Cranker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_DDC Trucker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of The Safety Pin, Wrench was always tinkering, fixing, and jury-rigging what others left for scrap.  The constant hum of his cranker hands is both a comfort and a warning to those around him. He's seen too many friends turned into Red-Dead-Eyes.",
+    "class": "Mechanic",
+    "name": "Wrench",
+    "personality": "Wrench is a pragmatist.  He sees the world in terms of what can be fixed and what's beyond repair, rarely wasting time on sentimentality. While generally taciturn - he can be surprisingly protective of equipment, treating his wrench and favored tools with more care than most ducks show their own kin.",
+    "specialAbility": {
+      "description": "Wrench can use scrap parts to temporarily buff a friendly Duck's armor or weapon, providing a crucial edge in combat. The buff lasts 2 turns but comes with a chance of malfunction, potentially backfiring. Can only be used once per raid.",
+      "name": "Jury Rig"
+    },
+    "stats": {
+      "agility": 60,
+      "intelligence": 75,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg The Safety Pin",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Crack Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Cranker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "DDC Trucker",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:50:28.144Z"
+  }
+}

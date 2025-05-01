@@ -1,0 +1,126 @@
+{
+  "tokenId": "322",
+  "name": "Dead Duck #322",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/322.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Pearls",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Aqua",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Cryo",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Whackers",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_E_Polished Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wasted Bill, once a renowned chemist for the Pre-Fall 'FeatherFarma', now stumbles through Subchain City, perpetually leaking toxins. He's convinced the government is still after his secret formula for 'Eternal Quack,' a highly unstable Drip production catalyst.",
+    "class": "Toxic Ronin",
+    "name": "Wasted Bill",
+    "personality": "Paranoid, twitchy, and surprisingly honorable. Bill sees conspiracies everywhere, muttering about 'Big Cluck' and their plans to control all the DRIP. Despite his paranoia, he adheres to a strict code of conduct, fiercely protecting those weaker than him.",
+    "specialAbility": {
+      "description": "Bill unleashes a cloud of toxic gas from his rotted body, causing damage over time to enemies within a short radius around him. The 'Toxic Fume' ability also has a chance to confuse enemies, making them attack each other for a short duration.",
+      "name": "Toxic Fume"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 30,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Pearls",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Aqua",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Cryo",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Whackers",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Polished Bill",
+        "rarity": "E"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:50:43.016Z"
+  }
+}

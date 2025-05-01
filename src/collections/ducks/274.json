@@ -1,0 +1,126 @@
+{
+  "tokenId": "274",
+  "name": "Dead Duck #274",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/274.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Street_Needles Crossing",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C__Frak Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Plague Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Warmy Shirt Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Deboner",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Fuss",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Plagued",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of the Needles Crossing Skytower before the DRIP Wars, DeBoner Duck was orphaned early after a flock raid gone wrong, leaving him with the soulless eyes that see the true value of what's left in Subchain City. He learned to wield his namesake blade scavenging scrap and surviving the toxic fumes emitted by the rotting underbelly of the city with only a dust sniffer to protect him.",
+    "class": "Scavenger",
+    "name": "DeBoner Duck",
+    "personality": "Sullen and calculating. DeBoner is driven by survival above all else. While not outwardly malicious, he's hesitant to trust others and always looks for an angle.",
+    "specialAbility": {
+      "description": "DeBoner Duck uses the debone blade to hit an enemies weak spot (critical hit) dealing maximum damage. Debone can only be used every other turn.",
+      "name": "Debone"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 40,
+      "strength": 80
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Needles Crossing",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": " Frak Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Plague Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Warmy Shirt Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Deboner",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Fuss",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Plagued",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:44:11.458Z"
+  }
+}

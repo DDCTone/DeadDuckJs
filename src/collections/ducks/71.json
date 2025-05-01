@@ -1,0 +1,126 @@
+{
+  "tokenId": "71",
+  "name": "Dead Duck #71",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/71.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smokestack Jacks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Cyborgs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Quackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Shadow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Crested Mudder",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Cyber",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of Subchain City's defunct refineries, Rusty grew up scavenging scrap metal among the rusted hulks. He's always been a loner, preferring the company of broken machines to other ducks, but he has a knack for fixing things – and fighting dirty.",
+    "class": "Mechanic Raider",
+    "name": "Rusty Sprocket",
+    "personality": "Brooding and resourceful, Rusty is slow to trust but fiercely loyal to those he considers his flock. His deadpan humor often catches others off guard, a defense mechanism honed from years of surviving alone. He's got a soft spot for lost causes, often taking in stray pups and fixing their broken robo-limbs.",
+    "specialAbility": {
+      "description": "Rusty can deploy a temporary 'Scrap Shield' made from salvaged metal, absorbing incoming damage for himself or a teammate. This ability grants a temporary armor boost, buying valuable time in a firefight.",
+      "name": "Scrap Shield"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smokestack Jacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Cyborgs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Quackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Crested Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Cyber",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:04:23.473Z"
+  }
+}

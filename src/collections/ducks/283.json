@@ -1,0 +1,126 @@
+{
+  "tokenId": "283",
+  "name": "Dead Duck #283",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/283.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Black-Disk-Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs DDC Dirt Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Eth Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Toxic",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Old Click",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Mudder",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Growing up in the ruins of the Shadow Disk Shop, \"Vinyl\" Virgil learned to scavenge and fight for every byte of DRIP. The T-100 eyes he sports were a battlefield souvenir, a constant reminder of the war for survival in Subchain City.",
+    "class": "Scout",
+    "name": "\"Vinyl\" Virgil",
+    "personality": "Resourceful: Virgil can turn scraps into useful tools, a skill honed from years in the wastelands. Cynical: He trusts no one, expecting betrayal at every corner. Driven: The thirst for DRIP consumes him, pushing him to take risks others wouldn't.",
+    "specialAbility": {
+      "description": "Using his Gasser Toxic gear, Virgil can create a localized cloud of corrupted code, disorienting enemies and reducing their accuracy for 2 turns.",
+      "name": "Toxic Static Burst"
+    },
+    "stats": {
+      "agility": 85,
+      "intelligence": 70,
+      "luck": 45,
+      "strength": 60
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Black-Disk-Shop",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs DDC Dirt Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Eth Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Old Click",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Mudder",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:45:36.886Z"
+  }
+}

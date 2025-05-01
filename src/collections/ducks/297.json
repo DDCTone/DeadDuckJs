@@ -1,0 +1,126 @@
+{
+  "tokenId": "297",
+  "name": "Dead Duck #297",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/297.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Stealth Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cyro",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Dirt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Molt Hawk Pond",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Wasted since the war started, a denizen of Last Sip found passed out in Stealth alley by the Featherguard. Rumored to be able to sniff out where the last drops of DRIP are, though no one knows if its true or just his hangover.",
+    "class": "DRIP Diviner",
+    "name": "Buzzed Bill",
+    "personality": "Cynical and world-weary, Buzzed Bill is rarely seen without a grimace and a sarcastic remark. Though often drunk, he possess a keen sense of observation and can often pick up on clues that others miss, especially regarding DRIP stores. Most suspect he is a coward but, when cornered, his sense of self-preservation leads to surprising acts of daring and tenacity.",
+    "specialAbility": {
+      "description": "Once per encounter, Buzzed Bill can attempt to 'Sniff Out the DRIP', granting the party advantage on their next DRIP-related loot roll. Chance of success determined by a DC12 Intelligence check.",
+      "name": "Sniff Out the DRIP"
+    },
+    "stats": {
+      "agility": 55,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 40
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Stealth Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cyro",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Dirt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Molt Hawk Pond",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Shadow",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:47:27.919Z"
+  }
+}

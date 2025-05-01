@@ -1,0 +1,126 @@
+{
+  "tokenId": "141",
+  "name": "Dead Duck #141",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/141.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Shadow Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Walkers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Cutoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Bled",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ocular Fallout",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the shadow of Subchain City's last brewery, 'Last Sip', Breaker's childhood was steeped in the bitterness of watered-down swill and broken promises. He saw firsthand how the DRIP shortage turned ducks against ducks, and vowed to take what he needed, by any means necessary. Now, wielding his trusty waddle maker (baseball bat) Breaker stalks the city, a harbinger of ill fortune for any who cross his path.",
+    "class": "Bruiser",
+    "name": "Breaker",
+    "personality": "Ruthless and opportunistic, Breaker believes in taking what he wants before someone else does. Beneath a veneer of cold pragmatism, there's a flicker of guilt; he will go out of his way to help the little guy. He carries a deep-seated paranoia, constantly watching his back, which makes forming lasting alliances difficult.",
+    "specialAbility": {
+      "description": "Breaker channels his rage and paranoia into a whirlwind attack. For one turn, he gains a massive boost to his agility, allowing him to strike twice and evade incoming attacks more easily. Leaves him drained the next round.",
+      "name": "Ocular Onslaught"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 30,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Shadow Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Walkers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Cutoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Bled",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Ocular Fallout",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:25:51.636Z"
+  }
+}

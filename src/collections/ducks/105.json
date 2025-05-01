@@ -1,0 +1,126 @@
+{
+  "tokenId": "105",
+  "name": "Dead Duck #105",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/105.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Ashocks Shadow Lair",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Saturn",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Bubblegum_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R_Kicks-Scabs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow PnD Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Jackpack",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Choppy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Boom Bap Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Snagglebill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Shadow",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the radioactive wastelands outside Subchain City, 'Pink Slip' Patty earned his name for his bubblegum hue and ruthless efficiency in relieving other flocks of their DRIP. Rumor has it he keeps a ledger of all the debts owed to him, secured with a cryptographic key only he knows.",
+    "class": "Debt Collector",
+    "name": "Pink Slip Patty",
+    "personality": "Grim and calculating. Pink Slip Patty approaches every encounter as a business transaction. He's always looking for an angle to exploit, although that can sometimes backfire into humorous misunderstandings. Vicious and has difficulty trusting others",
+    "specialAbility": {
+      "description": "Patty uses his knack for shadow maneuvering and his Saturnian eyes to foresee enemy attack patterns within a small radius, granting a temporary evasion boost to himself and nearby allies by 25%.",
+      "name": "Shadow Slip"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Ashocks Shadow Lair",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Saturn",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Bubblegum Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Kicks-Scabs",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow PnD Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Jackpack",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Choppy",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Boom Bap Shadow",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Snagglebill",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Shadow",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:15:59.825Z"
+  }
+}

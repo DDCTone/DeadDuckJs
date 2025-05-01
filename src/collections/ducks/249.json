@@ -1,0 +1,126 @@
+{
+  "tokenId": "249",
+  "name": "Dead Duck #249",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/249.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Bill Yards",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_T-100",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Prison Strips",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Shadow",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Stroke 9",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Cryo",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Flat BIll",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a high-roller in Subchain City's backroom gambling dens, 'Nine-Stroke' Niko lost everything when the 'DRIP' dried up. Now he stalks the ruins of Bill Yards, seeking vengeance on those who rigged the game and left him for dead.",
+    "class": "Bruiser",
+    "name": "'Nine-Stroke' Niko",
+    "personality": "Grim and vengeful, Niko is haunted by the past. He masks his pain with sardonic humor and a brutal fighting style, always looking for an angle to even the odds. Despite his rough exterior, he possesses a sense of loyalty to those who earn his trust – a rare commodity in Subchain City.",
+    "specialAbility": {
+      "description": "Using his pool cue (Stroke 9), Niko can 'Bank Shot' attacks to hit enemies behind cover and cause bleed damage. Additionally, his T-1000 eyes allow him to calculate angles and anticipate enemy movements.",
+      "name": "Bank Shot"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 85
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Bill Yards",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "T-100",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Prison Strips",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stroke 9",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Flat BIll",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:41:03.512Z"
+  }
+}

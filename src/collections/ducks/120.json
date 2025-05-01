@@ -1,0 +1,126 @@
+{
+  "tokenId": "120",
+  "name": "Dead Duck #120",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/120.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smokestack Jacks",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants White",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Toxic DDC",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Tank",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Broke Beak",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Wicked-Willow",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Grrrr",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Rust Bill",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Wraithfeather Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hatched in the shadow of the Smokestack Jacks hideout, 'Knuckleball' Krunch spent his early days dodging rogue drones and scavenging for scraps. Legend says he traded a handful of bottle caps for a glimpse of the Old World Series, and the rest, as they say, is history – or rather, a hazy, radiation-soaked excuse for a baseball obsession.",
+    "class": "Bruiser",
+    "name": "'Knuckleball' Krunch",
+    "personality": "Obsessive: Krunch's dedication to baseball borders on the unsettling. He analyzes combat situations with the precision of a seasoned sports analyst, muttering about 'RBI efficiency' while bashing raiders. Unpredictable: His combat style mimics the erratic movement of his signature pitch. He's as likely to barrel through a barricade as he is to feint and flank. Fatalistic: Believes his fate is tied to the next at-bat. He accepts the brutality of Subchain City with a sardonic chuckle, convinced it's all part of some grand, cosmic game.",
+    "specialAbility": {
+      "description": "Krunch winds up and unleashes a devastating baseball swing with his trusty bat. The attack has a high chance to stun or knock back enemies, sending them flying like a poorly hit fastball. The damage scales with Krunch's strength and agility.",
+      "name": "The Krunchball"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 80
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smokestack Jacks",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants White",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Toxic DDC",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Tank",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Broke Beak",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Wicked-Willow",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "Grrrr",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Rust Bill",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Wraithfeather Blood Stained",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:21:09.448Z"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "tokenId": "50",
+  "name": "Dead Duck #50",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/50.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Batch Pad",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Grassy Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Shadow Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Shadow BItty Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Gasser Static",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Tak-Gloves Mudder",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Dread Head",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Lengua",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the Bone Dry Mudflats, Static Lenny, witnessed his family get drained of their DRIP by a gang of rogue crypto-crows. Fueled by vengeance and armed with scavenged tech, he vowed to become the ultimate DRIP hunter, turning the tables on those who prey on the weak.",
+    "class": "Techno-Raider",
+    "name": "Static Lenny",
+    "personality": "Lenny is a paranoid and twitchy duck, constantly scanning his surroundings with his enhanced AI eyes. Despite his anxiety, he possesses a dark sense of humor, cracking jokes even in the direst situations. He's fiercely independent, trusting only his tech and his gut.",
+    "specialAbility": {
+      "description": "Static Overload: Lenny channels the Gasser Static gear to unleash a short-range EMP blast, disabling enemy tech and scrambling their senses. This gives him a crucial window to exploit vulnerabilities.",
+      "name": "Static Overload"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 85,
+      "luck": 40,
+      "strength": 60
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Batch Pad",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grassy Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Shadow Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow BItty Cuttoff",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Gasser Static",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Tak-Gloves Mudder",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Dread Head",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Lengua",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:00:06.934Z"
+  }
+}

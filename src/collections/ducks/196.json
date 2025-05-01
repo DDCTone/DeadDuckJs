@@ -1,0 +1,126 @@
+{
+  "tokenId": "196",
+  "name": "Dead Duck #196",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/196.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Monument_Solana-Trenches",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Parasite",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Toxic Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Blue Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Stompys",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Ghost Reddy Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Mudder",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Waddle Maker",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Flying Pig",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Socket 2 Me",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic sludge of the Solana Trenches, 'Grease' learned the hard way that survival means bending the rules. He once stumbled upon El Flying Pig crown during a raid, and now believes it grants him divine favor (even though it probably doesn't).",
+    "class": "Raider",
+    "name": "Grease",
+    "personality": "Grease is cunning, opportunistic, and believes he is blessed by some higher power, frequently quoting nonsensical prophecies allegedly whispered by the 'Flying Pig' crown. Despite his quirks, he's fiercely loyal to his flock (as long as it benefits him, of course). He uses dark humor to mask the horrors he has witnessed.",
+    "specialAbility": {
+      "description": "Grease's 'Toxic Quack' ability lets loose a cloud of noxious gas, dealing poison damage to enemies within a small radius and leaving behind a lingering area of denial.",
+      "name": "Toxic Quack"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 85,
+      "strength": 70
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Monument Solana-Trenches",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "Parasite",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Toxic Marked",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Blue Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Stompys",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Ghost Reddy Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Waddle Maker",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Flying Pig",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Socket 2 Me",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:33:34.420Z"
+  }
+}

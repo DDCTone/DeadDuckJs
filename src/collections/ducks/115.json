@@ -1,0 +1,126 @@
+{
+  "tokenId": "115",
+  "name": "Dead Duck #115",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/115.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_E_Hideout_Smashys Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_Ring",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Black Jeans Chained",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Shadow Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Cryo Hecho Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_E_Ashcaster",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Talonborn Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Macho Malard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Dust Sniffer",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Hailing from the infamous Hideout Smashys Shop district, Cyrocluck witnessed firsthand the brutal raids of the Talonborn Clan. He survived by scavenging scraps and mastering the art of cryo-augmentation, a skill he now uses to freeze his enemies solid.",
+    "class": "Cryo-Augmented Raider",
+    "name": "Cyrocluck 'The Iceman' Smashy",
+    "personality": "Grimly pragmatic and fiercely independent, Cyrocluck is not one for idle chatter. He trusts few, but those he deems worthy of his loyalty find him an unwavering ally. Beneath his icy exterior lies a flicker of hope for a Subchain City free from the tyranny of the DRIP barons.",
+    "specialAbility": {
+      "description": "Cyrocluck unleashes a blast of concentrated cryo-energy, encasing a single target in a block of ice for 2 turns. While frozen, the target is unable to act and takes 50% increased damage from all sources.",
+      "name": "Cryogenic Freeze"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 80,
+      "luck": 40,
+      "strength": 70
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Smashys Shop",
+        "rarity": "E"
+      },
+      {
+        "type": "Eyes",
+        "value": "Ring",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Black Jeans Chained",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Shadow Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Cryo Hecho Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Ashcaster",
+        "rarity": "E"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Talonborn Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "El Macho Malard",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Dust Sniffer",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Hazard",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:19:04.977Z"
+  }
+}

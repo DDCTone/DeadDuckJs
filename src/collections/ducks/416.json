@@ -1,0 +1,126 @@
+{
+  "tokenId": "416",
+  "name": "Dead Duck #416",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/416.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Big Yoke Center",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Gold-Bloom",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Mudder_Marked",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Featherguard Cryo Blinged",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Burt",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Muted Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Vigilanti Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a thriving entrepreneur in Subchain City's black market, \"Hazard\" Hatcher lost everything when a rival flock sabotaged his DRIP exchange. Now, fueled by vengeance and a thirst for reclaimed glory, he roams the wasteland, seeking payback and opportunities for a quick score.",
+    "class": "Vigilante Raider",
+    "name": "\"Hazard\" Hatcher",
+    "personality": "Cunning and ruthless, Hazard is always on the lookout for an angle. He's haunted by the past, but hides it behind a facade of cynical humor and calculated bravado. Though he trusts no one, he has a soft spot for the downtrodden hatchlings of Subchain City.",
+    "specialAbility": {
+      "description": "\"Hazard\" Hatcher can use a limited quantity of \"Cryo Blinged\" to create a temporary area of focused-stasis, slowing enemies down by 50% for 2 turns, leaving them vulnerable. The area lasts one round.",
+      "name": "Cryo Static Field"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 60,
+      "luck": 45,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Big Yoke Center",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Gold-Bloom",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Mudder Marked",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Featherguard Cryo Blinged",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Burt",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Muted Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Vigilanti Blood Stained",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T19:04:30.126Z"
+  }
+}

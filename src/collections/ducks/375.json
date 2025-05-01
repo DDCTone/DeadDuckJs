@@ -1,0 +1,126 @@
+{
+  "tokenId": "375",
+  "name": "Dead Duck #375",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/375.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Supply Depot",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Red-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Bone Dry_Blood Stained",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_R_Dragon Pants Black",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs Socks",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Stitchy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Fantasma",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Null Beak",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Void Glasses Hazard",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a promising scholar at the esteemed Quackademics, Professor Phibblesworth's obsession with forbidden blood magic led to his expulsion and a permanent staining of his feathers with crimson. Now he roams Subchain City, seeking forgotten arcane knowledge amidst the decaying ruins, driven by the whispers of the El Fantasma crown he wears.",
+    "class": "Arcane Scavenger",
+    "name": "Professor Phibblesworth, the Blood-Stained",
+    "personality": "Eccentric and macabre, Phibblesworth alternates between moments of lucid brilliance and crazed ramblings about forgotten rituals. Despite his unsettling appearance, he possesses a dry wit and a surprising fondness for the battered Stitchy doll he carries. He's also a bit of a fashion disaster, but he owns it.",
+    "specialAbility": {
+      "description": "Phibblesworth can sacrifice a portion of his own DRIP to summon a spectral hazard zone, inflicting damage over time to enemies within its radius. The blood-stained aura also provides a minor healing effect to allies at the cost of his own health.",
+      "name": "Blood Pact"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 88,
+      "luck": 62,
+      "strength": 30
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Supply Depot",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Red-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Blood Stained",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Dragon Pants Black",
+        "rarity": "R"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Socks",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Stitchy",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "El Fantasma",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Null Beak",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Void Glasses Hazard",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:27.261Z"
+  }
+}

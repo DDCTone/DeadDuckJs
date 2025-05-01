@@ -1,0 +1,126 @@
+{
+  "tokenId": "372",
+  "name": "Dead Duck #372",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/372.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Black-Disk-Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_E_Grid",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Bone Dry_Shadow",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Sk8rs",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Blood Stained Cutoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Knuckle-Duster",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Rager Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Iron Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a purveyor of rare grooves in Subchain City before the DRIP dried up, 'Vinyl' Virgil now scavenges for forgotten beats and protects them with extreme prejudice. He's seen enough flocks turn on each other over a scratched record to know that loyalty is a luxury, not a given.",
+    "class": "Riot DJ",
+    "name": "Vinyl Virgil",
+    "personality": "Cynical: Virgil has seen the music die, and with it, hope. Resourceful: He can fix anything with duct tape and a prayer. Obsessive: Virgil's vinyl collection is his life, and he'll protect it at any cost.",
+    "specialAbility": {
+      "description": "By utilizing a modified DRIP amplifier, Virgil can sonic boom enemies within earshot with deafening screeches and earth-shattering bass drops.",
+      "name": "Sonic Quackdown"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 70,
+      "luck": 35,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Black-Disk-Shop",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Grid",
+        "rarity": "E"
+      },
+      {
+        "type": "duck body",
+        "value": "Bone Dry Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Blood Stained Cutoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Knuckle-Duster",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Rager Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Iron Bite",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:05.010Z"
+  }
+}

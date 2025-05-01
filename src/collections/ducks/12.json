@@ -1,0 +1,126 @@
+{
+  "tokenId": "12",
+  "name": "Dead Duck #12",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/12.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Cold Meano Vinos",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_New Jeans",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Blood Stained",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Skully Shirt",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Growler Vest Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Clan Hollowbeak Beads",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Flocker Hazard",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Quackless",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Waddlesworth was once a high-flying racer in Subchain City's underground Chucks-on-the-Line circuit. A nasty crash involving a runaway DRIP tanker left him with a toxic rot and a thirst for vengeance, so he took up with a rough bunch.",
+    "class": "Biker Enforcer",
+    "name": "Waddlesworth 'Rotten' Ryder",
+    "personality": "Grim and determined, with a dry, sarcastic wit. He's fiercely loyal to his flock, but trusts few outside of it. Beneath the hardened exterior lies a flicker of the daredevil racer he once was.",
+    "specialAbility": {
+      "description": "Unleashes a wave of toxic bile, poisoning enemies in a cone and reducing their DRIP earnings for 2 turns.",
+      "name": "Toxic Spill"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 40,
+      "luck": 55,
+      "strength": 65
+    },
+    "rarity": "Uncommon",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Cold Meano Vinos",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "New Jeans",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Skully Shirt",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Growler Vest Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Clan Hollowbeak Beads",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Flocker Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Quackless",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T17:16:03.890Z"
+  }
+}

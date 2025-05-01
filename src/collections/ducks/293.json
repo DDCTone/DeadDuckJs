@@ -1,0 +1,126 @@
+{
+  "tokenId": "293",
+  "name": "Dead Duck #293",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/293.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Street_Yay Blvd",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Alpha",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Hatchling_Plague",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Grazer Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_R__Kicks-Slimers",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_E_Shadow Ninja Top",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained DDC patch",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Crow-Killer",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Mayhem Toxic",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Pain Bite",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Beackwear Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born into the Hatchling Plague, Quackenstein never knew a world without the toxic haze. He scavenged the ruins of Subchain City, quickly learning to survive using wit and a scavenged crowbar. The 'Hooded Blood Stained DDC patch' he wears is a grim reminder of a flock he lost to a DRIP raid gone south.",
+    "class": "Plague Scavenger",
+    "name": "Quackenstein",
+    "personality": "Grimly Pragmatic: Quackenstein sees the world in shades of gray and does what's necessary to survive, even if it means bending the rules. Resourceful: He can MacGyver his way out of most situations, using scraps and ingenuity. Intimidating: Quackenstein knows how to wield his crowbar, and his hardened stare can send most ducks running.",
+    "specialAbility": {
+      "description": "When the chips are down, Quackenstein can channel the toxic fumes of his upbringing to unleash a crippling wave of poison. This coats enemies in a haze that weakens their attacks, leaving them more vulnerable to subsequent attacks.",
+      "name": "Toxic Bloom"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 75,
+      "luck": 40,
+      "strength": 80
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Street Yay Blvd",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Alpha",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Plague",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Grazer Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": " Kicks-Slimers",
+        "rarity": "R"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Ninja Top",
+        "rarity": "E"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained DDC patch",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "Crow-Killer",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Mayhem Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Pain Bite",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Beackwear Cryo",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:46:57.302Z"
+  }
+}

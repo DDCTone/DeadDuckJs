@@ -1,0 +1,126 @@
+{
+  "tokenId": "376",
+  "name": "Dead Duck #376",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/376.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Head Bobbers",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Green-Dead-Eyes",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Hatchling_Hazard",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Coal Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Cryo",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Prison Strips",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_C_Hooded Blood Stained",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_DDC-Cup",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Anarchy Shadow",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Wild Lick",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Scorchshieds Yokey",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Once a sound engineer before the DRIP wars, 'Static' now uses his knack for manipulating auditory frequencies to disrupt enemy comms. Rumor has it he saw his flock wiped out during a particularly devastating raid on the Old Data Farms, leaving him cold and driven.",
+    "class": "Saboteur",
+    "name": "Static",
+    "personality": "Cynical: Static has seen too much to trust anyone easily and relies on his own judgment. Resourceful: He can cobble together makeshift devices from scrap to gain an edge in combat using his technical skills from before Subchain City fell. Obsessive: Haunted by the memory of his lost flock, he meticulously plans every move to ensure no one else suffers the same fate.",
+    "specialAbility": {
+      "description": "Static unleashes a sonic blast that disrupts enemy communication and scrambles targeting systems, causing a temporary reduction in accuracy and coordination for the opposing flock. The DDC-Cup helps him keep his hands steady for precise frequency settings.",
+      "name": "White Noise Barrage"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 88,
+      "luck": 35,
+      "strength": 52
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Head Bobbers",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Green-Dead-Eyes",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Hazard",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Coal Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Cryo",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Prison Strips",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Hooded Blood Stained",
+        "rarity": "C"
+      },
+      {
+        "type": "Hands",
+        "value": "DDC-Cup",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Anarchy Shadow",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Wild Lick",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Scorchshieds Yokey",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:57:35.017Z"
+  }
+}

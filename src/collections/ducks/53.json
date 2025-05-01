@@ -1,0 +1,126 @@
+{
+  "tokenId": "53",
+  "name": "Dead Duck #53",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/53.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Black-Disk-Shop",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Souler",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_R_Rotted_Toxic",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Tak-Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_E_Sk8rs Willies",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Static Sleaved",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Plagued",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_R_Stitchy",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_C_Facts",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Mocker",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_E_Phantomfeather Cryo",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the toxic runoff of Subchain City's forgotten vinyl district, 'Stitch' grew up scavenging for scraps and dodging rogue data streams. The Mocker beak hides a deep cynicism, but the longing for belonging never truly faded, even as the rot set in.",
+    "class": "Riot Medic",
+    "name": "Stitchy Static",
+    "personality": "Cynical: The constant betrayal and backstabbing in Subchain City have made Stitchy distrustful of everyone. Resourceful: Years of scavenging have made him adept at finding useful items and repurposing them. Unpredictable: Stitchy's methods are often unorthodox and surprising, making him difficult to predict in combat and negotiations.",
+    "specialAbility": {
+      "description": "Stitchy uses his medical understanding and toxic resilience to deliver a potent 'Antidote Bomb.' It heals allies in a small area while poisoning enemies caught in the blast.",
+      "name": "Toxic Resurgence"
+    },
+    "stats": {
+      "agility": 65,
+      "intelligence": 78,
+      "luck": 42,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Black-Disk-Shop",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Souler",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Toxic",
+        "rarity": "R"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Tak-Pants",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Sk8rs Willies",
+        "rarity": "E"
+      },
+      {
+        "type": "Shirt",
+        "value": "Static Sleaved",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Stitchy",
+        "rarity": "R"
+      },
+      {
+        "type": "Crown",
+        "value": "Facts",
+        "rarity": "C"
+      },
+      {
+        "type": "Beaks",
+        "value": "Mocker",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Phantomfeather Cryo",
+        "rarity": "E"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:00:30.061Z"
+  }
+}

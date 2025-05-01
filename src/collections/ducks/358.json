@@ -1,0 +1,126 @@
+{
+  "tokenId": "358",
+  "name": "Dead Duck #358",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/358.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_C_Bldg_Last Sip",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_C_Zombie",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_E_Hatchling_Cryo",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_E_Laser Pants",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_C_Shadow Punk Cuttoff",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_E_Whisky",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_E_El Dropkicker",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_C_Smooth Quack",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_C_Feathercomm Blood Stained",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born in the toxic runoff of the old Cryo-Labs, 'Whiskey' Bill survived the Freeze-Out simply by being too perpetually plastered to notice. Now, he wanders Subchain City, a walking, talking cocktail of regret and really, really old bourbon. He's pretty sure he used to be somebody important.",
+    "class": "Bruiser",
+    "name": "'Whiskey' Bill",
+    "personality": "Grizzled, perpetually drunk, and surprisingly insightful, Whiskey Bill offers cryptic advice between swigs from his namesake. He's haunted by fragmented memories of a past life he's too afraid to confront, finding solace only in the bottom of a bottle and the occasional well-placed feathered dropkick.",
+    "specialAbility": {
+      "description": "Whiskey Bill takes a swig from his old bottle. It grants a temporary buff, increasing his resilience to damage and allowing him to unleash a brutal, drunken beatdown, culminating in a signature 'Dropkick of Reckoning.'",
+      "name": "Last Call Fury"
+    },
+    "stats": {
+      "agility": 45,
+      "intelligence": 60,
+      "luck": 70,
+      "strength": 85
+    },
+    "rarity": "Epic",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Bldg Last Sip",
+        "rarity": "C"
+      },
+      {
+        "type": "Eyes",
+        "value": "Zombie",
+        "rarity": "C"
+      },
+      {
+        "type": "duck body",
+        "value": "Hatchling Cryo",
+        "rarity": "E"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Laser Pants",
+        "rarity": "E"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Shadow Punk Cuttoff",
+        "rarity": "C"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Whisky",
+        "rarity": "E"
+      },
+      {
+        "type": "Crown",
+        "value": "El Dropkicker",
+        "rarity": "E"
+      },
+      {
+        "type": "Beaks",
+        "value": "Smooth Quack",
+        "rarity": "C"
+      },
+      {
+        "type": "Face",
+        "value": "Feathercomm Blood Stained",
+        "rarity": "C"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:55:16.888Z"
+  }
+}

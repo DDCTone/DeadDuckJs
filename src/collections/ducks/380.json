@@ -1,0 +1,126 @@
+{
+  "tokenId": "380",
+  "name": "Dead Duck #380",
+  "image": "https://ipfs.io/ipfs/bafybeiawbzfyv6bueadwaftlayoh7tufvziiyhbfbe2l5dn67fgsnzt5ay/380.webp",
+  "attributes": [
+    {
+      "value": "Trait_Background_R_Hideout_Snail Bikers Base",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Trait_Eyes_R_AI",
+      "trait_type": "09 Eyes"
+    },
+    {
+      "value": "Trait_Body_C_Rotted_Mudder",
+      "trait_type": "08 duck body"
+    },
+    {
+      "value": "Trait_Bottoms_C_Sand Jorts",
+      "trait_type": "07 Tailfeathers"
+    },
+    {
+      "value": "Trait_Shoes_C_Chucks Toxic",
+      "trait_type": "06 Flippers"
+    },
+    {
+      "value": "Trait_Shirt_R_Toxic Striped",
+      "trait_type": "05 Shirt"
+    },
+    {
+      "value": "Trait_Outer_R_Riot Rags Bloody",
+      "trait_type": "04 Gear"
+    },
+    {
+      "value": "Trait_Hands_C_Skrilla",
+      "trait_type": "03 Hands"
+    },
+    {
+      "value": "Trait_Crown_R_Moltlocks Plagued",
+      "trait_type": "02 Crown"
+    },
+    {
+      "value": "Trait_Beak_R_Grit Fang",
+      "trait_type": "01 Beaks"
+    },
+    {
+      "value": "Trait_Face_R_Ocular Fallout",
+      "trait_type": "00 Face"
+    }
+  ],
+  "gameData": {
+    "backstory": "Born amidst the toxic sludge pools of Subchain City, Cipher was one of the first ducks to undergo experimental cybernetic augmentation. The procedure, while successful in granting him enhanced cognitive abilities, left him with a permanent case of ocular fallout and a thirst for digital mayhem. Now, he roams the wastes, seeking out vulnerabilities in the blockchain's defenses.",
+    "class": "Hacker",
+    "name": "Cipher",
+    "personality": "Cynical and calculating, Cipher approaches every challenge with a detached curiosity. He has a twisted sense of humour, often cracking jokes about the impending digital apocalypse. Secretly, he yearns for connection but hides it behind layers of code and snide remarks.",
+    "specialAbility": {
+      "description": "Cipher can inject a 'glitch bomb' into enemy drones or turrets, causing temporary malfunctions and diverting their targeting systems. This can create openings for allied ducks to exploit in combat.",
+      "name": "Glitch Bomb"
+    },
+    "stats": {
+      "agility": 75,
+      "intelligence": 92,
+      "luck": 40,
+      "strength": 55
+    },
+    "rarity": "Rare",
+    "traits": [
+      {
+        "type": "Background",
+        "value": "Hideout Snail Bikers Base",
+        "rarity": "R"
+      },
+      {
+        "type": "Eyes",
+        "value": "AI",
+        "rarity": "R"
+      },
+      {
+        "type": "duck body",
+        "value": "Rotted Mudder",
+        "rarity": "C"
+      },
+      {
+        "type": "Tailfeathers",
+        "value": "Sand Jorts",
+        "rarity": "C"
+      },
+      {
+        "type": "Flippers",
+        "value": "Chucks Toxic",
+        "rarity": "C"
+      },
+      {
+        "type": "Shirt",
+        "value": "Toxic Striped",
+        "rarity": "R"
+      },
+      {
+        "type": "Gear",
+        "value": "Riot Rags Bloody",
+        "rarity": "R"
+      },
+      {
+        "type": "Hands",
+        "value": "Skrilla",
+        "rarity": "C"
+      },
+      {
+        "type": "Crown",
+        "value": "Moltlocks Plagued",
+        "rarity": "R"
+      },
+      {
+        "type": "Beaks",
+        "value": "Grit Fang",
+        "rarity": "R"
+      },
+      {
+        "type": "Face",
+        "value": "Ocular Fallout",
+        "rarity": "R"
+      }
+    ],
+    "generatedAt": "2025-05-01T18:58:05.240Z"
+  }
+}
