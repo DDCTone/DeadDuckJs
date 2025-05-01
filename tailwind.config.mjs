@@ -1,8 +1,3 @@
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
-  plugins: ['daisyui'],
-  daisyui: {
-    themes: ['light', 'dark'],
-  },
-}
+// This file is intentionally empty for Tailwind 4
+// Tailwind CSS v4 doesn't use tailwind.config.js
+// Configuration is managed through CSS @plugin directives
