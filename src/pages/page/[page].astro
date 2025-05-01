@@ -1,0 +1,71 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }) {
+  // Get all duck data and sort by tokenId
+  const allDucks = await getCollection('ducks');
+  allDucks.sort((a, b) => parseInt(a.data.tokenId) - parseInt(b.data.tokenId));
+  
+  // Generate pages, 24 ducks per page
+  return paginate(allDucks, { pageSize: 24 });
+}
+
+// The page data is passed as props
+const { page } = Astro.props;
+
+// Get base URL from Astro config
+const baseUrl = import.meta.env.BASE_URL;
+---
+
+<Layout title="Dead Duck NFT Gallery">
+  <header class="py-6 text-center">
+    <h1 class="text-4xl font-bold text-primary mb-2">Dead Duck NFT Gallery</h1>
+    <p class="text-lg text-neutral-content">Browse the collection of {page.total} unique Dead Ducks</p>
+  </header>
+
+  <main>
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      {page.data.map(duck => (
+        <a href={`${baseUrl}/duck/${duck.data.tokenId}`} class="card bg-base-200 hover:shadow-lg transition-shadow">
+          <figure class="px-4 pt-4">
+            <img 
+              src={`${baseUrl}/images/ducks/${duck.data.tokenId}.webp`} 
+              alt={duck.data.name}
+              class="rounded-xl object-cover h-64 w-full"
+              loading="lazy"
+            />
+          </figure>
+          <div class="card-body items-center text-center p-4">
+            <h2 class="card-title text-lg">{duck.data.name}</h2>
+            <p class="text-sm text-accent">#{duck.data.tokenId}</p>
+            <div class="badge badge-primary">{duck.data.gameData.rarity}</div>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <div class="join flex justify-center my-8">
+      {page.url.prev && (
+        <a href={page.url.prev} class="join-item btn">
+          Previous
+        </a>
+      )}
+      
+      {Array.from({ length: page.lastPage }).map((_, i) => (
+        <a 
+          href={i === 0 ? baseUrl : `${baseUrl}/page/${i + 1}`}
+          class={`join-item btn ${page.currentPage === i + 1 ? 'btn-primary' : ''}`}
+        >
+          {i + 1}
+        </a>
+      ))}
+      
+      {page.url.next && (
+        <a href={page.url.next} class="join-item btn">
+          Next
+        </a>
+      )}
+    </div>
+  </main>
+</Layout>
