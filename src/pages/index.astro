@@ -1,11 +1,75 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+// Get all duck data and sort by tokenId
+const allDucks = await getCollection('ducks');
+allDucks.sort((a, b) => parseInt(a.data.tokenId) - parseInt(b.data.tokenId));
+
+// Pagination
+const DUCKS_PER_PAGE = 24;
+const currentPage = parseInt(Astro.url.searchParams.get('page') || '1');
+const totalPages = Math.ceil(allDucks.length / DUCKS_PER_PAGE);
+const startIndex = (currentPage - 1) * DUCKS_PER_PAGE;
+const endIndex = startIndex + DUCKS_PER_PAGE;
+const pageDucks = allDucks.slice(startIndex, endIndex);
+
+// Pagination controls
+const prevPage = currentPage > 1 ? currentPage - 1 : null;
+const nextPage = currentPage < totalPages ? currentPage + 1 : null;
+
+// Get base URL from Astro config
+const baseUrl = import.meta.env.BASE_URL;
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="Dead Duck NFT Gallery">
+	<header class="py-6 text-center">
+		<h1 class="text-4xl font-bold text-primary mb-2">Dead Duck NFT Gallery</h1>
+		<p class="text-lg text-neutral-content">Browse the collection of {allDucks.length} unique Dead Ducks</p>
+	</header>
+
+	<main>
+		<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+			{pageDucks.map(duck => (
+				<a href={`${baseUrl}/duck/${duck.data.tokenId}`} class="card bg-base-200 hover:shadow-lg transition-shadow">
+					<figure class="px-4 pt-4">
+						<img 
+							src={`${baseUrl}/images/ducks/${duck.data.tokenId}.webp`} 
+							alt={duck.data.name}
+							class="rounded-xl object-cover h-64 w-full"
+							loading="lazy"
+						/>
+					</figure>
+					<div class="card-body items-center text-center p-4">
+						<h2 class="card-title text-lg">{duck.data.name}</h2>
+						<p class="text-sm text-accent">#{duck.data.tokenId}</p>
+						<div class="badge badge-primary">{duck.data.gameData.rarity}</div>
+					</div>
+				</a>
+			))}
+		</div>
+
+		<div class="join flex justify-center my-8">
+			{prevPage && (
+				<a href={`${baseUrl}/?page=${prevPage}`} class="join-item btn">
+					Previous
+				</a>
+			)}
+			
+			{Array.from({ length: totalPages }).map((_, i) => (
+				<a 
+					href={`${baseUrl}/?page=${i + 1}`} 
+					class={`join-item btn ${currentPage === i + 1 ? 'btn-primary' : ''}`}
+				>
+					{i + 1}
+				</a>
+			))}
+			
+			{nextPage && (
+				<a href={`${baseUrl}/?page=${nextPage}`} class="join-item btn">
+					Next
+				</a>
+			)}
+		</div>
+	</main>
 </Layout>

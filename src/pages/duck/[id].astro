@@ -1,0 +1,176 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allDucks = await getCollection('ducks');
+  
+  return allDucks.map(duck => {
+    return {
+      params: { id: duck.data.tokenId },
+      props: { duck: duck.data }
+    };
+  });
+}
+
+const { duck } = Astro.props;
+const baseUrl = import.meta.env.BASE_URL;
+
+// Sort traits by trait_type number (prefix)
+const sortedTraits = [...duck.gameData.traits].sort((a, b) => {
+  const getOrder = (type) => {
+    const traitTypes = duck.attributes.map(attr => attr.trait_type);
+    return traitTypes.findIndex(t => t.includes(type));
+  };
+  return getOrder(a.type) - getOrder(b.type);
+});
+
+// Helper for displaying rarity
+const getRarityColors = (rarity) => {
+  switch(rarity) {
+    case 'C': return { text: 'Common', class: 'badge-neutral' };
+    case 'U': return { text: 'Uncommon', class: 'badge-info' };
+    case 'R': return { text: 'Rare', class: 'badge-secondary' };
+    case 'E': return { text: 'Epic', class: 'badge-primary' };
+    case 'L': return { text: 'Legendary', class: 'badge-warning' };
+    case 'M': return { text: 'Mythic', class: 'badge-error' };
+    default: return { text: rarity, class: 'badge-accent' };
+  }
+};
+---
+
+<Layout title={duck.name}>
+  <div class="mb-4">
+    <a href={baseUrl || '/'} class="btn btn-ghost">
+      ← Back to Gallery
+    </a>
+  </div>
+  
+  <div class="card lg:card-side bg-base-100 shadow-xl">
+    <figure class="lg:w-1/2 p-6">
+      <img 
+        src={`${baseUrl}/images/ducks/${duck.tokenId}.webp`} 
+        alt={duck.name} 
+        class="rounded-xl max-h-96 object-contain mx-auto"
+      />
+    </figure>
+    
+    <div class="card-body lg:w-1/2">
+      <div class="flex justify-between items-center">
+        <h1 class="card-title text-3xl">{duck.name}</h1>
+        <div class="badge badge-lg badge-primary">{duck.gameData.rarity}</div>
+      </div>
+      
+      <div class="divider"></div>
+      
+      <div class="mb-4">
+        <h2 class="text-xl font-bold">"{duck.gameData.name}" - {duck.gameData.class}</h2>
+        <p class="mt-2 text-base-content/80">{duck.gameData.backstory}</p>
+      </div>
+      
+      <div class="mb-4">
+        <h3 class="text-lg font-semibold">Personality</h3>
+        <p class="mt-1 text-base-content/80">{duck.gameData.personality}</p>
+      </div>
+      
+      <div class="mb-4">
+        <h3 class="text-lg font-semibold">Special Ability: {duck.gameData.specialAbility.name}</h3>
+        <p class="mt-1 text-base-content/80">{duck.gameData.specialAbility.description}</p>
+      </div>
+      
+      <div class="stats stats-vertical lg:stats-horizontal shadow mb-4">
+        <div class="stat">
+          <div class="stat-title">Strength</div>
+          <div class="stat-value">{duck.gameData.stats.strength}</div>
+          <div class="stat-desc">
+            <progress 
+              class="progress progress-primary w-full" 
+              value={duck.gameData.stats.strength} 
+              max="100"
+            ></progress>
+          </div>
+        </div>
+        
+        <div class="stat">
+          <div class="stat-title">Agility</div>
+          <div class="stat-value">{duck.gameData.stats.agility}</div>
+          <div class="stat-desc">
+            <progress 
+              class="progress progress-secondary w-full" 
+              value={duck.gameData.stats.agility} 
+              max="100"
+            ></progress>
+          </div>
+        </div>
+        
+        <div class="stat">
+          <div class="stat-title">Intelligence</div>
+          <div class="stat-value">{duck.gameData.stats.intelligence}</div>
+          <div class="stat-desc">
+            <progress 
+              class="progress progress-accent w-full" 
+              value={duck.gameData.stats.intelligence} 
+              max="100"
+            ></progress>
+          </div>
+        </div>
+        
+        <div class="stat">
+          <div class="stat-title">Luck</div>
+          <div class="stat-value">{duck.gameData.stats.luck}</div>
+          <div class="stat-desc">
+            <progress 
+              class="progress progress-success w-full" 
+              value={duck.gameData.stats.luck} 
+              max="100"
+            ></progress>
+          </div>
+        </div>
+      </div>
+      
+      <div>
+        <h3 class="text-lg font-semibold mb-2">Traits</h3>
+        <div class="overflow-x-auto">
+          <table class="table table-zebra">
+            <thead>
+              <tr>
+                <th>Type</th>
+                <th>Value</th>
+                <th>Rarity</th>
+              </tr>
+            </thead>
+            <tbody>
+              {sortedTraits.map(trait => {
+                const rarityInfo = getRarityColors(trait.rarity);
+                return (
+                  <tr>
+                    <td>{trait.type}</td>
+                    <td>{trait.value}</td>
+                    <td>
+                      <div class={`badge ${rarityInfo.class}`}>
+                        {rarityInfo.text}
+                      </div>
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+      </div>
+      
+      <div class="card-actions justify-end mt-4">
+        {parseInt(duck.tokenId) > 1 && (
+          <a href={`${baseUrl}/duck/${parseInt(duck.tokenId) - 1}`} class="btn btn-primary">
+            Previous Duck
+          </a>
+        )}
+        {parseInt(duck.tokenId) < 447 && (
+          <a href={`${baseUrl}/duck/${parseInt(duck.tokenId) + 1}`} class="btn btn-primary">
+            Next Duck
+          </a>
+        )}
+      </div>
+    </div>
+  </div>
+</Layout>
