@@ -1,9 +1,89 @@
 ---
-// This is just a redirect to the first page of the gallery
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+// Count the number of ducks to show in progress bar
+const ducks = await getCollection('ducks');
+const mintedCount = ducks.length;
+const totalCount = 3333;
+const progressPercentage = (mintedCount / totalCount) * 100;
+
 const baseUrl = import.meta.env.BASE_URL;
 ---
 
-<meta http-equiv="refresh" content={`0;url=${baseUrl}/page/1`} />
-<script>
-  window.location.href = `${import.meta.env.BASE_URL}/page/1`;
-</script>
+<Layout title="Dead Ducks Collective - Home">
+  <header class="w-full bg-base-300 py-8">
+    <div class="relative">
+      <div class="absolute inset-0 bg-opacity-50"></div>
+      <div class="relative flex flex-col items-center justify-center">
+        <div class="mb-4">
+          <img 
+            src={`${baseUrl}/DDC_Logo.avif`} 
+            alt="DDC Logo" 
+            class="w-[309px] h-[238px] object-cover"
+            width="309"
+            height="238"
+            fetchpriority="high"
+          />
+        </div>
+        
+        <div class="text-center mb-6">
+          <h1 class="text-3xl underline text-center">
+            <a href="https://www.deadduckscollective.com" target="_self" class="tracking-widest">
+              HOME
+            </a>
+          </h1>
+        </div>
+        
+        <div class="text-center mb-12">
+          <h1 class="text-6xl underline text-center">
+            <a href="https://nft-generator.art/mints/cm90ffccy006003jv3i2x40bn" target="_blank" rel="noreferrer noopener" class="tracking-widest">
+              MINT
+            </a>
+          </h1>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="py-12 flex flex-col items-center">
+    <h1 class="text-5xl font-bold mb-12 text-center">THE DEAD DUCKS<br/>HAVE LANDED</h1>
+    
+    <div class="w-full max-w-2xl mb-10">
+      <div class="flex justify-between mb-2">
+        <span class="text-lg font-medium">{mintedCount} minted</span>
+        <span class="text-lg font-medium">{totalCount} total</span>
+      </div>
+      <div class="w-full bg-base-200 rounded-full h-4">
+        <div class="bg-primary h-4 rounded-full" style={`width: ${progressPercentage}%`}></div>
+      </div>
+    </div>
+
+    <div class="flex flex-col md:flex-row gap-8 justify-center items-center mt-4">
+      <a href="https://t.co/WAQZ49ELSb" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="btn btn-primary btn-lg">
+        Discord
+      </a>
+      <a href="https://x.com/DeadDucks_NFT" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="btn btn-primary btn-lg">
+        X / Twitter
+      </a>
+      <a href="https://t.me/DeadDucksCollective" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="btn btn-primary btn-lg">
+        Telegram
+      </a>
+    </div>
+    
+    <div class="mt-16 text-center">
+      <a href={`${baseUrl}/page/1`} class="btn btn-secondary btn-lg">
+        View Duck Gallery
+      </a>
+    </div>
+  </main>
+</Layout>
