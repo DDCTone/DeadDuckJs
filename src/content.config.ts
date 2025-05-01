@@ -36,7 +36,11 @@ const ducksCollection = defineCollection({
         rarity: z.string()
       })),
       generatedAt: z.string()
-    })
+    }),
+    // New fields for X posting status (all made optional with .optional())
+    postedToX: z.boolean().optional(),
+    postedToXAt: z.string().optional(),
+    tweetId: z.string().optional()
   })
 });
 
