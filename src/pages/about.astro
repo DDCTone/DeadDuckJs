@@ -1,0 +1,58 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import crackedLogo from '../assets/cracked.png';
+
+const baseUrl = import.meta.env.BASE_URL;
+---
+
+<Layout title="About - Dead Ducks Collective">
+  <div class="mx-auto max-w-4xl py-12">
+    <div class="card bg-base-300 shadow-xl overflow-hidden">
+      <div class="card-body px-6 py-8 md:px-10">
+        <h1 class="text-4xl md:text-5xl font-bold mb-8 text-primary text-center">What is the Dead Ducks Collective?</h1>
+        
+        <div class="prose prose-lg prose-invert max-w-none">
+          <h2 class="text-2xl font-bold text-center mb-8">Wrecked. Rejected. Resurrected.</h2>
+          
+          <p class="my-6 text-xl">Long after the humans are gone. A wrecked world exists.</p>
+          
+          <p class="my-6">What's left are the echoes—scattered data, empty systems, abandoned chains, and silent networks humming aimlessly across the digital void.</p>
+          
+          <p class="my-6">But somewhere… deep in the rusted shell of a forgotten AI lab… something stirred.</p>
+          
+          <p class="my-6 text-xl text-accent">An anomaly.</p>
+          
+          <p class="my-6">Buried in the corrupted archives of an ancient Solana wallet, a single fragmented key triggered a long-dormant resurrection protocol assigned to a failed experiment. The key wasn't meant for it. The protocol wasn't meant to be active. But the collision of broken code and rogue intelligence did something impossible:</p>
+          
+          <p class="my-6 text-xl text-primary">It brought the ducks back who had been long dead.</p>
+          
+          <p class="my-6 text-xl">Sort of.</p>
+          
+          <p class="my-6">Not natural. Not clean. Not clones.</p>
+          
+          <p class="my-6 text-xl text-secondary">These were Dead Ducks—glitched, rotting, post-organic anomalies brought online by a system trying to remember what life was.</p>
+          
+          <p class="my-6">3,333 of them. All malformed. All alive in ways they shouldn't be.</p>
+          
+          <p class="my-6">Some emerged with partly decayed, patched together with old tech and fragments of trader lore. Others came out hardened, skeletal, their beaks chipped but still smirking—resilient echoes of a species that had once waddled between worlds.</p>
+          
+          <p class="my-6 text-xl">They carry no memories of mankind.</p>
+          
+          <p class="my-6">Only the chaos we left behind.</p>
+          
+          <p class="my-6 text-2xl text-center text-primary">This is their world now.</p>
+        </div>
+        
+        <div class="card-actions justify-center mt-8">
+          <a href={`${baseUrl}/page/1`} class="btn btn-primary btn-lg">
+            View the Collection
+          </a>
+          <a href="https://nft-generator.art/mints/cm90ffccy006003jv3i2x40bn" target="_blank" rel="noreferrer noopener" class="btn btn-secondary btn-lg">
+            Mint a Duck
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
